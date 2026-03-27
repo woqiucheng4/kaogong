@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "综合业务部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "广西壮族自治区梧州市",
-    "currentApplicants": 2,
-    "date": "2026-03-26"
-  },
-  {
-    "department": "",
-    "jobTitle": "天津铁路公安处基层所队民警",
-    "recruitCount": 1,
-    "location": "天津市",
-    "currentApplicants": 1,
-    "date": "2026-03-26"
-  },
-  {
-    "department": "",
-    "jobTitle": "清涧调查队一级科员",
-    "recruitCount": 1,
-    "location": "陕西省榆林市清涧县",
-    "currentApplicants": 2,
-    "date": "2026-03-26"
-  },
-  {
-    "department": "",
-    "jobTitle": "阿拉善边境管理支队警务技术一级主管及以下（三）",
+    "jobTitle": "技术保障队一级警长及以下",
     "recruitCount": 2,
-    "location": "内蒙古自治区阿拉善盟",
-    "currentApplicants": 1,
-    "date": "2026-03-26"
+    "location": "吉林省长春市",
+    "currentApplicants": 0,
+    "date": "2026-03-27"
   },
   {
     "department": "",
-    "jobTitle": "辖区法律类监管岗位一级主任科员及以下",
+    "jobTitle": "财会部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "湖北省武汉市",
+    "location": "江苏省无锡市",
+    "currentApplicants": 0,
+    "date": "2026-03-27"
+  },
+  {
+    "department": "",
+    "jobTitle": "综合部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "安徽省合肥市巢湖市",
+    "currentApplicants": 0,
+    "date": "2026-03-27"
+  },
+  {
+    "department": "",
+    "jobTitle": "动植物检疫四级主办及以下",
+    "recruitCount": 1,
+    "location": "云南省临沧市镇康县",
     "currentApplicants": 2,
-    "date": "2026-03-26"
+    "date": "2026-03-27"
+  },
+  {
+    "department": "",
+    "jobTitle": "综合部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "浙江省杭州市萧山区",
+    "currentApplicants": 1,
+    "date": "2026-03-27"
   }
 ]
