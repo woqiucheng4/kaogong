@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "办公室一级主任科员及以下",
+    "jobTitle": "法制工作四级主办及以下",
     "recruitCount": 1,
-    "location": "新疆维吾尔自治区巴音郭楞蒙古自治州库尔勒市",
+    "location": "山东省青岛市",
+    "currentApplicants": 1,
+    "date": "2026-03-29"
+  },
+  {
+    "department": "",
+    "jobTitle": "满洲里出入境边防检查站一级警长及以下（四）",
+    "recruitCount": 2,
+    "location": "内蒙古自治区呼伦贝尔市满洲里市",
+    "currentApplicants": 1,
+    "date": "2026-03-29"
+  },
+  {
+    "department": "",
+    "jobTitle": "机关党委办公室一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "西藏自治区拉萨市城关区",
+    "currentApplicants": 0,
+    "date": "2026-03-29"
+  },
+  {
+    "department": "",
+    "jobTitle": "延边边境管理支队一级警长及以下（三）",
+    "recruitCount": 2,
+    "location": "吉林省延边朝鲜族自治州",
     "currentApplicants": 2,
-    "date": "2026-03-28"
+    "date": "2026-03-29"
   },
   {
     "department": "",
-    "jobTitle": "丽江出入境边防检查站一级警长及以下（二）",
+    "jobTitle": "通化边境管理支队一级警长及以下（十）",
     "recruitCount": 1,
-    "location": "云南省丽江市",
+    "location": "吉林省通化市集安市",
     "currentApplicants": 1,
-    "date": "2026-03-28"
-  },
-  {
-    "department": "",
-    "jobTitle": "空中交通管理处一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "山东省济南市",
-    "currentApplicants": 1,
-    "date": "2026-03-28"
-  },
-  {
-    "department": "",
-    "jobTitle": "王营盘闸管理所一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "河北省沧州市东光县",
-    "currentApplicants": 0,
-    "date": "2026-03-28"
-  },
-  {
-    "department": "",
-    "jobTitle": "一级科员一",
-    "recruitCount": 1,
-    "location": "江苏省苏州市",
-    "currentApplicants": 0,
-    "date": "2026-03-28"
+    "date": "2026-03-29"
   }
 ]
