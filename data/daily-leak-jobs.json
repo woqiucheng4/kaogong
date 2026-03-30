@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "法制工作四级主办及以下",
-    "recruitCount": 1,
-    "location": "山东省青岛市",
-    "currentApplicants": 1,
-    "date": "2026-03-29"
-  },
-  {
-    "department": "",
-    "jobTitle": "满洲里出入境边防检查站一级警长及以下（四）",
-    "recruitCount": 2,
-    "location": "内蒙古自治区呼伦贝尔市满洲里市",
-    "currentApplicants": 1,
-    "date": "2026-03-29"
-  },
-  {
-    "department": "",
-    "jobTitle": "机关党委办公室一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "西藏自治区拉萨市城关区",
-    "currentApplicants": 0,
-    "date": "2026-03-29"
-  },
-  {
-    "department": "",
-    "jobTitle": "延边边境管理支队一级警长及以下（三）",
-    "recruitCount": 2,
-    "location": "吉林省延边朝鲜族自治州",
+    "jobTitle": "都拉塔出入境边防检查站一级警长及以下（二）",
+    "recruitCount": 4,
+    "location": "新疆维吾尔自治区伊犁哈萨克自治州察布查尔锡伯自治县",
     "currentApplicants": 2,
-    "date": "2026-03-29"
+    "date": "2026-03-30"
   },
   {
     "department": "",
-    "jobTitle": "通化边境管理支队一级警长及以下（十）",
+    "jobTitle": "一级科员",
     "recruitCount": 1,
-    "location": "吉林省通化市集安市",
+    "location": "黑龙江省大兴安岭地区",
+    "currentApplicants": 2,
+    "date": "2026-03-30"
+  },
+  {
+    "department": "",
+    "jobTitle": "喀什边境管理支队一级警长及以下（六）",
+    "recruitCount": 5,
+    "location": "新疆维吾尔自治区喀什地区",
+    "currentApplicants": 0,
+    "date": "2026-03-30"
+  },
+  {
+    "department": "",
+    "jobTitle": "林芝边境管理支队一级警长及以下（十三）",
+    "recruitCount": 1,
+    "location": "西藏自治区林芝市",
     "currentApplicants": 1,
-    "date": "2026-03-29"
+    "date": "2026-03-30"
+  },
+  {
+    "department": "",
+    "jobTitle": "日喀则边境管理支队一级警长及以下（十三）",
+    "recruitCount": 1,
+    "location": "西藏自治区日喀则市",
+    "currentApplicants": 2,
+    "date": "2026-03-30"
   }
 ]
