@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "都拉塔出入境边防检查站一级警长及以下（二）",
+    "jobTitle": "衡阳铁路公安处基层所队民警",
+    "recruitCount": 1,
+    "location": "湖南省郴州市",
+    "currentApplicants": 1,
+    "date": "2026-03-31"
+  },
+  {
+    "department": "",
+    "jobTitle": "一级主任科员及以下",
     "recruitCount": 4,
-    "location": "新疆维吾尔自治区伊犁哈萨克自治州察布查尔锡伯自治县",
-    "currentApplicants": 2,
-    "date": "2026-03-30"
+    "location": "江苏省南京市",
+    "currentApplicants": 0,
+    "date": "2026-03-31"
   },
   {
     "department": "",
     "jobTitle": "一级科员",
     "recruitCount": 1,
-    "location": "黑龙江省大兴安岭地区",
-    "currentApplicants": 2,
-    "date": "2026-03-30"
-  },
-  {
-    "department": "",
-    "jobTitle": "喀什边境管理支队一级警长及以下（六）",
-    "recruitCount": 5,
-    "location": "新疆维吾尔自治区喀什地区",
+    "location": "广东省佛山市",
     "currentApplicants": 0,
-    "date": "2026-03-30"
+    "date": "2026-03-31"
   },
   {
     "department": "",
-    "jobTitle": "林芝边境管理支队一级警长及以下（十三）",
+    "jobTitle": "综合业务部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "西藏自治区林芝市",
-    "currentApplicants": 1,
-    "date": "2026-03-30"
-  },
-  {
-    "department": "",
-    "jobTitle": "日喀则边境管理支队一级警长及以下（十三）",
-    "recruitCount": 1,
-    "location": "西藏自治区日喀则市",
+    "location": "河北省衡水市",
     "currentApplicants": 2,
-    "date": "2026-03-30"
+    "date": "2026-03-31"
+  },
+  {
+    "department": "",
+    "jobTitle": "安康铁路公安处基层所队民警",
+    "recruitCount": 3,
+    "location": "陕西省",
+    "currentApplicants": 1,
+    "date": "2026-03-31"
   }
 ]
