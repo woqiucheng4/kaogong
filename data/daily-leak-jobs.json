@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "财会部门一级主任科员及以下",
+    "jobTitle": "训练处一级警长及以下（六）",
     "recruitCount": 1,
-    "location": "河南省信阳市罗山县",
+    "location": "云南省昆明市",
     "currentApplicants": 1,
-    "date": "2026-04-01"
+    "date": "2026-04-02"
   },
   {
     "department": "",
-    "jobTitle": "督察业务处一级主任科员及以下",
-    "recruitCount": 2,
-    "location": "广东省广州市",
+    "jobTitle": "延安铁路公安处基层所队民警",
+    "recruitCount": 1,
+    "location": "陕西省",
     "currentApplicants": 0,
-    "date": "2026-04-01"
+    "date": "2026-04-02"
   },
   {
     "department": "",
     "jobTitle": "综合业务部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "安徽省合肥市",
-    "currentApplicants": 1,
-    "date": "2026-04-01"
+    "location": "四川省广安市",
+    "currentApplicants": 2,
+    "date": "2026-04-02"
   },
   {
     "department": "",
-    "jobTitle": "呼和浩特调查队业务科室四级主任科员（2）",
+    "jobTitle": "北京铁路公安处基层所队民警",
     "recruitCount": 1,
-    "location": "内蒙古自治区呼和浩特市",
-    "currentApplicants": 0,
-    "date": "2026-04-01"
+    "location": "河北省承德市",
+    "currentApplicants": 2,
+    "date": "2026-04-02"
   },
   {
     "department": "",
-    "jobTitle": "霍尔果斯海关缉私分局一级警长及以下",
-    "recruitCount": 3,
-    "location": "新疆维吾尔自治区伊犁哈萨克自治州霍尔果斯市",
-    "currentApplicants": 1,
-    "date": "2026-04-01"
+    "jobTitle": "锦州铁路公安处基层所队民警",
+    "recruitCount": 2,
+    "location": "辽宁省葫芦岛市",
+    "currentApplicants": 0,
+    "date": "2026-04-02"
   }
 ]
