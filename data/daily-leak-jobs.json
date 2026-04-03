@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "训练处一级警长及以下（六）",
+    "jobTitle": "南宁遣返站执行队一级警长及以下（一）",
     "recruitCount": 1,
-    "location": "云南省昆明市",
-    "currentApplicants": 1,
-    "date": "2026-04-02"
+    "location": "广西壮族自治区南宁市",
+    "currentApplicants": 2,
+    "date": "2026-04-03"
   },
   {
     "department": "",
-    "jobTitle": "延安铁路公安处基层所队民警",
+    "jobTitle": "监管部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "陕西省",
+    "location": "河北省廊坊市大城县",
     "currentApplicants": 0,
-    "date": "2026-04-02"
+    "date": "2026-04-03"
   },
   {
     "department": "",
-    "jobTitle": "综合业务部门一级主任科员及以下",
+    "jobTitle": "九洲海关缉私分局一级警长及以下",
     "recruitCount": 1,
-    "location": "四川省广安市",
-    "currentApplicants": 2,
-    "date": "2026-04-02"
+    "location": "广东省珠海市",
+    "currentApplicants": 0,
+    "date": "2026-04-03"
   },
   {
     "department": "",
-    "jobTitle": "北京铁路公安处基层所队民警",
+    "jobTitle": "办公室一级主任科员及以下",
     "recruitCount": 1,
-    "location": "河北省承德市",
+    "location": "辽宁省沈阳市",
     "currentApplicants": 2,
-    "date": "2026-04-02"
+    "date": "2026-04-03"
   },
   {
     "department": "",
-    "jobTitle": "锦州铁路公安处基层所队民警",
+    "jobTitle": "延边边境管理支队一级警长及以下（一）",
     "recruitCount": 2,
-    "location": "辽宁省葫芦岛市",
+    "location": "吉林省延边朝鲜族自治州",
     "currentApplicants": 0,
-    "date": "2026-04-02"
+    "date": "2026-04-03"
   }
 ]
