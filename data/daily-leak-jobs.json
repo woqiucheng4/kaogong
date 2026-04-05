@@ -1,42 +1,42 @@
 [
   {
     "department": "",
+    "jobTitle": "法规部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "安徽省六安市裕安区",
+    "currentApplicants": 2,
+    "date": "2026-04-05"
+  },
+  {
+    "department": "",
+    "jobTitle": "武安调查队一级科员",
+    "recruitCount": 1,
+    "location": "河北省邯郸市武安市",
+    "currentApplicants": 0,
+    "date": "2026-04-05"
+  },
+  {
+    "department": "",
     "jobTitle": "一级行政执法员（三）",
     "recruitCount": 1,
-    "location": "河北省唐山市曹妃甸区",
+    "location": "江苏省南京市浦口区",
     "currentApplicants": 2,
-    "date": "2026-04-04"
+    "date": "2026-04-05"
   },
   {
     "department": "",
-    "jobTitle": "鲅鱼圈出入境边防检查站一级警长及以下（二）",
+    "jobTitle": "深圳铁路公安处基层所队民警",
     "recruitCount": 1,
-    "location": "辽宁省营口市",
+    "location": "广东省东莞市",
     "currentApplicants": 2,
-    "date": "2026-04-04"
+    "date": "2026-04-05"
   },
   {
     "department": "",
-    "jobTitle": "监管部门一级主任科员及以下",
+    "jobTitle": "一级行政执法员（二）",
     "recruitCount": 1,
-    "location": "山西省临汾市隰县",
-    "currentApplicants": 0,
-    "date": "2026-04-04"
-  },
-  {
-    "department": "",
-    "jobTitle": "一级主办及以下（四）",
-    "recruitCount": 1,
-    "location": "云南省大理白族自治州大理市",
-    "currentApplicants": 0,
-    "date": "2026-04-04"
-  },
-  {
-    "department": "",
-    "jobTitle": "一级行政执法员（四）",
-    "recruitCount": 1,
-    "location": "海南省",
-    "currentApplicants": 1,
-    "date": "2026-04-04"
+    "location": "广西壮族自治区来宾市",
+    "currentApplicants": 2,
+    "date": "2026-04-05"
   }
 ]
