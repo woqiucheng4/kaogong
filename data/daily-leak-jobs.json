@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "任丘调查队一级科员(1)",
+    "jobTitle": "怀化铁路公安处基层所队民警",
     "recruitCount": 1,
-    "location": "河北省沧州市任丘市",
+    "location": "贵州省铜仁市",
+    "currentApplicants": 0,
+    "date": "2026-04-07"
+  },
+  {
+    "department": "",
+    "jobTitle": "空中交通管理处一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "山东省济南市",
     "currentApplicants": 2,
-    "date": "2026-04-06"
+    "date": "2026-04-07"
   },
   {
     "department": "",
-    "jobTitle": "一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "青海省海东市",
-    "currentApplicants": 1,
-    "date": "2026-04-06"
-  },
-  {
-    "department": "",
-    "jobTitle": "新乡黄河工会一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "河南省新乡市",
-    "currentApplicants": 1,
-    "date": "2026-04-06"
-  },
-  {
-    "department": "",
-    "jobTitle": "一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "青海省西宁市",
-    "currentApplicants": 1,
-    "date": "2026-04-06"
-  },
-  {
-    "department": "",
-    "jobTitle": "清涧调查队一级科员",
-    "recruitCount": 1,
-    "location": "陕西省榆林市清涧县",
+    "jobTitle": "稽核查监管四级主办及以下（二）",
+    "recruitCount": 2,
+    "location": "广东省珠海市",
     "currentApplicants": 2,
-    "date": "2026-04-06"
+    "date": "2026-04-07"
+  },
+  {
+    "department": "",
+    "jobTitle": "科技管理（电子信息化类）四级主办及以下（二）",
+    "recruitCount": 1,
+    "location": "山东省青岛市",
+    "currentApplicants": 0,
+    "date": "2026-04-07"
+  },
+  {
+    "department": "",
+    "jobTitle": "北京铁路公安处基层所队民警",
+    "recruitCount": 1,
+    "location": "河北省张家口市",
+    "currentApplicants": 2,
+    "date": "2026-04-07"
   }
 ]
