@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "怀化铁路公安处基层所队民警",
+    "jobTitle": "海拉尔海关缉私分局一级警长及以下",
     "recruitCount": 1,
-    "location": "贵州省铜仁市",
+    "location": "内蒙古自治区呼伦贝尔市",
+    "currentApplicants": 1,
+    "date": "2026-04-08"
+  },
+  {
+    "department": "",
+    "jobTitle": "综合业务四级主办及以下",
+    "recruitCount": 3,
+    "location": "广东省茂名市",
     "currentApplicants": 0,
-    "date": "2026-04-07"
+    "date": "2026-04-08"
   },
   {
     "department": "",
-    "jobTitle": "空中交通管理处一级主任科员及以下",
+    "jobTitle": "行政管理一级行政执法员",
     "recruitCount": 1,
-    "location": "山东省济南市",
-    "currentApplicants": 2,
-    "date": "2026-04-07"
-  },
-  {
-    "department": "",
-    "jobTitle": "稽核查监管四级主办及以下（二）",
-    "recruitCount": 2,
-    "location": "广东省珠海市",
-    "currentApplicants": 2,
-    "date": "2026-04-07"
-  },
-  {
-    "department": "",
-    "jobTitle": "科技管理（电子信息化类）四级主办及以下（二）",
-    "recruitCount": 1,
-    "location": "山东省青岛市",
+    "location": "河北省衡水市",
     "currentApplicants": 0,
-    "date": "2026-04-07"
+    "date": "2026-04-08"
   },
   {
     "department": "",
-    "jobTitle": "北京铁路公安处基层所队民警",
+    "jobTitle": "一级行政执法员（五）",
     "recruitCount": 1,
-    "location": "河北省张家口市",
+    "location": "广东省中山市",
+    "currentApplicants": 1,
+    "date": "2026-04-08"
+  },
+  {
+    "department": "",
+    "jobTitle": "综合业务部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "湖北省咸宁市",
     "currentApplicants": 2,
-    "date": "2026-04-07"
+    "date": "2026-04-08"
   }
 ]
