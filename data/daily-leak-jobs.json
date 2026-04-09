@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "海拉尔海关缉私分局一级警长及以下",
-    "recruitCount": 1,
-    "location": "内蒙古自治区呼伦贝尔市",
+    "jobTitle": "重庆铁路公安处基层所队民警",
+    "recruitCount": 2,
+    "location": "重庆市",
     "currentApplicants": 1,
-    "date": "2026-04-08"
+    "date": "2026-04-09"
   },
   {
     "department": "",
-    "jobTitle": "综合业务四级主办及以下",
-    "recruitCount": 3,
-    "location": "广东省茂名市",
-    "currentApplicants": 0,
-    "date": "2026-04-08"
-  },
-  {
-    "department": "",
-    "jobTitle": "行政管理一级行政执法员",
-    "recruitCount": 1,
-    "location": "河北省衡水市",
-    "currentApplicants": 0,
-    "date": "2026-04-08"
-  },
-  {
-    "department": "",
-    "jobTitle": "一级行政执法员（五）",
-    "recruitCount": 1,
-    "location": "广东省中山市",
+    "jobTitle": "德宏边境管理支队一级警长及以下（一）",
+    "recruitCount": 2,
+    "location": "云南省德宏傣族景颇族自治州",
     "currentApplicants": 1,
-    "date": "2026-04-08"
+    "date": "2026-04-09"
   },
   {
     "department": "",
     "jobTitle": "综合业务部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "湖北省咸宁市",
-    "currentApplicants": 2,
-    "date": "2026-04-08"
+    "location": "重庆市江津区",
+    "currentApplicants": 0,
+    "date": "2026-04-09"
+  },
+  {
+    "department": "",
+    "jobTitle": "法规部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "江西省抚州市",
+    "currentApplicants": 0,
+    "date": "2026-04-09"
+  },
+  {
+    "department": "",
+    "jobTitle": "科技部门一级主任科员及以下",
+    "recruitCount": 3,
+    "location": "辽宁省沈阳市",
+    "currentApplicants": 0,
+    "date": "2026-04-09"
   }
 ]
