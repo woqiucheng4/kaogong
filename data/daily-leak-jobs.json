@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "海关货物查验四级主办及以下",
+    "jobTitle": "业务管理科一级主任科员及以下",
     "recruitCount": 1,
-    "location": "广东省江门市",
+    "location": "新疆维吾尔自治区石河子市",
+    "currentApplicants": 1,
+    "date": "2026-04-14"
+  },
+  {
+    "department": "",
+    "jobTitle": "德州河务局一级主任科员及以下（一）",
+    "recruitCount": 1,
+    "location": "山东省德州市",
     "currentApplicants": 2,
-    "date": "2026-04-13"
+    "date": "2026-04-14"
   },
   {
     "department": "",
-    "jobTitle": "北仑海关缉私分局一级警长及以下",
+    "jobTitle": "一级主任科员及以下",
     "recruitCount": 1,
-    "location": "浙江省宁波市",
+    "location": "青海省西宁市",
     "currentApplicants": 0,
-    "date": "2026-04-13"
+    "date": "2026-04-14"
   },
   {
     "department": "",
-    "jobTitle": "鹰潭铁路公安处基层所队民警",
+    "jobTitle": "一级科员",
     "recruitCount": 1,
-    "location": "江西省",
-    "currentApplicants": 0,
-    "date": "2026-04-13"
-  },
-  {
-    "department": "",
-    "jobTitle": "勐康出入境边防检查站一级警长及以下（四）",
-    "recruitCount": 2,
-    "location": "云南省普洱市",
+    "location": "江苏省盐城市",
     "currentApplicants": 1,
-    "date": "2026-04-13"
+    "date": "2026-04-14"
   },
   {
     "department": "",
-    "jobTitle": "秦皇岛铁路公安处基层所队民警",
+    "jobTitle": "一级科员",
     "recruitCount": 1,
-    "location": "河北省秦皇岛市",
+    "location": "安徽省滁州市",
     "currentApplicants": 1,
-    "date": "2026-04-13"
+    "date": "2026-04-14"
   }
 ]
