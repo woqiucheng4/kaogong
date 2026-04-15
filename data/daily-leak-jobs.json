@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "业务管理科一级主任科员及以下",
+    "jobTitle": "科技部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "新疆维吾尔自治区石河子市",
-    "currentApplicants": 1,
-    "date": "2026-04-14"
-  },
-  {
-    "department": "",
-    "jobTitle": "德州河务局一级主任科员及以下（一）",
-    "recruitCount": 1,
-    "location": "山东省德州市",
+    "location": "河南省周口市",
     "currentApplicants": 2,
-    "date": "2026-04-14"
+    "date": "2026-04-15"
   },
   {
     "department": "",
-    "jobTitle": "一级主任科员及以下",
+    "jobTitle": "一级行政执法员（二）",
     "recruitCount": 1,
-    "location": "青海省西宁市",
+    "location": "海南省",
+    "currentApplicants": 2,
+    "date": "2026-04-15"
+  },
+  {
+    "department": "",
+    "jobTitle": "一级行政执法员（四）",
+    "recruitCount": 1,
+    "location": "湖北省荆州市",
+    "currentApplicants": 2,
+    "date": "2026-04-15"
+  },
+  {
+    "department": "",
+    "jobTitle": "行政管理一级行政执法员",
+    "recruitCount": 1,
+    "location": "河北省衡水市",
     "currentApplicants": 0,
-    "date": "2026-04-14"
+    "date": "2026-04-15"
   },
   {
     "department": "",
-    "jobTitle": "一级科员",
-    "recruitCount": 1,
-    "location": "江苏省盐城市",
-    "currentApplicants": 1,
-    "date": "2026-04-14"
-  },
-  {
-    "department": "",
-    "jobTitle": "一级科员",
-    "recruitCount": 1,
-    "location": "安徽省滁州市",
-    "currentApplicants": 1,
-    "date": "2026-04-14"
+    "jobTitle": "监管工作一级行政执法员",
+    "recruitCount": 3,
+    "location": "天津市",
+    "currentApplicants": 0,
+    "date": "2026-04-15"
   }
 ]
