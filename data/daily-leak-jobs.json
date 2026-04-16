@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "科技部门一级主任科员及以下",
+    "jobTitle": "综合部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "河南省周口市",
+    "location": "广东省韶关市乳源瑶族自治县",
     "currentApplicants": 2,
-    "date": "2026-04-15"
+    "date": "2026-04-16"
   },
   {
     "department": "",
-    "jobTitle": "一级行政执法员（二）",
+    "jobTitle": "阿里边境管理支队一级警长及以下（十二）",
     "recruitCount": 1,
-    "location": "海南省",
+    "location": "西藏自治区阿里地区",
+    "currentApplicants": 1,
+    "date": "2026-04-16"
+  },
+  {
+    "department": "",
+    "jobTitle": "伊尔克什坦出入境边防检查站一级警长及以下（四）",
+    "recruitCount": 2,
+    "location": "新疆维吾尔自治区克孜勒苏柯尔克孜自治州乌恰县",
     "currentApplicants": 2,
-    "date": "2026-04-15"
+    "date": "2026-04-16"
   },
   {
     "department": "",
-    "jobTitle": "一级行政执法员（四）",
+    "jobTitle": "一级科员二",
     "recruitCount": 1,
-    "location": "湖北省荆州市",
-    "currentApplicants": 2,
-    "date": "2026-04-15"
+    "location": "江苏省苏州市",
+    "currentApplicants": 1,
+    "date": "2026-04-16"
   },
   {
     "department": "",
-    "jobTitle": "行政管理一级行政执法员",
+    "jobTitle": "西宁出入境边防检查站一级警长及以下（三）",
     "recruitCount": 1,
-    "location": "河北省衡水市",
-    "currentApplicants": 0,
-    "date": "2026-04-15"
-  },
-  {
-    "department": "",
-    "jobTitle": "监管工作一级行政执法员",
-    "recruitCount": 3,
-    "location": "天津市",
-    "currentApplicants": 0,
-    "date": "2026-04-15"
+    "location": "青海省西宁市",
+    "currentApplicants": 1,
+    "date": "2026-04-16"
   }
 ]
