@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "综合部门一级主任科员及以下",
+    "jobTitle": "东兴遣返中心执行队一级警长及以下（四）",
     "recruitCount": 1,
-    "location": "广东省韶关市乳源瑶族自治县",
-    "currentApplicants": 2,
-    "date": "2026-04-16"
-  },
-  {
-    "department": "",
-    "jobTitle": "阿里边境管理支队一级警长及以下（十二）",
-    "recruitCount": 1,
-    "location": "西藏自治区阿里地区",
+    "location": "广西壮族自治区防城港市东兴市",
     "currentApplicants": 1,
-    "date": "2026-04-16"
+    "date": "2026-04-17"
   },
   {
     "department": "",
-    "jobTitle": "伊尔克什坦出入境边防检查站一级警长及以下（四）",
+    "jobTitle": "郑州铁路公安处基层所队民警",
     "recruitCount": 2,
-    "location": "新疆维吾尔自治区克孜勒苏柯尔克孜自治州乌恰县",
+    "location": "河南省",
+    "currentApplicants": 1,
+    "date": "2026-04-17"
+  },
+  {
+    "department": "",
+    "jobTitle": "稽查局一级主任科员及以下（一）",
+    "recruitCount": 2,
+    "location": "黑龙江省哈尔滨市南岗区",
     "currentApplicants": 2,
-    "date": "2026-04-16"
+    "date": "2026-04-17"
   },
   {
     "department": "",
-    "jobTitle": "一级科员二",
+    "jobTitle": "一级行政执法员（一）",
     "recruitCount": 1,
-    "location": "江苏省苏州市",
-    "currentApplicants": 1,
-    "date": "2026-04-16"
+    "location": "江西省九江市",
+    "currentApplicants": 0,
+    "date": "2026-04-17"
   },
   {
     "department": "",
-    "jobTitle": "西宁出入境边防检查站一级警长及以下（三）",
+    "jobTitle": "重庆铁路公安处基层所队民警",
     "recruitCount": 1,
-    "location": "青海省西宁市",
-    "currentApplicants": 1,
-    "date": "2026-04-16"
+    "location": "重庆市",
+    "currentApplicants": 0,
+    "date": "2026-04-17"
   }
 ]
