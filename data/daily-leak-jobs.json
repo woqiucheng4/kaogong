@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "东兴遣返中心执行队一级警长及以下（四）",
-    "recruitCount": 1,
-    "location": "广西壮族自治区防城港市东兴市",
-    "currentApplicants": 1,
-    "date": "2026-04-17"
-  },
-  {
-    "department": "",
-    "jobTitle": "郑州铁路公安处基层所队民警",
-    "recruitCount": 2,
-    "location": "河南省",
-    "currentApplicants": 1,
-    "date": "2026-04-17"
-  },
-  {
-    "department": "",
-    "jobTitle": "稽查局一级主任科员及以下（一）",
-    "recruitCount": 2,
-    "location": "黑龙江省哈尔滨市南岗区",
-    "currentApplicants": 2,
-    "date": "2026-04-17"
-  },
-  {
-    "department": "",
-    "jobTitle": "一级行政执法员（一）",
-    "recruitCount": 1,
-    "location": "江西省九江市",
-    "currentApplicants": 0,
-    "date": "2026-04-17"
-  },
-  {
-    "department": "",
     "jobTitle": "重庆铁路公安处基层所队民警",
     "recruitCount": 1,
     "location": "重庆市",
     "currentApplicants": 0,
-    "date": "2026-04-17"
+    "date": "2026-04-18"
+  },
+  {
+    "department": "",
+    "jobTitle": "监管部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "江苏省南通市",
+    "currentApplicants": 0,
+    "date": "2026-04-18"
+  },
+  {
+    "department": "",
+    "jobTitle": "法制管理四级主办",
+    "recruitCount": 1,
+    "location": "广东省潮州市",
+    "currentApplicants": 2,
+    "date": "2026-04-18"
+  },
+  {
+    "department": "",
+    "jobTitle": "一级主办及以下（二）",
+    "recruitCount": 1,
+    "location": "云南省大理白族自治州大理市",
+    "currentApplicants": 1,
+    "date": "2026-04-18"
+  },
+  {
+    "department": "",
+    "jobTitle": "西昌铁路公安处基层所队民警",
+    "recruitCount": 5,
+    "location": "四川省",
+    "currentApplicants": 1,
+    "date": "2026-04-18"
   }
 ]
