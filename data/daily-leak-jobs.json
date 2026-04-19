@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "重庆铁路公安处基层所队民警",
+    "jobTitle": "阿拉善边境管理支队一级警长及以下（四）",
+    "recruitCount": 2,
+    "location": "内蒙古自治区阿拉善盟",
+    "currentApplicants": 0,
+    "date": "2026-04-19"
+  },
+  {
+    "department": "",
+    "jobTitle": "天津铁路公安处基层所队民警",
+    "recruitCount": 1,
+    "location": "天津市",
+    "currentApplicants": 1,
+    "date": "2026-04-19"
+  },
+  {
+    "department": "",
+    "jobTitle": "监管一级行政执法员",
+    "recruitCount": 2,
+    "location": "黑龙江省",
+    "currentApplicants": 2,
+    "date": "2026-04-19"
+  },
+  {
+    "department": "",
+    "jobTitle": "一级主任科员及以下",
     "recruitCount": 1,
     "location": "重庆市",
-    "currentApplicants": 0,
-    "date": "2026-04-18"
-  },
-  {
-    "department": "",
-    "jobTitle": "监管部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "江苏省南通市",
-    "currentApplicants": 0,
-    "date": "2026-04-18"
-  },
-  {
-    "department": "",
-    "jobTitle": "法制管理四级主办",
-    "recruitCount": 1,
-    "location": "广东省潮州市",
     "currentApplicants": 2,
-    "date": "2026-04-18"
+    "date": "2026-04-19"
   },
   {
     "department": "",
-    "jobTitle": "一级主办及以下（二）",
+    "jobTitle": "财务一级行政执法员",
     "recruitCount": 1,
-    "location": "云南省大理白族自治州大理市",
+    "location": "江苏省苏州市常熟市",
     "currentApplicants": 1,
-    "date": "2026-04-18"
-  },
-  {
-    "department": "",
-    "jobTitle": "西昌铁路公安处基层所队民警",
-    "recruitCount": 5,
-    "location": "四川省",
-    "currentApplicants": 1,
-    "date": "2026-04-18"
+    "date": "2026-04-19"
   }
 ]
