@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "阿拉善边境管理支队一级警长及以下（四）",
-    "recruitCount": 2,
-    "location": "内蒙古自治区阿拉善盟",
-    "currentApplicants": 0,
-    "date": "2026-04-19"
-  },
-  {
-    "department": "",
-    "jobTitle": "天津铁路公安处基层所队民警",
-    "recruitCount": 1,
+    "jobTitle": "辖区会计类监管岗位一级主任科员及以下",
+    "recruitCount": 3,
     "location": "天津市",
-    "currentApplicants": 1,
-    "date": "2026-04-19"
-  },
-  {
-    "department": "",
-    "jobTitle": "监管一级行政执法员",
-    "recruitCount": 2,
-    "location": "黑龙江省",
     "currentApplicants": 2,
-    "date": "2026-04-19"
+    "date": "2026-04-20"
   },
   {
     "department": "",
-    "jobTitle": "一级主任科员及以下",
+    "jobTitle": "科技部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "重庆市",
+    "location": "云南省迪庆藏族自治州维西傈僳族自治县",
     "currentApplicants": 2,
-    "date": "2026-04-19"
+    "date": "2026-04-20"
   },
   {
     "department": "",
-    "jobTitle": "财务一级行政执法员",
+    "jobTitle": "法规部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "江苏省苏州市常熟市",
-    "currentApplicants": 1,
-    "date": "2026-04-19"
+    "location": "广西壮族自治区南宁市隆安县",
+    "currentApplicants": 0,
+    "date": "2026-04-20"
+  },
+  {
+    "department": "",
+    "jobTitle": "训练处一级警长及以下（五）",
+    "recruitCount": 1,
+    "location": "云南省昆明市",
+    "currentApplicants": 2,
+    "date": "2026-04-20"
+  },
+  {
+    "department": "",
+    "jobTitle": "监管部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "湖南省永州市江华瑶族自治县",
+    "currentApplicants": 0,
+    "date": "2026-04-20"
   }
 ]
