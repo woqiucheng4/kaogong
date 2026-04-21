@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "辖区会计类监管岗位一级主任科员及以下",
+    "jobTitle": "边检站一级警长及以下（五）",
     "recruitCount": 3,
-    "location": "天津市",
+    "location": "吉林省延边朝鲜族自治州",
     "currentApplicants": 2,
-    "date": "2026-04-20"
+    "date": "2026-04-21"
   },
   {
     "department": "",
-    "jobTitle": "科技部门一级主任科员及以下",
+    "jobTitle": "一级主任科员及以下",
     "recruitCount": 1,
-    "location": "云南省迪庆藏族自治州维西傈僳族自治县",
+    "location": "四川省成都市",
     "currentApplicants": 2,
-    "date": "2026-04-20"
+    "date": "2026-04-21"
   },
   {
     "department": "",
-    "jobTitle": "法规部门一级主任科员及以下",
+    "jobTitle": "一级行政执法员（四）",
     "recruitCount": 1,
-    "location": "广西壮族自治区南宁市隆安县",
+    "location": "辽宁省大连市",
+    "currentApplicants": 1,
+    "date": "2026-04-21"
+  },
+  {
+    "department": "",
+    "jobTitle": "一级警长及以下（一）",
+    "recruitCount": 1,
+    "location": "重庆市",
     "currentApplicants": 0,
-    "date": "2026-04-20"
+    "date": "2026-04-21"
   },
   {
     "department": "",
-    "jobTitle": "训练处一级警长及以下（五）",
-    "recruitCount": 1,
-    "location": "云南省昆明市",
-    "currentApplicants": 2,
-    "date": "2026-04-20"
-  },
-  {
-    "department": "",
-    "jobTitle": "监管部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "湖南省永州市江华瑶族自治县",
+    "jobTitle": "边检站一级警长及以下（七）",
+    "recruitCount": 3,
+    "location": "吉林省延边朝鲜族自治州",
     "currentApplicants": 0,
-    "date": "2026-04-20"
+    "date": "2026-04-21"
   }
 ]
