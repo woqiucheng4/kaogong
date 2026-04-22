@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "边检站一级警长及以下（五）",
-    "recruitCount": 3,
-    "location": "吉林省延边朝鲜族自治州",
-    "currentApplicants": 2,
-    "date": "2026-04-21"
+    "jobTitle": "德宏边境管理支队一级警长及以下（二）",
+    "recruitCount": 1,
+    "location": "云南省德宏傣族景颇族自治州",
+    "currentApplicants": 0,
+    "date": "2026-04-22"
   },
   {
     "department": "",
     "jobTitle": "一级主任科员及以下",
     "recruitCount": 1,
-    "location": "四川省成都市",
+    "location": "内蒙古自治区呼和浩特市",
+    "currentApplicants": 0,
+    "date": "2026-04-22"
+  },
+  {
+    "department": "",
+    "jobTitle": "综合业务部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "浙江省宁波市",
     "currentApplicants": 2,
-    "date": "2026-04-21"
+    "date": "2026-04-22"
   },
   {
     "department": "",
-    "jobTitle": "一级行政执法员（四）",
-    "recruitCount": 1,
-    "location": "辽宁省大连市",
-    "currentApplicants": 1,
-    "date": "2026-04-21"
-  },
-  {
-    "department": "",
-    "jobTitle": "一级警长及以下（一）",
-    "recruitCount": 1,
-    "location": "重庆市",
+    "jobTitle": "一级行政执法员（八）",
+    "recruitCount": 2,
+    "location": "海南省",
     "currentApplicants": 0,
-    "date": "2026-04-21"
+    "date": "2026-04-22"
   },
   {
     "department": "",
-    "jobTitle": "边检站一级警长及以下（七）",
-    "recruitCount": 3,
-    "location": "吉林省延边朝鲜族自治州",
-    "currentApplicants": 0,
-    "date": "2026-04-21"
+    "jobTitle": "科技管理（电子信息化类）四级主办及以下",
+    "recruitCount": 1,
+    "location": "福建省厦门市",
+    "currentApplicants": 2,
+    "date": "2026-04-22"
   }
 ]
