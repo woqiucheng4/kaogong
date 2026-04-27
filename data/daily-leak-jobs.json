@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "科技部门一级主任科员及以下",
+    "jobTitle": "一级行政执法员（三）",
     "recruitCount": 1,
-    "location": "黑龙江省大庆市",
+    "location": "江苏省南京市浦口区",
     "currentApplicants": 1,
-    "date": "2026-04-26"
+    "date": "2026-04-27"
   },
   {
     "department": "",
-    "jobTitle": "龙邦出入境边防检查站一级警长及以下（一）",
+    "jobTitle": "货物监管四级主办及以下",
     "recruitCount": 2,
-    "location": "广西壮族自治区百色市",
-    "currentApplicants": 2,
-    "date": "2026-04-26"
-  },
-  {
-    "department": "",
-    "jobTitle": "空中交通管理处一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "山东省济南市",
+    "location": "广东省",
     "currentApplicants": 1,
-    "date": "2026-04-26"
+    "date": "2026-04-27"
   },
   {
     "department": "",
-    "jobTitle": "日喀则边境管理支队一级警长及以下（四）",
-    "recruitCount": 5,
-    "location": "西藏自治区日喀则市",
-    "currentApplicants": 0,
-    "date": "2026-04-26"
-  },
-  {
-    "department": "",
-    "jobTitle": "吉隆出入境边防检查站一级警长及以下（六）",
+    "jobTitle": "饶阳调查队一级科员",
     "recruitCount": 1,
-    "location": "西藏自治区日喀则市",
+    "location": "河北省衡水市饶阳县",
+    "currentApplicants": 2,
+    "date": "2026-04-27"
+  },
+  {
+    "department": "",
+    "jobTitle": "监管部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "湖南省永州市江华瑶族自治县",
+    "currentApplicants": 2,
+    "date": "2026-04-27"
+  },
+  {
+    "department": "",
+    "jobTitle": "白山边境管理支队一级警长及以下（二）",
+    "recruitCount": 2,
+    "location": "吉林省白山市",
     "currentApplicants": 0,
-    "date": "2026-04-26"
+    "date": "2026-04-27"
   }
 ]
