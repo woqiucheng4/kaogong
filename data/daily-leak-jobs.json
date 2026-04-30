@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "综合业务部门一级主任科员及以下",
+    "jobTitle": "机关党委一级主任科员及以下",
     "recruitCount": 1,
-    "location": "陕西省咸阳市",
+    "location": "河南省郑州市",
     "currentApplicants": 1,
-    "date": "2026-04-29"
+    "date": "2026-04-30"
   },
   {
     "department": "",
-    "jobTitle": "监管部门一级主任科员及以下",
+    "jobTitle": "法规部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "山东省青岛市莱西市",
+    "location": "安徽省六安市舒城县",
     "currentApplicants": 2,
-    "date": "2026-04-29"
+    "date": "2026-04-30"
   },
   {
     "department": "",
-    "jobTitle": "吐尔尕特出入境边防检查站一级警长及以下（一）",
+    "jobTitle": "办公室一级警长及以下",
     "recruitCount": 1,
-    "location": "新疆维吾尔自治区克孜勒苏柯尔克孜自治州乌恰县",
-    "currentApplicants": 1,
-    "date": "2026-04-29"
+    "location": "内蒙古自治区呼和浩特市赛罕区",
+    "currentApplicants": 0,
+    "date": "2026-04-30"
   },
   {
     "department": "",
-    "jobTitle": "基层单位一级主办及以下（一）",
-    "recruitCount": 2,
-    "location": "新疆维吾尔自治区乌鲁木齐市头屯河区",
-    "currentApplicants": 2,
-    "date": "2026-04-29"
-  },
-  {
-    "department": "",
-    "jobTitle": "方城调查队一级科员",
+    "jobTitle": "法制总队一级警长及以下",
     "recruitCount": 1,
-    "location": "河南省南阳市方城县",
+    "location": "湖北省武汉市",
     "currentApplicants": 2,
-    "date": "2026-04-29"
+    "date": "2026-04-30"
+  },
+  {
+    "department": "",
+    "jobTitle": "化工监管一级行政执法员",
+    "recruitCount": 1,
+    "location": "广东省清远市",
+    "currentApplicants": 2,
+    "date": "2026-04-30"
   }
 ]
