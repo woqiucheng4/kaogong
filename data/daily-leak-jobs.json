@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "机关党委一级主任科员及以下",
+    "jobTitle": "一级行政执法员（一）",
     "recruitCount": 1,
-    "location": "河南省郑州市",
+    "location": "广东省河源市东源县",
     "currentApplicants": 1,
-    "date": "2026-04-30"
+    "date": "2026-05-01"
   },
   {
     "department": "",
-    "jobTitle": "法规部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "安徽省六安市舒城县",
-    "currentApplicants": 2,
-    "date": "2026-04-30"
-  },
-  {
-    "department": "",
-    "jobTitle": "办公室一级警长及以下",
-    "recruitCount": 1,
-    "location": "内蒙古自治区呼和浩特市赛罕区",
+    "jobTitle": "一级主任科员及以下",
+    "recruitCount": 2,
+    "location": "辽宁省沈阳市",
     "currentApplicants": 0,
-    "date": "2026-04-30"
+    "date": "2026-05-01"
   },
   {
     "department": "",
-    "jobTitle": "法制总队一级警长及以下",
-    "recruitCount": 1,
-    "location": "湖北省武汉市",
-    "currentApplicants": 2,
-    "date": "2026-04-30"
+    "jobTitle": "新塘海关缉私分局一级警长及以下",
+    "recruitCount": 2,
+    "location": "广东省广州市",
+    "currentApplicants": 0,
+    "date": "2026-05-01"
   },
   {
     "department": "",
-    "jobTitle": "化工监管一级行政执法员",
+    "jobTitle": "辖区财金类监管岗位一级主任科员及以下",
     "recruitCount": 1,
-    "location": "广东省清远市",
+    "location": "河北省石家庄市",
+    "currentApplicants": 0,
+    "date": "2026-05-01"
+  },
+  {
+    "department": "",
+    "jobTitle": "海洋预警监测处（军民融合办公室）一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "广东省广州市",
     "currentApplicants": 2,
-    "date": "2026-04-30"
+    "date": "2026-05-01"
   }
 ]
