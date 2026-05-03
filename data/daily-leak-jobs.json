@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "江西业务办公室一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "江西省南昌市",
+    "jobTitle": "乌鲁木齐出入境边防检查站一级警长及以下（二）",
+    "recruitCount": 4,
+    "location": "新疆维吾尔自治区乌鲁木齐市",
     "currentApplicants": 1,
-    "date": "2026-05-02"
+    "date": "2026-05-03"
   },
   {
     "department": "",
-    "jobTitle": "海关监管四级主办及以下",
-    "recruitCount": 2,
-    "location": "福建省宁德市",
-    "currentApplicants": 2,
-    "date": "2026-05-02"
-  },
-  {
-    "department": "",
-    "jobTitle": "财会部门一级主任科员及以下",
+    "jobTitle": "一级科员",
     "recruitCount": 1,
-    "location": "江苏省泰州市",
+    "location": "内蒙古自治区阿拉善盟阿拉善左旗",
+    "currentApplicants": 1,
+    "date": "2026-05-03"
+  },
+  {
+    "department": "",
+    "jobTitle": "和田边境管理支队一级警长及以下（十）",
+    "recruitCount": 5,
+    "location": "新疆维吾尔自治区和田地区",
+    "currentApplicants": 2,
+    "date": "2026-05-03"
+  },
+  {
+    "department": "",
+    "jobTitle": "丹东遣返站执行队一级警长及以下（三）",
+    "recruitCount": 1,
+    "location": "辽宁省丹东市",
+    "currentApplicants": 2,
+    "date": "2026-05-03"
+  },
+  {
+    "department": "",
+    "jobTitle": "法规部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "河南省三门峡市卢氏县",
     "currentApplicants": 0,
-    "date": "2026-05-02"
-  },
-  {
-    "department": "",
-    "jobTitle": "北京铁路公安处基层所队民警",
-    "recruitCount": 1,
-    "location": "河北省承德市",
-    "currentApplicants": 1,
-    "date": "2026-05-02"
-  },
-  {
-    "department": "",
-    "jobTitle": "一级主办及以下（二）",
-    "recruitCount": 2,
-    "location": "云南省昆明市西山区",
-    "currentApplicants": 2,
-    "date": "2026-05-02"
+    "date": "2026-05-03"
   }
 ]
