@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "一级主办及以下（一）",
-    "recruitCount": 2,
-    "location": "福建省漳州市芗城区",
+    "jobTitle": "重庆铁路公安处基层所队民警",
+    "recruitCount": 1,
+    "location": "重庆市",
     "currentApplicants": 0,
-    "date": "2026-05-04"
+    "date": "2026-05-05"
   },
   {
     "department": "",
-    "jobTitle": "广州铁路公安处基层所队民警",
-    "recruitCount": 2,
-    "location": "广东省珠海市",
+    "jobTitle": "综合业务一级行政执法员",
+    "recruitCount": 1,
+    "location": "广东省汕尾市",
+    "currentApplicants": 0,
+    "date": "2026-05-05"
+  },
+  {
+    "department": "",
+    "jobTitle": "海关财务管理四级主办及以下",
+    "recruitCount": 1,
+    "location": "福建省莆田市",
     "currentApplicants": 2,
-    "date": "2026-05-04"
+    "date": "2026-05-05"
   },
   {
     "department": "",
-    "jobTitle": "一级行政执法员（六）",
+    "jobTitle": "监管部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "江苏省南京市雨花台区",
-    "currentApplicants": 0,
-    "date": "2026-05-04"
+    "location": "河北省邢台市",
+    "currentApplicants": 2,
+    "date": "2026-05-05"
   },
   {
     "department": "",
-    "jobTitle": "卫生检疫四级主办及以下（一）",
-    "recruitCount": 1,
-    "location": "云南省红河哈尼族彝族自治州河口瑶族自治县",
+    "jobTitle": "西昌铁路公安处基层所队民警",
+    "recruitCount": 4,
+    "location": "四川省",
     "currentApplicants": 1,
-    "date": "2026-05-04"
-  },
-  {
-    "department": "",
-    "jobTitle": "阿拉山口出入境边防检查站一级警长及以下（一）",
-    "recruitCount": 2,
-    "location": "新疆维吾尔自治区博尔塔拉蒙古自治州阿拉山口市",
-    "currentApplicants": 1,
-    "date": "2026-05-04"
+    "date": "2026-05-05"
   }
 ]
