@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "重庆铁路公安处基层所队民警",
+    "jobTitle": "一级科员",
     "recruitCount": 1,
-    "location": "重庆市",
-    "currentApplicants": 0,
-    "date": "2026-05-05"
-  },
-  {
-    "department": "",
-    "jobTitle": "综合业务一级行政执法员",
-    "recruitCount": 1,
-    "location": "广东省汕尾市",
-    "currentApplicants": 0,
-    "date": "2026-05-05"
-  },
-  {
-    "department": "",
-    "jobTitle": "海关财务管理四级主办及以下",
-    "recruitCount": 1,
-    "location": "福建省莆田市",
+    "location": "安徽省亳州市",
     "currentApplicants": 2,
-    "date": "2026-05-05"
+    "date": "2026-05-06"
   },
   {
     "department": "",
-    "jobTitle": "监管部门一级主任科员及以下",
+    "jobTitle": "林芝边境管理支队一级警长及以下（五）",
     "recruitCount": 1,
-    "location": "河北省邢台市",
+    "location": "西藏自治区林芝市",
     "currentApplicants": 2,
-    "date": "2026-05-05"
+    "date": "2026-05-06"
   },
   {
     "department": "",
-    "jobTitle": "西昌铁路公安处基层所队民警",
-    "recruitCount": 4,
-    "location": "四川省",
-    "currentApplicants": 1,
-    "date": "2026-05-05"
+    "jobTitle": "林芝边境管理支队一级警长及以下（九）",
+    "recruitCount": 3,
+    "location": "西藏自治区林芝市",
+    "currentApplicants": 2,
+    "date": "2026-05-06"
+  },
+  {
+    "department": "",
+    "jobTitle": "阿勒泰边境管理支队一级警长及以下（四）",
+    "recruitCount": 5,
+    "location": "新疆维吾尔自治区阿勒泰地区",
+    "currentApplicants": 0,
+    "date": "2026-05-06"
+  },
+  {
+    "department": "",
+    "jobTitle": "案件督办处一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "广东省广州市",
+    "currentApplicants": 2,
+    "date": "2026-05-06"
   }
 ]
