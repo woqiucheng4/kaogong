@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "一级科员",
+    "jobTitle": "凭祥海关缉私分局一级警长及以下",
     "recruitCount": 1,
-    "location": "安徽省亳州市",
-    "currentApplicants": 2,
-    "date": "2026-05-06"
-  },
-  {
-    "department": "",
-    "jobTitle": "林芝边境管理支队一级警长及以下（五）",
-    "recruitCount": 1,
-    "location": "西藏自治区林芝市",
-    "currentApplicants": 2,
-    "date": "2026-05-06"
-  },
-  {
-    "department": "",
-    "jobTitle": "林芝边境管理支队一级警长及以下（九）",
-    "recruitCount": 3,
-    "location": "西藏自治区林芝市",
-    "currentApplicants": 2,
-    "date": "2026-05-06"
-  },
-  {
-    "department": "",
-    "jobTitle": "阿勒泰边境管理支队一级警长及以下（四）",
-    "recruitCount": 5,
-    "location": "新疆维吾尔自治区阿勒泰地区",
+    "location": "广西壮族自治区崇左市凭祥市",
     "currentApplicants": 0,
-    "date": "2026-05-06"
+    "date": "2026-05-07"
   },
   {
     "department": "",
-    "jobTitle": "案件督办处一级主任科员及以下",
+    "jobTitle": "通化边境管理支队一级警长及以下（三）",
     "recruitCount": 1,
-    "location": "广东省广州市",
+    "location": "吉林省通化市集安市",
+    "currentApplicants": 0,
+    "date": "2026-05-07"
+  },
+  {
+    "department": "",
+    "jobTitle": "一级行政执法员（十）",
+    "recruitCount": 1,
+    "location": "河北省秦皇岛市",
+    "currentApplicants": 1,
+    "date": "2026-05-07"
+  },
+  {
+    "department": "",
+    "jobTitle": "消防安全岗位一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "江苏省南京市",
+    "currentApplicants": 0,
+    "date": "2026-05-07"
+  },
+  {
+    "department": "",
+    "jobTitle": "办公综合一级行政执法员",
+    "recruitCount": 1,
+    "location": "湖南省岳阳市",
     "currentApplicants": 2,
-    "date": "2026-05-06"
+    "date": "2026-05-07"
   }
 ]
