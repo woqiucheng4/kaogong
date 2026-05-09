@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "一级行政执法员（三）",
+    "jobTitle": "平孟出入境边防检查站一级警长及以下",
     "recruitCount": 1,
-    "location": "海南省",
-    "currentApplicants": 1,
-    "date": "2026-05-08"
-  },
-  {
-    "department": "",
-    "jobTitle": "法律管理四级主办及以下",
-    "recruitCount": 3,
-    "location": "广东省",
+    "location": "广西壮族自治区百色市",
     "currentApplicants": 2,
-    "date": "2026-05-08"
+    "date": "2026-05-09"
   },
   {
     "department": "",
-    "jobTitle": "一级行政执法员（三）",
-    "recruitCount": 1,
-    "location": "河北省沧州市黄骅市",
+    "jobTitle": "卫生检疫二级主办及以下（一）",
+    "recruitCount": 2,
+    "location": "广东省广州市",
     "currentApplicants": 0,
-    "date": "2026-05-08"
+    "date": "2026-05-09"
   },
   {
     "department": "",
-    "jobTitle": "派出所一级警长及以下三",
+    "jobTitle": "动物检疫一级行政执法员（二）",
     "recruitCount": 1,
-    "location": "江西省九江市",
+    "location": "广东省佛山市",
+    "currentApplicants": 0,
+    "date": "2026-05-09"
+  },
+  {
+    "department": "",
+    "jobTitle": "一级行政执法员（四）",
+    "recruitCount": 1,
+    "location": "辽宁省大连市",
     "currentApplicants": 2,
-    "date": "2026-05-08"
+    "date": "2026-05-09"
   },
   {
     "department": "",
-    "jobTitle": "重庆铁路公安处基层所队民警",
-    "recruitCount": 1,
-    "location": "重庆市",
-    "currentApplicants": 1,
-    "date": "2026-05-08"
+    "jobTitle": "哈密铁路公安处基层所队民警",
+    "recruitCount": 2,
+    "location": "新疆维吾尔自治区哈密市",
+    "currentApplicants": 0,
+    "date": "2026-05-09"
   }
 ]
