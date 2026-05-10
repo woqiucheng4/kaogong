@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "平孟出入境边防检查站一级警长及以下",
-    "recruitCount": 1,
-    "location": "广西壮族自治区百色市",
-    "currentApplicants": 2,
-    "date": "2026-05-09"
-  },
-  {
-    "department": "",
-    "jobTitle": "卫生检疫二级主办及以下（一）",
+    "jobTitle": "北京铁路公安处基层所队民警",
     "recruitCount": 2,
-    "location": "广东省广州市",
-    "currentApplicants": 0,
-    "date": "2026-05-09"
+    "location": "河北省保定市",
+    "currentApplicants": 1,
+    "date": "2026-05-10"
   },
   {
     "department": "",
-    "jobTitle": "动物检疫一级行政执法员（二）",
-    "recruitCount": 1,
-    "location": "广东省佛山市",
-    "currentApplicants": 0,
-    "date": "2026-05-09"
-  },
-  {
-    "department": "",
-    "jobTitle": "一级行政执法员（四）",
-    "recruitCount": 1,
-    "location": "辽宁省大连市",
-    "currentApplicants": 2,
-    "date": "2026-05-09"
-  },
-  {
-    "department": "",
-    "jobTitle": "哈密铁路公安处基层所队民警",
+    "jobTitle": "武汉铁路公安处基层所队民警",
     "recruitCount": 2,
-    "location": "新疆维吾尔自治区哈密市",
+    "location": "湖北省",
+    "currentApplicants": 2,
+    "date": "2026-05-10"
+  },
+  {
+    "department": "",
+    "jobTitle": "衡阳铁路公安处基层所队民警",
+    "recruitCount": 2,
+    "location": "湖南省衡阳市",
     "currentApplicants": 0,
-    "date": "2026-05-09"
+    "date": "2026-05-10"
+  },
+  {
+    "department": "",
+    "jobTitle": "一级行政执法员（十三）",
+    "recruitCount": 3,
+    "location": "浙江省宁波市",
+    "currentApplicants": 2,
+    "date": "2026-05-10"
+  },
+  {
+    "department": "",
+    "jobTitle": "一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "宁夏回族自治区银川市",
+    "currentApplicants": 0,
+    "date": "2026-05-10"
   }
 ]
