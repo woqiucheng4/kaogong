@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "北京铁路公安处基层所队民警",
-    "recruitCount": 2,
-    "location": "河北省保定市",
-    "currentApplicants": 1,
-    "date": "2026-05-10"
-  },
-  {
-    "department": "",
-    "jobTitle": "武汉铁路公安处基层所队民警",
-    "recruitCount": 2,
-    "location": "湖北省",
-    "currentApplicants": 2,
-    "date": "2026-05-10"
-  },
-  {
-    "department": "",
-    "jobTitle": "衡阳铁路公安处基层所队民警",
-    "recruitCount": 2,
-    "location": "湖南省衡阳市",
-    "currentApplicants": 0,
-    "date": "2026-05-10"
-  },
-  {
-    "department": "",
-    "jobTitle": "一级行政执法员（十三）",
-    "recruitCount": 3,
-    "location": "浙江省宁波市",
-    "currentApplicants": 2,
-    "date": "2026-05-10"
-  },
-  {
-    "department": "",
-    "jobTitle": "一级主任科员及以下",
+    "jobTitle": "保定调查队业务科室一级科员(1)",
     "recruitCount": 1,
-    "location": "宁夏回族自治区银川市",
+    "location": "河北省保定市竞秀区",
+    "currentApplicants": 2,
+    "date": "2026-05-11"
+  },
+  {
+    "department": "",
+    "jobTitle": "监管部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "山西省吕梁市兴县",
     "currentApplicants": 0,
-    "date": "2026-05-10"
+    "date": "2026-05-11"
+  },
+  {
+    "department": "",
+    "jobTitle": "科技管理（电子信息化类）一级行政执法员",
+    "recruitCount": 1,
+    "location": "新疆维吾尔自治区塔城地区塔城市",
+    "currentApplicants": 2,
+    "date": "2026-05-11"
+  },
+  {
+    "department": "",
+    "jobTitle": "法律管理四级主办及以下",
+    "recruitCount": 1,
+    "location": "广东省",
+    "currentApplicants": 0,
+    "date": "2026-05-11"
+  },
+  {
+    "department": "",
+    "jobTitle": "办公综合四级主办及以下",
+    "recruitCount": 1,
+    "location": "河南省三门峡市",
+    "currentApplicants": 1,
+    "date": "2026-05-11"
   }
 ]
