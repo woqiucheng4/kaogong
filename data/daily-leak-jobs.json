@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "一级主办及以下（一）",
-    "recruitCount": 2,
-    "location": "黑龙江省佳木斯市向阳区",
+    "jobTitle": "瑞丽遣返中心执行队一级警长及以下（一）",
+    "recruitCount": 1,
+    "location": "云南省德宏傣族景颇族自治州瑞丽市",
     "currentApplicants": 2,
-    "date": "2026-05-13"
+    "date": "2026-05-14"
+  },
+  {
+    "department": "",
+    "jobTitle": "人事政工一级行政执法员",
+    "recruitCount": 1,
+    "location": "吉林省延边朝鲜族自治州延吉市",
+    "currentApplicants": 0,
+    "date": "2026-05-14"
   },
   {
     "department": "",
     "jobTitle": "西昌铁路公安处基层所队民警",
     "recruitCount": 2,
-    "location": "四川省凉山彝族自治州",
-    "currentApplicants": 2,
-    "date": "2026-05-13"
-  },
-  {
-    "department": "",
-    "jobTitle": "食品监管四级主办及以下（一）",
-    "recruitCount": 1,
-    "location": "广东省广州市",
+    "location": "四川省",
     "currentApplicants": 1,
-    "date": "2026-05-13"
+    "date": "2026-05-14"
   },
   {
     "department": "",
-    "jobTitle": "统计信息部门一级主任科员及以下",
-    "recruitCount": 2,
-    "location": "贵州省贵阳市",
-    "currentApplicants": 0,
-    "date": "2026-05-13"
-  },
-  {
-    "department": "",
-    "jobTitle": "喀什铁路公安处基层所队民警",
+    "jobTitle": "石家庄铁路公安处基层所队民警",
     "recruitCount": 3,
-    "location": "新疆维吾尔自治区喀什地区",
+    "location": "河北省",
     "currentApplicants": 1,
-    "date": "2026-05-13"
+    "date": "2026-05-14"
+  },
+  {
+    "department": "",
+    "jobTitle": "法制管理四级主办（一）",
+    "recruitCount": 1,
+    "location": "广东省珠海市",
+    "currentApplicants": 0,
+    "date": "2026-05-14"
   }
 ]
