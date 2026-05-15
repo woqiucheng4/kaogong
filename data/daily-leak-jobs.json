@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "瑞丽遣返中心执行队一级警长及以下（一）",
+    "jobTitle": "林芝边境管理支队一级警长及以下（五）",
     "recruitCount": 1,
-    "location": "云南省德宏傣族景颇族自治州瑞丽市",
+    "location": "西藏自治区林芝市",
+    "currentApplicants": 0,
+    "date": "2026-05-15"
+  },
+  {
+    "department": "",
+    "jobTitle": "宁夏业务办公室一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "宁夏回族自治区银川市",
+    "currentApplicants": 0,
+    "date": "2026-05-15"
+  },
+  {
+    "department": "",
+    "jobTitle": "监管部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "广西壮族自治区贺州市昭平县",
+    "currentApplicants": 1,
+    "date": "2026-05-15"
+  },
+  {
+    "department": "",
+    "jobTitle": "监管部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "甘肃省陇南市西和县",
     "currentApplicants": 2,
-    "date": "2026-05-14"
+    "date": "2026-05-15"
   },
   {
     "department": "",
-    "jobTitle": "人事政工一级行政执法员",
-    "recruitCount": 1,
-    "location": "吉林省延边朝鲜族自治州延吉市",
+    "jobTitle": "辖区法律类监管岗位一级主任科员及以下",
+    "recruitCount": 5,
+    "location": "湖南省长沙市",
     "currentApplicants": 0,
-    "date": "2026-05-14"
-  },
-  {
-    "department": "",
-    "jobTitle": "西昌铁路公安处基层所队民警",
-    "recruitCount": 2,
-    "location": "四川省",
-    "currentApplicants": 1,
-    "date": "2026-05-14"
-  },
-  {
-    "department": "",
-    "jobTitle": "石家庄铁路公安处基层所队民警",
-    "recruitCount": 3,
-    "location": "河北省",
-    "currentApplicants": 1,
-    "date": "2026-05-14"
-  },
-  {
-    "department": "",
-    "jobTitle": "法制管理四级主办（一）",
-    "recruitCount": 1,
-    "location": "广东省珠海市",
-    "currentApplicants": 0,
-    "date": "2026-05-14"
+    "date": "2026-05-15"
   }
 ]
