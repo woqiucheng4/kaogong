@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "动植物检疫一级行政执法员",
+    "jobTitle": "伊春边境管理支队一级警长及以下",
     "recruitCount": 1,
-    "location": "辽宁省抚顺市",
-    "currentApplicants": 1,
-    "date": "2026-05-18"
+    "location": "黑龙江省伊春市",
+    "currentApplicants": 2,
+    "date": "2026-05-19"
   },
   {
     "department": "",
-    "jobTitle": "易县调查队一级科员",
+    "jobTitle": "综合业务部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "河北省保定市易县",
+    "location": "广东省汕头市",
     "currentApplicants": 0,
-    "date": "2026-05-18"
+    "date": "2026-05-19"
   },
   {
     "department": "",
-    "jobTitle": "西昌铁路公安处基层所队民警",
-    "recruitCount": 6,
-    "location": "四川省",
+    "jobTitle": "济南铁路公安处基层所队民警",
+    "recruitCount": 3,
+    "location": "山东省",
     "currentApplicants": 0,
-    "date": "2026-05-18"
+    "date": "2026-05-19"
+  },
+  {
+    "department": "",
+    "jobTitle": "后勤管理岗位一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "江苏省南京市",
+    "currentApplicants": 2,
+    "date": "2026-05-19"
   },
   {
     "department": "",
     "jobTitle": "北京铁路公安处基层所队民警",
-    "recruitCount": 2,
-    "location": "河北省保定市",
-    "currentApplicants": 2,
-    "date": "2026-05-18"
-  },
-  {
-    "department": "",
-    "jobTitle": "格尔木铁路公安处基层所队民警",
-    "recruitCount": 1,
-    "location": "青海省海西蒙古族藏族自治州格尔木市",
-    "currentApplicants": 2,
-    "date": "2026-05-18"
+    "recruitCount": 4,
+    "location": "河北省张家口市",
+    "currentApplicants": 0,
+    "date": "2026-05-19"
   }
 ]
