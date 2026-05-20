@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "伊春边境管理支队一级警长及以下",
+    "jobTitle": "杭州调查队业务处室二级主任科员及以下",
     "recruitCount": 1,
-    "location": "黑龙江省伊春市",
+    "location": "浙江省杭州市",
+    "currentApplicants": 1,
+    "date": "2026-05-20"
+  },
+  {
+    "department": "",
+    "jobTitle": "延吉海关缉私分局一级警长及以下",
+    "recruitCount": 1,
+    "location": "吉林省延边朝鲜族自治州延吉市",
+    "currentApplicants": 0,
+    "date": "2026-05-20"
+  },
+  {
+    "department": "",
+    "jobTitle": "离退休办公室一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "广东省广州市",
+    "currentApplicants": 1,
+    "date": "2026-05-20"
+  },
+  {
+    "department": "",
+    "jobTitle": "财会部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "黑龙江省大庆市",
+    "currentApplicants": 1,
+    "date": "2026-05-20"
+  },
+  {
+    "department": "",
+    "jobTitle": "锦州铁路公安处基层所队民警",
+    "recruitCount": 2,
+    "location": "辽宁省锦州市",
     "currentApplicants": 2,
-    "date": "2026-05-19"
-  },
-  {
-    "department": "",
-    "jobTitle": "综合业务部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "广东省汕头市",
-    "currentApplicants": 0,
-    "date": "2026-05-19"
-  },
-  {
-    "department": "",
-    "jobTitle": "济南铁路公安处基层所队民警",
-    "recruitCount": 3,
-    "location": "山东省",
-    "currentApplicants": 0,
-    "date": "2026-05-19"
-  },
-  {
-    "department": "",
-    "jobTitle": "后勤管理岗位一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "江苏省南京市",
-    "currentApplicants": 2,
-    "date": "2026-05-19"
-  },
-  {
-    "department": "",
-    "jobTitle": "北京铁路公安处基层所队民警",
-    "recruitCount": 4,
-    "location": "河北省张家口市",
-    "currentApplicants": 0,
-    "date": "2026-05-19"
+    "date": "2026-05-20"
   }
 ]
