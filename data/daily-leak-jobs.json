@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "杭州调查队业务处室二级主任科员及以下",
+    "jobTitle": "一级科员",
     "recruitCount": 1,
-    "location": "浙江省杭州市",
+    "location": "内蒙古自治区锡林郭勒盟锡林浩特市",
     "currentApplicants": 1,
-    "date": "2026-05-20"
+    "date": "2026-05-21"
   },
   {
     "department": "",
-    "jobTitle": "延吉海关缉私分局一级警长及以下",
+    "jobTitle": "监管部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "吉林省延边朝鲜族自治州延吉市",
-    "currentApplicants": 0,
-    "date": "2026-05-20"
-  },
-  {
-    "department": "",
-    "jobTitle": "离退休办公室一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "广东省广州市",
+    "location": "河北省唐山市滦州市",
     "currentApplicants": 1,
-    "date": "2026-05-20"
+    "date": "2026-05-21"
   },
   {
     "department": "",
-    "jobTitle": "财会部门一级主任科员及以下",
+    "jobTitle": "财务一级行政执法员",
     "recruitCount": 1,
-    "location": "黑龙江省大庆市",
+    "location": "江苏省无锡市江阴市",
     "currentApplicants": 1,
-    "date": "2026-05-20"
+    "date": "2026-05-21"
   },
   {
     "department": "",
-    "jobTitle": "锦州铁路公安处基层所队民警",
+    "jobTitle": "法规部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "江西省宜春市宜丰县",
+    "currentApplicants": 1,
+    "date": "2026-05-21"
+  },
+  {
+    "department": "",
+    "jobTitle": "海关货物查验四级主办及以下",
     "recruitCount": 2,
-    "location": "辽宁省锦州市",
-    "currentApplicants": 2,
-    "date": "2026-05-20"
+    "location": "广东省阳江市",
+    "currentApplicants": 0,
+    "date": "2026-05-21"
   }
 ]
