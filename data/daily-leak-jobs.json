@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "一级科员",
-    "recruitCount": 1,
-    "location": "内蒙古自治区锡林郭勒盟锡林浩特市",
-    "currentApplicants": 1,
-    "date": "2026-05-21"
+    "jobTitle": "红其拉甫出入境边防检查站一级警长及以下（二）",
+    "recruitCount": 2,
+    "location": "新疆维吾尔自治区喀什地区塔什库尔干塔吉克自治县",
+    "currentApplicants": 0,
+    "date": "2026-05-22"
+  },
+  {
+    "department": "",
+    "jobTitle": "鄂州边检站一级警长及以下（二）",
+    "recruitCount": 2,
+    "location": "湖北省",
+    "currentApplicants": 2,
+    "date": "2026-05-22"
+  },
+  {
+    "department": "",
+    "jobTitle": "边检站一级警长及以下（一）",
+    "recruitCount": 3,
+    "location": "吉林省延边朝鲜族自治州",
+    "currentApplicants": 0,
+    "date": "2026-05-22"
   },
   {
     "department": "",
     "jobTitle": "监管部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "河北省唐山市滦州市",
+    "location": "广西壮族自治区柳州市柳城县",
     "currentApplicants": 1,
-    "date": "2026-05-21"
+    "date": "2026-05-22"
   },
   {
     "department": "",
-    "jobTitle": "财务一级行政执法员",
-    "recruitCount": 1,
-    "location": "江苏省无锡市江阴市",
-    "currentApplicants": 1,
-    "date": "2026-05-21"
-  },
-  {
-    "department": "",
-    "jobTitle": "法规部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "江西省宜春市宜丰县",
-    "currentApplicants": 1,
-    "date": "2026-05-21"
-  },
-  {
-    "department": "",
-    "jobTitle": "海关货物查验四级主办及以下",
-    "recruitCount": 2,
-    "location": "广东省阳江市",
-    "currentApplicants": 0,
-    "date": "2026-05-21"
+    "jobTitle": "边检站一级警长及以下（四）",
+    "recruitCount": 3,
+    "location": "广东省珠海市",
+    "currentApplicants": 2,
+    "date": "2026-05-22"
   }
 ]
