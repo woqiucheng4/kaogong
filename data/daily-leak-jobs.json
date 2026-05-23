@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "红其拉甫出入境边防检查站一级警长及以下（二）",
-    "recruitCount": 2,
-    "location": "新疆维吾尔自治区喀什地区塔什库尔干塔吉克自治县",
-    "currentApplicants": 0,
-    "date": "2026-05-22"
-  },
-  {
-    "department": "",
-    "jobTitle": "鄂州边检站一级警长及以下（二）",
-    "recruitCount": 2,
-    "location": "湖北省",
-    "currentApplicants": 2,
-    "date": "2026-05-22"
-  },
-  {
-    "department": "",
-    "jobTitle": "边检站一级警长及以下（一）",
-    "recruitCount": 3,
-    "location": "吉林省延边朝鲜族自治州",
-    "currentApplicants": 0,
-    "date": "2026-05-22"
-  },
-  {
-    "department": "",
-    "jobTitle": "监管部门一级主任科员及以下",
+    "jobTitle": "柳州铁路公安处基层所队民警",
     "recruitCount": 1,
-    "location": "广西壮族自治区柳州市柳城县",
-    "currentApplicants": 1,
-    "date": "2026-05-22"
+    "location": "广西壮族自治区",
+    "currentApplicants": 0,
+    "date": "2026-05-23"
   },
   {
     "department": "",
-    "jobTitle": "边检站一级警长及以下（四）",
-    "recruitCount": 3,
-    "location": "广东省珠海市",
+    "jobTitle": "空中交通管理处一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "山东省济南市",
     "currentApplicants": 2,
-    "date": "2026-05-22"
+    "date": "2026-05-23"
+  },
+  {
+    "department": "",
+    "jobTitle": "易县调查队一级科员",
+    "recruitCount": 1,
+    "location": "河北省保定市易县",
+    "currentApplicants": 0,
+    "date": "2026-05-23"
+  },
+  {
+    "department": "",
+    "jobTitle": "南宁遣返站执行队一级警长及以下（一）",
+    "recruitCount": 1,
+    "location": "广西壮族自治区南宁市",
+    "currentApplicants": 2,
+    "date": "2026-05-23"
+  },
+  {
+    "department": "",
+    "jobTitle": "阿里边境管理支队一级警长及以下（六）",
+    "recruitCount": 5,
+    "location": "西藏自治区阿里地区",
+    "currentApplicants": 1,
+    "date": "2026-05-23"
   }
 ]
