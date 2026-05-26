@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "建平调查队一级科员（2）",
+    "jobTitle": "林芝边境管理支队一级警长及以下（十一）",
     "recruitCount": 1,
-    "location": "辽宁省朝阳市建平县",
-    "currentApplicants": 1,
-    "date": "2026-05-25"
-  },
-  {
-    "department": "",
-    "jobTitle": "综合部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "安徽省宣城市广德市",
-    "currentApplicants": 1,
-    "date": "2026-05-25"
-  },
-  {
-    "department": "",
-    "jobTitle": "贵阳铁路公安处基层所队民警",
-    "recruitCount": 1,
-    "location": "贵州省",
+    "location": "西藏自治区林芝市",
     "currentApplicants": 0,
-    "date": "2026-05-25"
+    "date": "2026-05-26"
   },
   {
     "department": "",
-    "jobTitle": "锦州铁路公安处基层所队民警",
-    "recruitCount": 2,
-    "location": "辽宁省葫芦岛市",
-    "currentApplicants": 2,
-    "date": "2026-05-25"
+    "jobTitle": "监察执法处三级主任科员及以下职位",
+    "recruitCount": 1,
+    "location": "山东省",
+    "currentApplicants": 1,
+    "date": "2026-05-26"
   },
   {
     "department": "",
-    "jobTitle": "天津经济技术开发区海关缉私分局一级警长及以下",
-    "recruitCount": 2,
-    "location": "天津市滨海新区",
+    "jobTitle": "办公室（人事教育科）一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "新疆维吾尔自治区塔城地区塔城市",
     "currentApplicants": 2,
-    "date": "2026-05-25"
+    "date": "2026-05-26"
+  },
+  {
+    "department": "",
+    "jobTitle": "镇宁调查队一级科员",
+    "recruitCount": 1,
+    "location": "贵州省安顺市镇宁布依族苗族自治县",
+    "currentApplicants": 2,
+    "date": "2026-05-26"
+  },
+  {
+    "department": "",
+    "jobTitle": "陕西调查总队综合处室二级主任科员及以下（3）",
+    "recruitCount": 1,
+    "location": "陕西省西安市",
+    "currentApplicants": 1,
+    "date": "2026-05-26"
   }
 ]
