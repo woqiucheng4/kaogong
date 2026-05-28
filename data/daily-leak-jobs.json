@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "监管部门一级主任科员及以下",
+    "jobTitle": "延边边境管理支队一级警长及以下（十）",
     "recruitCount": 1,
-    "location": "陕西省渭南市韩城市",
-    "currentApplicants": 2,
-    "date": "2026-05-27"
-  },
-  {
-    "department": "",
-    "jobTitle": "监管部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "陕西省宝鸡市岐山县",
-    "currentApplicants": 2,
-    "date": "2026-05-27"
-  },
-  {
-    "department": "",
-    "jobTitle": "勐康出入境边防检查站一级警长及以下（六）",
-    "recruitCount": 2,
-    "location": "云南省普洱市",
-    "currentApplicants": 0,
-    "date": "2026-05-27"
-  },
-  {
-    "department": "",
-    "jobTitle": "霍尔果斯出入境边防检查站一级警长及以下（四）",
-    "recruitCount": 5,
-    "location": "新疆维吾尔自治区伊犁哈萨克自治州霍尔果斯市",
-    "currentApplicants": 0,
-    "date": "2026-05-27"
-  },
-  {
-    "department": "",
-    "jobTitle": "阿勒泰边境管理支队一级警长及以下（六）",
-    "recruitCount": 5,
-    "location": "新疆维吾尔自治区阿勒泰地区",
+    "location": "吉林省延边朝鲜族自治州珲春市",
     "currentApplicants": 1,
-    "date": "2026-05-27"
+    "date": "2026-05-28"
+  },
+  {
+    "department": "",
+    "jobTitle": "黄埔边检站一级警长及以下（二）",
+    "recruitCount": 1,
+    "location": "广东省广州市",
+    "currentApplicants": 0,
+    "date": "2026-05-28"
+  },
+  {
+    "department": "",
+    "jobTitle": "文山边境管理支队一级警长及以下（三）",
+    "recruitCount": 1,
+    "location": "云南省文山壮族苗族自治州",
+    "currentApplicants": 1,
+    "date": "2026-05-28"
+  },
+  {
+    "department": "",
+    "jobTitle": "黄山边检站一级警长及以下",
+    "recruitCount": 1,
+    "location": "安徽省黄山市",
+    "currentApplicants": 1,
+    "date": "2026-05-28"
+  },
+  {
+    "department": "",
+    "jobTitle": "业务处室一级主任科员及以下",
+    "recruitCount": 2,
+    "location": "云南省昆明市",
+    "currentApplicants": 2,
+    "date": "2026-05-28"
   }
 ]
