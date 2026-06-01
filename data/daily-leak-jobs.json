@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "综合业务部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "湖北省咸宁市",
-    "currentApplicants": 1,
-    "date": "2026-05-31"
-  },
-  {
-    "department": "",
-    "jobTitle": "防灾减灾科一级科员及以下",
-    "recruitCount": 1,
-    "location": "云南省普洱市西盟佤族自治县",
+    "jobTitle": "安康铁路公安处基层所队民警",
+    "recruitCount": 2,
+    "location": "陕西省",
     "currentApplicants": 2,
-    "date": "2026-05-31"
+    "date": "2026-06-01"
   },
   {
     "department": "",
-    "jobTitle": "瑞丽遣返中心执行队一级警长及以下（五）",
+    "jobTitle": "监管部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "云南省德宏傣族景颇族自治州瑞丽市",
-    "currentApplicants": 0,
-    "date": "2026-05-31"
+    "location": "山东省济南市济阳区",
+    "currentApplicants": 2,
+    "date": "2026-06-01"
   },
   {
     "department": "",
-    "jobTitle": "卡拉苏出入境边防检查站一级警长及以下（四）",
-    "recruitCount": 5,
-    "location": "新疆维吾尔自治区喀什地区塔什库尔干塔吉克自治县",
-    "currentApplicants": 0,
-    "date": "2026-05-31"
-  },
-  {
-    "department": "",
-    "jobTitle": "山南边境管理支队一级警长及以下（十二）",
+    "jobTitle": "办公室（指挥中心、法制办公室、政治处）一级警长及以下",
     "recruitCount": 1,
-    "location": "西藏自治区山南市",
+    "location": "四川省德阳市广汉市",
+    "currentApplicants": 1,
+    "date": "2026-06-01"
+  },
+  {
+    "department": "",
+    "jobTitle": "消防安全岗位一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "江苏省南京市",
     "currentApplicants": 0,
-    "date": "2026-05-31"
+    "date": "2026-06-01"
+  },
+  {
+    "department": "",
+    "jobTitle": "天津铁路公安处基层所队民警",
+    "recruitCount": 1,
+    "location": "天津市",
+    "currentApplicants": 2,
+    "date": "2026-06-01"
   }
 ]
