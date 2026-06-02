@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "安康铁路公安处基层所队民警",
-    "recruitCount": 2,
-    "location": "陕西省",
+    "jobTitle": "财会部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "云南省丽江市",
     "currentApplicants": 2,
-    "date": "2026-06-01"
+    "date": "2026-06-02"
   },
   {
     "department": "",
     "jobTitle": "监管部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "山东省济南市济阳区",
-    "currentApplicants": 2,
-    "date": "2026-06-01"
-  },
-  {
-    "department": "",
-    "jobTitle": "办公室（指挥中心、法制办公室、政治处）一级警长及以下",
-    "recruitCount": 1,
-    "location": "四川省德阳市广汉市",
-    "currentApplicants": 1,
-    "date": "2026-06-01"
-  },
-  {
-    "department": "",
-    "jobTitle": "消防安全岗位一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "江苏省南京市",
+    "location": "湖南省益阳市赫山区",
     "currentApplicants": 0,
-    "date": "2026-06-01"
+    "date": "2026-06-02"
   },
   {
     "department": "",
-    "jobTitle": "天津铁路公安处基层所队民警",
+    "jobTitle": "登轮监管四级主办及以下（一）",
     "recruitCount": 1,
-    "location": "天津市",
+    "location": "山东省青岛市",
+    "currentApplicants": 0,
+    "date": "2026-06-02"
+  },
+  {
+    "department": "",
+    "jobTitle": "综合部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "安徽省合肥市巢湖市",
     "currentApplicants": 2,
-    "date": "2026-06-01"
+    "date": "2026-06-02"
+  },
+  {
+    "department": "",
+    "jobTitle": "植物检疫四级主办及以下",
+    "recruitCount": 1,
+    "location": "福建省厦门市",
+    "currentApplicants": 0,
+    "date": "2026-06-02"
   }
 ]
