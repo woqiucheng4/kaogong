@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "财会部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "云南省丽江市",
+    "jobTitle": "大同铁路公安处基层所队民警",
+    "recruitCount": 2,
+    "location": "山西省忻州市",
     "currentApplicants": 2,
-    "date": "2026-06-02"
+    "date": "2026-06-03"
+  },
+  {
+    "department": "",
+    "jobTitle": "执行队一级警长及以下（六）",
+    "recruitCount": 1,
+    "location": "吉林省长春市",
+    "currentApplicants": 1,
+    "date": "2026-06-03"
+  },
+  {
+    "department": "",
+    "jobTitle": "临沧边境管理支队一级警长及以下（三）",
+    "recruitCount": 2,
+    "location": "云南省临沧市",
+    "currentApplicants": 1,
+    "date": "2026-06-03"
+  },
+  {
+    "department": "",
+    "jobTitle": "法规部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "陕西省渭南市",
+    "currentApplicants": 1,
+    "date": "2026-06-03"
   },
   {
     "department": "",
     "jobTitle": "监管部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "湖南省益阳市赫山区",
-    "currentApplicants": 0,
-    "date": "2026-06-02"
-  },
-  {
-    "department": "",
-    "jobTitle": "登轮监管四级主办及以下（一）",
-    "recruitCount": 1,
-    "location": "山东省青岛市",
-    "currentApplicants": 0,
-    "date": "2026-06-02"
-  },
-  {
-    "department": "",
-    "jobTitle": "综合部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "安徽省合肥市巢湖市",
+    "location": "陕西省宝鸡市岐山县",
     "currentApplicants": 2,
-    "date": "2026-06-02"
-  },
-  {
-    "department": "",
-    "jobTitle": "植物检疫四级主办及以下",
-    "recruitCount": 1,
-    "location": "福建省厦门市",
-    "currentApplicants": 0,
-    "date": "2026-06-02"
+    "date": "2026-06-03"
   }
 ]
