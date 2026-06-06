@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "一级行政执法员（五）",
+    "jobTitle": "吴桥河务局一级主任科员及以下（一）",
     "recruitCount": 1,
-    "location": "广东省惠州市惠城区",
-    "currentApplicants": 2,
-    "date": "2026-06-05"
-  },
-  {
-    "department": "",
-    "jobTitle": "西昌铁路公安处基层所队民警",
-    "recruitCount": 4,
-    "location": "四川省",
+    "location": "河北省沧州市吴桥县",
     "currentApplicants": 1,
-    "date": "2026-06-05"
+    "date": "2026-06-06"
   },
   {
     "department": "",
-    "jobTitle": "一级行政执法员（四）",
+    "jobTitle": "法规部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "辽宁省大连市",
+    "location": "河南省南阳市社旗县",
+    "currentApplicants": 2,
+    "date": "2026-06-06"
+  },
+  {
+    "department": "",
+    "jobTitle": "情报技术处一级警长及以下",
+    "recruitCount": 1,
+    "location": "云南省昆明市",
     "currentApplicants": 0,
-    "date": "2026-06-05"
+    "date": "2026-06-06"
   },
   {
     "department": "",
-    "jobTitle": "广州白云机场海关缉私分局一级警长及以下",
-    "recruitCount": 2,
-    "location": "广东省",
-    "currentApplicants": 2,
-    "date": "2026-06-05"
-  },
-  {
-    "department": "",
-    "jobTitle": "一级主任科员及以下",
+    "jobTitle": "一级行政执法员（十一）",
     "recruitCount": 1,
-    "location": "浙江省杭州市",
-    "currentApplicants": 2,
-    "date": "2026-06-05"
+    "location": "广东省湛江市徐闻县",
+    "currentApplicants": 0,
+    "date": "2026-06-06"
+  },
+  {
+    "department": "",
+    "jobTitle": "黄岛海关缉私分局一级警长及以下",
+    "recruitCount": 2,
+    "location": "山东省青岛市",
+    "currentApplicants": 0,
+    "date": "2026-06-06"
   }
 ]
