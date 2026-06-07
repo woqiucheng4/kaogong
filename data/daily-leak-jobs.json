@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "吴桥河务局一级主任科员及以下（一）",
+    "jobTitle": "一级行政执法员（四）",
     "recruitCount": 1,
-    "location": "河北省沧州市吴桥县",
-    "currentApplicants": 1,
-    "date": "2026-06-06"
-  },
-  {
-    "department": "",
-    "jobTitle": "法规部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "河南省南阳市社旗县",
-    "currentApplicants": 2,
-    "date": "2026-06-06"
-  },
-  {
-    "department": "",
-    "jobTitle": "情报技术处一级警长及以下",
-    "recruitCount": 1,
-    "location": "云南省昆明市",
+    "location": "江苏省南京市鼓楼区",
     "currentApplicants": 0,
-    "date": "2026-06-06"
+    "date": "2026-06-07"
   },
   {
     "department": "",
-    "jobTitle": "一级行政执法员（十一）",
+    "jobTitle": "辖区财金类监管岗位一级主任科员及以下",
     "recruitCount": 1,
-    "location": "广东省湛江市徐闻县",
+    "location": "河北省石家庄市",
     "currentApplicants": 0,
-    "date": "2026-06-06"
+    "date": "2026-06-07"
   },
   {
     "department": "",
-    "jobTitle": "黄岛海关缉私分局一级警长及以下",
+    "jobTitle": "阿拉山口出入境边防检查站一级警长及以下（一）",
     "recruitCount": 2,
-    "location": "山东省青岛市",
+    "location": "新疆维吾尔自治区博尔塔拉蒙古自治州阿拉山口市",
     "currentApplicants": 0,
-    "date": "2026-06-06"
+    "date": "2026-06-07"
+  },
+  {
+    "department": "",
+    "jobTitle": "普洱边境管理支队一级警长及以下（五）",
+    "recruitCount": 2,
+    "location": "云南省普洱市",
+    "currentApplicants": 0,
+    "date": "2026-06-07"
+  },
+  {
+    "department": "",
+    "jobTitle": "八所边检站一级警长及以下",
+    "recruitCount": 1,
+    "location": "海南省东方市",
+    "currentApplicants": 2,
+    "date": "2026-06-07"
   }
 ]
