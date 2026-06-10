@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "贵阳调查队业务处室一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "贵州省贵阳市观山湖区",
-    "currentApplicants": 1,
-    "date": "2026-06-09"
-  },
-  {
-    "department": "",
-    "jobTitle": "新乡黄河工会一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "河南省新乡市",
-    "currentApplicants": 2,
-    "date": "2026-06-09"
-  },
-  {
-    "department": "",
-    "jobTitle": "一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "陕西省宝鸡市",
-    "currentApplicants": 2,
-    "date": "2026-06-09"
-  },
-  {
-    "department": "",
-    "jobTitle": "阿拉山口出入境边防检查站一级警长及以下（二）",
-    "recruitCount": 4,
-    "location": "新疆维吾尔自治区博尔塔拉蒙古自治州阿拉山口市",
-    "currentApplicants": 2,
-    "date": "2026-06-09"
-  },
-  {
-    "department": "",
-    "jobTitle": "镇宁调查队一级科员",
-    "recruitCount": 1,
-    "location": "贵州省安顺市镇宁布依族苗族自治县",
+    "jobTitle": "稽查局一级主办及以下（一）",
+    "recruitCount": 2,
+    "location": "宁夏回族自治区石嘴山市大武口区",
     "currentApplicants": 0,
-    "date": "2026-06-09"
+    "date": "2026-06-10"
+  },
+  {
+    "department": "",
+    "jobTitle": "柳州铁路公安处基层所队民警",
+    "recruitCount": 2,
+    "location": "广西壮族自治区",
+    "currentApplicants": 1,
+    "date": "2026-06-10"
+  },
+  {
+    "department": "",
+    "jobTitle": "科技管理（电子信息化类）二级主办及以下",
+    "recruitCount": 2,
+    "location": "辽宁省",
+    "currentApplicants": 1,
+    "date": "2026-06-10"
+  },
+  {
+    "department": "",
+    "jobTitle": "综合处室一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "江苏省南京市",
+    "currentApplicants": 2,
+    "date": "2026-06-10"
+  },
+  {
+    "department": "",
+    "jobTitle": "蚌埠铁路公安处基层所队民警",
+    "recruitCount": 1,
+    "location": "安徽省蚌埠市",
+    "currentApplicants": 0,
+    "date": "2026-06-10"
   }
 ]
