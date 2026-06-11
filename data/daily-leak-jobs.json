@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "稽查局一级主办及以下（一）",
-    "recruitCount": 2,
-    "location": "宁夏回族自治区石嘴山市大武口区",
-    "currentApplicants": 0,
-    "date": "2026-06-10"
-  },
-  {
-    "department": "",
-    "jobTitle": "柳州铁路公安处基层所队民警",
-    "recruitCount": 2,
-    "location": "广西壮族自治区",
+    "jobTitle": "边检站一级警长及以下（四）",
+    "recruitCount": 3,
+    "location": "广东省珠海市",
     "currentApplicants": 1,
-    "date": "2026-06-10"
+    "date": "2026-06-11"
   },
   {
     "department": "",
-    "jobTitle": "科技管理（电子信息化类）二级主办及以下",
-    "recruitCount": 2,
-    "location": "辽宁省",
-    "currentApplicants": 1,
-    "date": "2026-06-10"
-  },
-  {
-    "department": "",
-    "jobTitle": "综合处室一级主任科员及以下",
+    "jobTitle": "科技部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "江苏省南京市",
+    "location": "云南省临沧市云县",
+    "currentApplicants": 0,
+    "date": "2026-06-11"
+  },
+  {
+    "department": "",
+    "jobTitle": "一级科员",
+    "recruitCount": 1,
+    "location": "山东省枣庄市",
     "currentApplicants": 2,
-    "date": "2026-06-10"
+    "date": "2026-06-11"
   },
   {
     "department": "",
-    "jobTitle": "蚌埠铁路公安处基层所队民警",
+    "jobTitle": "满洲里出入境边防检查站一级警长及以下（二）",
     "recruitCount": 1,
-    "location": "安徽省蚌埠市",
-    "currentApplicants": 0,
-    "date": "2026-06-10"
+    "location": "内蒙古自治区呼伦贝尔市满洲里市",
+    "currentApplicants": 2,
+    "date": "2026-06-11"
+  },
+  {
+    "department": "",
+    "jobTitle": "通化边境管理支队一级警长及以下（十三）",
+    "recruitCount": 1,
+    "location": "吉林省通化市集安市",
+    "currentApplicants": 2,
+    "date": "2026-06-11"
   }
 ]
