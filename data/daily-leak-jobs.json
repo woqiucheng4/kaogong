@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "边检站一级警长及以下（四）",
-    "recruitCount": 3,
-    "location": "广东省珠海市",
-    "currentApplicants": 1,
-    "date": "2026-06-11"
-  },
-  {
-    "department": "",
-    "jobTitle": "科技部门一级主任科员及以下",
+    "jobTitle": "双鸭山边境管理支队一级警长及以下（四）",
     "recruitCount": 1,
-    "location": "云南省临沧市云县",
+    "location": "黑龙江省双鸭山市",
     "currentApplicants": 0,
-    "date": "2026-06-11"
+    "date": "2026-06-12"
   },
   {
     "department": "",
-    "jobTitle": "一级科员",
-    "recruitCount": 1,
-    "location": "山东省枣庄市",
-    "currentApplicants": 2,
-    "date": "2026-06-11"
+    "jobTitle": "成都铁路公安处基层所队民警",
+    "recruitCount": 4,
+    "location": "四川省",
+    "currentApplicants": 1,
+    "date": "2026-06-12"
   },
   {
     "department": "",
-    "jobTitle": "满洲里出入境边防检查站一级警长及以下（二）",
+    "jobTitle": "法规部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "内蒙古自治区呼伦贝尔市满洲里市",
+    "location": "河南省周口市项城市",
     "currentApplicants": 2,
-    "date": "2026-06-11"
+    "date": "2026-06-12"
   },
   {
     "department": "",
-    "jobTitle": "通化边境管理支队一级警长及以下（十三）",
+    "jobTitle": "一级行政执法员（二）",
     "recruitCount": 1,
-    "location": "吉林省通化市集安市",
-    "currentApplicants": 2,
-    "date": "2026-06-11"
+    "location": "广东省中山市",
+    "currentApplicants": 0,
+    "date": "2026-06-12"
+  },
+  {
+    "department": "",
+    "jobTitle": "安康铁路公安处基层所队民警",
+    "recruitCount": 1,
+    "location": "陕西省",
+    "currentApplicants": 1,
+    "date": "2026-06-12"
   }
 ]
