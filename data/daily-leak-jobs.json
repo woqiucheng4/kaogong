@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "双鸭山边境管理支队一级警长及以下（四）",
-    "recruitCount": 1,
-    "location": "黑龙江省双鸭山市",
-    "currentApplicants": 0,
-    "date": "2026-06-12"
-  },
-  {
-    "department": "",
-    "jobTitle": "成都铁路公安处基层所队民警",
-    "recruitCount": 4,
-    "location": "四川省",
-    "currentApplicants": 1,
-    "date": "2026-06-12"
-  },
-  {
-    "department": "",
     "jobTitle": "法规部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "河南省周口市项城市",
+    "location": "广西壮族自治区桂林市",
     "currentApplicants": 2,
-    "date": "2026-06-12"
+    "date": "2026-06-13"
   },
   {
     "department": "",
-    "jobTitle": "一级行政执法员（二）",
+    "jobTitle": "海拉尔海关缉私分局一级警长及以下",
     "recruitCount": 1,
-    "location": "广东省中山市",
+    "location": "内蒙古自治区呼伦贝尔市",
+    "currentApplicants": 2,
+    "date": "2026-06-13"
+  },
+  {
+    "department": "",
+    "jobTitle": "监管部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "河北省张家口市万全区",
     "currentApplicants": 0,
-    "date": "2026-06-12"
+    "date": "2026-06-13"
   },
   {
     "department": "",
-    "jobTitle": "安康铁路公安处基层所队民警",
+    "jobTitle": "郑州铁路公安处基层所队民警",
+    "recruitCount": 2,
+    "location": "河南省",
+    "currentApplicants": 2,
+    "date": "2026-06-13"
+  },
+  {
+    "department": "",
+    "jobTitle": "鹰潭铁路公安处基层所队民警",
     "recruitCount": 1,
-    "location": "陕西省",
+    "location": "江西省",
     "currentApplicants": 1,
-    "date": "2026-06-12"
+    "date": "2026-06-13"
   }
 ]
