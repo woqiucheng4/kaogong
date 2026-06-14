@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "法规部门一级主任科员及以下",
+    "jobTitle": "市场监管处一级主任科员及以下",
     "recruitCount": 1,
-    "location": "广西壮族自治区桂林市",
-    "currentApplicants": 2,
-    "date": "2026-06-13"
+    "location": "福建省福州市",
+    "currentApplicants": 1,
+    "date": "2026-06-14"
   },
   {
     "department": "",
-    "jobTitle": "海拉尔海关缉私分局一级警长及以下",
+    "jobTitle": "边检站一级警长及以下（五）",
     "recruitCount": 1,
-    "location": "内蒙古自治区呼伦贝尔市",
-    "currentApplicants": 2,
-    "date": "2026-06-13"
+    "location": "天津市",
+    "currentApplicants": 0,
+    "date": "2026-06-14"
+  },
+  {
+    "department": "",
+    "jobTitle": "长白出入境边防检查站一级警长及以下",
+    "recruitCount": 1,
+    "location": "吉林省白山市长白朝鲜族自治县",
+    "currentApplicants": 0,
+    "date": "2026-06-14"
   },
   {
     "department": "",
     "jobTitle": "监管部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "河北省张家口市万全区",
+    "location": "山东省青岛市莱西市",
     "currentApplicants": 0,
-    "date": "2026-06-13"
+    "date": "2026-06-14"
   },
   {
     "department": "",
-    "jobTitle": "郑州铁路公安处基层所队民警",
-    "recruitCount": 2,
-    "location": "河南省",
-    "currentApplicants": 2,
-    "date": "2026-06-13"
-  },
-  {
-    "department": "",
-    "jobTitle": "鹰潭铁路公安处基层所队民警",
+    "jobTitle": "丹东港出入境边防检查站一级警长及以下",
     "recruitCount": 1,
-    "location": "江西省",
+    "location": "辽宁省丹东市",
     "currentApplicants": 1,
-    "date": "2026-06-13"
+    "date": "2026-06-14"
   }
 ]
