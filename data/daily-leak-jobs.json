@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "美兰边检站一级警长及以下（五）",
-    "recruitCount": 1,
-    "location": "海南省海口市",
-    "currentApplicants": 2,
-    "date": "2026-06-18"
-  },
-  {
-    "department": "",
-    "jobTitle": "清涧调查队一级科员",
-    "recruitCount": 1,
-    "location": "陕西省榆林市清涧县",
-    "currentApplicants": 2,
-    "date": "2026-06-18"
-  },
-  {
-    "department": "",
-    "jobTitle": "科技部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "云南省临沧市沧源佤族自治县",
-    "currentApplicants": 2,
-    "date": "2026-06-18"
-  },
-  {
-    "department": "",
-    "jobTitle": "监管部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "陕西省汉中市",
+    "jobTitle": "满洲里出入境边防检查站一级警长及以下（一）",
+    "recruitCount": 2,
+    "location": "内蒙古自治区呼伦贝尔市满洲里市",
     "currentApplicants": 1,
-    "date": "2026-06-18"
+    "date": "2026-06-19"
   },
   {
     "department": "",
-    "jobTitle": "二连出入境边防检查站一级警长及以下（三）",
+    "jobTitle": "综合部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "内蒙古自治区锡林郭勒盟二连浩特市",
-    "currentApplicants": 0,
-    "date": "2026-06-18"
+    "location": "云南省红河哈尼族彝族自治州绿春县",
+    "currentApplicants": 2,
+    "date": "2026-06-19"
+  },
+  {
+    "department": "",
+    "jobTitle": "财务一级行政执法员",
+    "recruitCount": 1,
+    "location": "江苏省苏州市常熟市",
+    "currentApplicants": 1,
+    "date": "2026-06-19"
+  },
+  {
+    "department": "",
+    "jobTitle": "一级行政执法员（九）",
+    "recruitCount": 2,
+    "location": "江苏省苏州市昆山市",
+    "currentApplicants": 2,
+    "date": "2026-06-19"
+  },
+  {
+    "department": "",
+    "jobTitle": "天津铁路公安处基层所队民警",
+    "recruitCount": 5,
+    "location": "天津市",
+    "currentApplicants": 2,
+    "date": "2026-06-19"
   }
 ]
