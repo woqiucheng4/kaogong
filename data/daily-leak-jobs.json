@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "满洲里出入境边防检查站一级警长及以下（一）",
-    "recruitCount": 2,
-    "location": "内蒙古自治区呼伦贝尔市满洲里市",
-    "currentApplicants": 1,
-    "date": "2026-06-19"
-  },
-  {
-    "department": "",
-    "jobTitle": "综合部门一级主任科员及以下",
+    "jobTitle": "抚远出入境边防检查站一级警长及以下",
     "recruitCount": 1,
-    "location": "云南省红河哈尼族彝族自治州绿春县",
-    "currentApplicants": 2,
-    "date": "2026-06-19"
+    "location": "黑龙江省佳木斯市抚远市",
+    "currentApplicants": 0,
+    "date": "2026-06-20"
   },
   {
     "department": "",
-    "jobTitle": "财务一级行政执法员",
+    "jobTitle": "一级行政执法员（六）",
     "recruitCount": 1,
-    "location": "江苏省苏州市常熟市",
-    "currentApplicants": 1,
-    "date": "2026-06-19"
+    "location": "广东省佛山市三水区",
+    "currentApplicants": 0,
+    "date": "2026-06-20"
   },
   {
     "department": "",
-    "jobTitle": "一级行政执法员（九）",
+    "jobTitle": "兰州铁路公安处基层所队民警",
+    "recruitCount": 1,
+    "location": "甘肃省兰州市",
+    "currentApplicants": 0,
+    "date": "2026-06-20"
+  },
+  {
+    "department": "",
+    "jobTitle": "石家庄铁路公安处基层所队民警",
+    "recruitCount": 1,
+    "location": "河北省",
+    "currentApplicants": 0,
+    "date": "2026-06-20"
+  },
+  {
+    "department": "",
+    "jobTitle": "武汉铁路公安处基层所队民警",
     "recruitCount": 2,
-    "location": "江苏省苏州市昆山市",
+    "location": "湖北省",
     "currentApplicants": 2,
-    "date": "2026-06-19"
-  },
-  {
-    "department": "",
-    "jobTitle": "天津铁路公安处基层所队民警",
-    "recruitCount": 5,
-    "location": "天津市",
-    "currentApplicants": 2,
-    "date": "2026-06-19"
+    "date": "2026-06-20"
   }
 ]
