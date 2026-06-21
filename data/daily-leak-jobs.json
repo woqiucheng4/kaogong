@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "抚远出入境边防检查站一级警长及以下",
+    "jobTitle": "恩施边检站一级警长及以下（一）",
     "recruitCount": 1,
-    "location": "黑龙江省佳木斯市抚远市",
-    "currentApplicants": 0,
-    "date": "2026-06-20"
+    "location": "湖北省恩施土家族苗族自治州恩施市",
+    "currentApplicants": 1,
+    "date": "2026-06-21"
   },
   {
     "department": "",
-    "jobTitle": "一级行政执法员（六）",
+    "jobTitle": "财务四级主办及以下（一）",
     "recruitCount": 1,
-    "location": "广东省佛山市三水区",
-    "currentApplicants": 0,
-    "date": "2026-06-20"
+    "location": "福建省厦门市",
+    "currentApplicants": 1,
+    "date": "2026-06-21"
   },
   {
     "department": "",
-    "jobTitle": "兰州铁路公安处基层所队民警",
-    "recruitCount": 1,
-    "location": "甘肃省兰州市",
-    "currentApplicants": 0,
-    "date": "2026-06-20"
-  },
-  {
-    "department": "",
-    "jobTitle": "石家庄铁路公安处基层所队民警",
-    "recruitCount": 1,
-    "location": "河北省",
-    "currentApplicants": 0,
-    "date": "2026-06-20"
-  },
-  {
-    "department": "",
-    "jobTitle": "武汉铁路公安处基层所队民警",
-    "recruitCount": 2,
-    "location": "湖北省",
+    "jobTitle": "第一税务分局（重点税源企业税收服务和管理局）一级行政执法员（一）",
+    "recruitCount": 3,
+    "location": "辽宁省鞍山市铁东区",
     "currentApplicants": 2,
-    "date": "2026-06-20"
+    "date": "2026-06-21"
+  },
+  {
+    "department": "",
+    "jobTitle": "吉隆出入境边防检查站一级警长及以下（二）",
+    "recruitCount": 1,
+    "location": "西藏自治区日喀则市",
+    "currentApplicants": 1,
+    "date": "2026-06-21"
+  },
+  {
+    "department": "",
+    "jobTitle": "监管部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "陕西省延安市志丹县",
+    "currentApplicants": 1,
+    "date": "2026-06-21"
   }
 ]
