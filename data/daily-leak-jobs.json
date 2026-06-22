@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "恩施边检站一级警长及以下（一）",
+    "jobTitle": "蚌埠铁路公安处基层所队民警",
     "recruitCount": 1,
-    "location": "湖北省恩施土家族苗族自治州恩施市",
-    "currentApplicants": 1,
-    "date": "2026-06-21"
+    "location": "安徽省亳州市",
+    "currentApplicants": 0,
+    "date": "2026-06-22"
   },
   {
     "department": "",
-    "jobTitle": "财务四级主办及以下（一）",
+    "jobTitle": "西双版纳出入境边防检查站一级警长及以下（一）",
     "recruitCount": 1,
-    "location": "福建省厦门市",
-    "currentApplicants": 1,
-    "date": "2026-06-21"
-  },
-  {
-    "department": "",
-    "jobTitle": "第一税务分局（重点税源企业税收服务和管理局）一级行政执法员（一）",
-    "recruitCount": 3,
-    "location": "辽宁省鞍山市铁东区",
+    "location": "云南省西双版纳傣族自治州",
     "currentApplicants": 2,
-    "date": "2026-06-21"
+    "date": "2026-06-22"
   },
   {
     "department": "",
-    "jobTitle": "吉隆出入境边防检查站一级警长及以下（二）",
+    "jobTitle": "运输管理处一级主任科员及以下",
     "recruitCount": 1,
-    "location": "西藏自治区日喀则市",
+    "location": "广东省广州市",
     "currentApplicants": 1,
-    "date": "2026-06-21"
+    "date": "2026-06-22"
   },
   {
     "department": "",
-    "jobTitle": "监管部门一级主任科员及以下",
+    "jobTitle": "法规部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "陕西省延安市志丹县",
+    "location": "陕西省渭南市",
     "currentApplicants": 1,
-    "date": "2026-06-21"
+    "date": "2026-06-22"
+  },
+  {
+    "department": "",
+    "jobTitle": "福州出入境边防检查站一级警长及以下",
+    "recruitCount": 1,
+    "location": "福建省福州市",
+    "currentApplicants": 2,
+    "date": "2026-06-22"
   }
 ]
