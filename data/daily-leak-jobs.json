@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "蚌埠铁路公安处基层所队民警",
+    "jobTitle": "财会部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "安徽省亳州市",
+    "location": "福建省宁德市霞浦县",
+    "currentApplicants": 1,
+    "date": "2026-06-23"
+  },
+  {
+    "department": "",
+    "jobTitle": "一级行政执法员（六）",
+    "recruitCount": 1,
+    "location": "海南省",
     "currentApplicants": 0,
-    "date": "2026-06-22"
+    "date": "2026-06-23"
   },
   {
     "department": "",
-    "jobTitle": "西双版纳出入境边防检查站一级警长及以下（一）",
+    "jobTitle": "一级行政执法员（四）",
     "recruitCount": 1,
-    "location": "云南省西双版纳傣族自治州",
+    "location": "辽宁省大连市",
     "currentApplicants": 2,
-    "date": "2026-06-22"
+    "date": "2026-06-23"
   },
   {
     "department": "",
-    "jobTitle": "运输管理处一级主任科员及以下",
+    "jobTitle": "番禺海关缉私分局一级警长及以下",
     "recruitCount": 1,
-    "location": "广东省广州市",
-    "currentApplicants": 1,
-    "date": "2026-06-22"
-  },
-  {
-    "department": "",
-    "jobTitle": "法规部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "陕西省渭南市",
-    "currentApplicants": 1,
-    "date": "2026-06-22"
-  },
-  {
-    "department": "",
-    "jobTitle": "福州出入境边防检查站一级警长及以下",
-    "recruitCount": 1,
-    "location": "福建省福州市",
+    "location": "广东省",
     "currentApplicants": 2,
-    "date": "2026-06-22"
+    "date": "2026-06-23"
+  },
+  {
+    "department": "",
+    "jobTitle": "刑事技术鉴定中心一级警长及以下",
+    "recruitCount": 1,
+    "location": "云南省昆明市",
+    "currentApplicants": 2,
+    "date": "2026-06-23"
   }
 ]
