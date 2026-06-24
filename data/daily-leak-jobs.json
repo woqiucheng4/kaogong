@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "财会部门一级主任科员及以下",
+    "jobTitle": "动物检疫四级主办及以下（一）",
     "recruitCount": 1,
-    "location": "福建省宁德市霞浦县",
-    "currentApplicants": 1,
-    "date": "2026-06-23"
-  },
-  {
-    "department": "",
-    "jobTitle": "一级行政执法员（六）",
-    "recruitCount": 1,
-    "location": "海南省",
+    "location": "广东省肇庆市",
     "currentApplicants": 0,
-    "date": "2026-06-23"
+    "date": "2026-06-24"
   },
   {
     "department": "",
-    "jobTitle": "一级行政执法员（四）",
-    "recruitCount": 1,
-    "location": "辽宁省大连市",
-    "currentApplicants": 2,
-    "date": "2026-06-23"
+    "jobTitle": "重庆铁路公安处基层所队民警",
+    "recruitCount": 4,
+    "location": "重庆市",
+    "currentApplicants": 1,
+    "date": "2026-06-24"
   },
   {
     "department": "",
-    "jobTitle": "番禺海关缉私分局一级警长及以下",
-    "recruitCount": 1,
-    "location": "广东省",
+    "jobTitle": "安康铁路公安处基层所队民警",
+    "recruitCount": 3,
+    "location": "陕西省",
     "currentApplicants": 2,
-    "date": "2026-06-23"
+    "date": "2026-06-24"
   },
   {
     "department": "",
-    "jobTitle": "刑事技术鉴定中心一级警长及以下",
+    "jobTitle": "白云边检站警务技术一级主管及以下（一）",
     "recruitCount": 1,
-    "location": "云南省昆明市",
+    "location": "广东省广州市",
+    "currentApplicants": 0,
+    "date": "2026-06-24"
+  },
+  {
+    "department": "",
+    "jobTitle": "里孜出入境边防检查站一级警长及以下（二）",
+    "recruitCount": 1,
+    "location": "西藏自治区日喀则市",
     "currentApplicants": 2,
-    "date": "2026-06-23"
+    "date": "2026-06-24"
   }
 ]
