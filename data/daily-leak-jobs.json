@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "动物检疫四级主办及以下（一）",
+    "jobTitle": "额敏调查队一级科员（1）",
     "recruitCount": 1,
-    "location": "广东省肇庆市",
-    "currentApplicants": 0,
-    "date": "2026-06-24"
+    "location": "新疆维吾尔自治区塔城地区额敏县",
+    "currentApplicants": 2,
+    "date": "2026-06-25"
   },
   {
     "department": "",
-    "jobTitle": "重庆铁路公安处基层所队民警",
-    "recruitCount": 4,
-    "location": "重庆市",
+    "jobTitle": "故城河务局一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "河北省衡水市故城县",
     "currentApplicants": 1,
-    "date": "2026-06-24"
+    "date": "2026-06-25"
   },
   {
     "department": "",
-    "jobTitle": "安康铁路公安处基层所队民警",
-    "recruitCount": 3,
-    "location": "陕西省",
-    "currentApplicants": 2,
-    "date": "2026-06-24"
-  },
-  {
-    "department": "",
-    "jobTitle": "白云边检站警务技术一级主管及以下（一）",
+    "jobTitle": "内设处室二级主任科员及以下",
     "recruitCount": 1,
-    "location": "广东省广州市",
-    "currentApplicants": 0,
-    "date": "2026-06-24"
+    "location": "黑龙江省",
+    "currentApplicants": 2,
+    "date": "2026-06-25"
   },
   {
     "department": "",
-    "jobTitle": "里孜出入境边防检查站一级警长及以下（二）",
+    "jobTitle": "机关党委一级主任科员及以下",
     "recruitCount": 1,
-    "location": "西藏自治区日喀则市",
+    "location": "河南省郑州市",
     "currentApplicants": 2,
-    "date": "2026-06-24"
+    "date": "2026-06-25"
+  },
+  {
+    "department": "",
+    "jobTitle": "水旱灾害防御处一级主任科员及以下",
+    "recruitCount": 2,
+    "location": "天津市河东区",
+    "currentApplicants": 1,
+    "date": "2026-06-25"
   }
 ]
