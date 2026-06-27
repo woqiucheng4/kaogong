@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "财会部门一级主任科员及以下",
+    "jobTitle": "科技部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "福建省漳州市漳浦县",
-    "currentApplicants": 1,
-    "date": "2026-06-26"
-  },
-  {
-    "department": "",
-    "jobTitle": "一级主办及以下（一）",
-    "recruitCount": 2,
-    "location": "四川省攀枝花市东区",
-    "currentApplicants": 0,
-    "date": "2026-06-26"
-  },
-  {
-    "department": "",
-    "jobTitle": "监管部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "河北省邢台市沙河市",
+    "location": "广西壮族自治区崇左市宁明县",
     "currentApplicants": 2,
-    "date": "2026-06-26"
+    "date": "2026-06-27"
   },
   {
     "department": "",
-    "jobTitle": "一级主办及以下（二）",
-    "recruitCount": 2,
-    "location": "云南省大理白族自治州大理市",
-    "currentApplicants": 1,
-    "date": "2026-06-26"
+    "jobTitle": "植物检疫四级主办及以下",
+    "recruitCount": 1,
+    "location": "广东省清远市",
+    "currentApplicants": 0,
+    "date": "2026-06-27"
   },
   {
     "department": "",
-    "jobTitle": "一级主办及以下（一）",
+    "jobTitle": "卫生检疫四级主办及以下（一）",
+    "recruitCount": 1,
+    "location": "广东省",
+    "currentApplicants": 0,
+    "date": "2026-06-27"
+  },
+  {
+    "department": "",
+    "jobTitle": "新闻宣传四级主办及以下",
     "recruitCount": 2,
-    "location": "四川省广元市利州区",
+    "location": "广东省",
     "currentApplicants": 1,
-    "date": "2026-06-26"
+    "date": "2026-06-27"
+  },
+  {
+    "department": "",
+    "jobTitle": "植物检疫四级主办及以下（一）",
+    "recruitCount": 1,
+    "location": "广东省",
+    "currentApplicants": 2,
+    "date": "2026-06-27"
   }
 ]
