@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "科技部门一级主任科员及以下",
+    "jobTitle": "伊春边境管理支队一级警长及以下",
     "recruitCount": 1,
-    "location": "广西壮族自治区崇左市宁明县",
+    "location": "黑龙江省伊春市",
     "currentApplicants": 2,
-    "date": "2026-06-27"
+    "date": "2026-06-28"
   },
   {
     "department": "",
-    "jobTitle": "植物检疫四级主办及以下",
+    "jobTitle": "综合业务部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "广东省清远市",
-    "currentApplicants": 0,
-    "date": "2026-06-27"
+    "location": "四川省眉山市",
+    "currentApplicants": 2,
+    "date": "2026-06-28"
   },
   {
     "department": "",
-    "jobTitle": "卫生检疫四级主办及以下（一）",
+    "jobTitle": "北京铁路公安处基层所队民警",
     "recruitCount": 1,
-    "location": "广东省",
-    "currentApplicants": 0,
-    "date": "2026-06-27"
-  },
-  {
-    "department": "",
-    "jobTitle": "新闻宣传四级主办及以下",
-    "recruitCount": 2,
-    "location": "广东省",
+    "location": "河北省廊坊市",
     "currentApplicants": 1,
-    "date": "2026-06-27"
+    "date": "2026-06-28"
   },
   {
     "department": "",
-    "jobTitle": "植物检疫四级主办及以下（一）",
+    "jobTitle": "兰州铁路公安处基层所队民警",
     "recruitCount": 1,
-    "location": "广东省",
-    "currentApplicants": 2,
-    "date": "2026-06-27"
+    "location": "甘肃省陇南市",
+    "currentApplicants": 1,
+    "date": "2026-06-28"
+  },
+  {
+    "department": "",
+    "jobTitle": "石家庄铁路公安处基层所队民警",
+    "recruitCount": 1,
+    "location": "河北省",
+    "currentApplicants": 0,
+    "date": "2026-06-28"
   }
 ]
