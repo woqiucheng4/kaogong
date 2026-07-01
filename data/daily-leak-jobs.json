@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "观测与网络处一级主任科员及以下",
+    "jobTitle": "综合部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "新疆维吾尔自治区乌鲁木齐市天山区",
+    "location": "云南省曲靖市",
+    "currentApplicants": 1,
+    "date": "2026-07-01"
+  },
+  {
+    "department": "",
+    "jobTitle": "郑州铁路公安处基层所队民警",
+    "recruitCount": 2,
+    "location": "河南省",
+    "currentApplicants": 0,
+    "date": "2026-07-01"
+  },
+  {
+    "department": "",
+    "jobTitle": "一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "宁夏回族自治区银川市",
     "currentApplicants": 2,
-    "date": "2026-06-30"
+    "date": "2026-07-01"
   },
   {
     "department": "",
-    "jobTitle": "济南铁路公安处基层所队民警",
-    "recruitCount": 3,
-    "location": "山东省",
+    "jobTitle": "天津铁路公安处基层所队民警",
+    "recruitCount": 7,
+    "location": "天津市",
+    "currentApplicants": 2,
+    "date": "2026-07-01"
+  },
+  {
+    "department": "",
+    "jobTitle": "天津保税区海关缉私分局一级警长及以下",
+    "recruitCount": 1,
+    "location": "天津市滨海新区",
     "currentApplicants": 1,
-    "date": "2026-06-30"
-  },
-  {
-    "department": "",
-    "jobTitle": "监管部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "江西省宜春市上高县",
-    "currentApplicants": 0,
-    "date": "2026-06-30"
-  },
-  {
-    "department": "",
-    "jobTitle": "动物检疫四级主办及以下（一）",
-    "recruitCount": 1,
-    "location": "广东省",
-    "currentApplicants": 1,
-    "date": "2026-06-30"
-  },
-  {
-    "department": "",
-    "jobTitle": "法律四级主办及以下",
-    "recruitCount": 1,
-    "location": "福建省龙岩市",
-    "currentApplicants": 0,
-    "date": "2026-06-30"
+    "date": "2026-07-01"
   }
 ]
