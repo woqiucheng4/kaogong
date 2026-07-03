@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "永善调查队一级科员",
+    "jobTitle": "绥中调查队一级科员（1）",
     "recruitCount": 1,
-    "location": "云南省昭通市永善县",
-    "currentApplicants": 2,
-    "date": "2026-07-02"
+    "location": "辽宁省葫芦岛市绥中县",
+    "currentApplicants": 0,
+    "date": "2026-07-03"
   },
   {
     "department": "",
-    "jobTitle": "策克出入境边防检查站一级警长及以下（五）",
+    "jobTitle": "珲春出入境边防检查站一级警长及以下",
     "recruitCount": 1,
-    "location": "内蒙古自治区阿拉善盟额济纳旗",
-    "currentApplicants": 2,
-    "date": "2026-07-02"
+    "location": "吉林省延边朝鲜族自治州珲春市",
+    "currentApplicants": 1,
+    "date": "2026-07-03"
   },
   {
     "department": "",
-    "jobTitle": "技术保障队警务技术一级主管及以下",
-    "recruitCount": 2,
+    "jobTitle": "监管部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "山东省青岛市莱西市",
+    "currentApplicants": 2,
+    "date": "2026-07-03"
+  },
+  {
+    "department": "",
+    "jobTitle": "南宁出入境边防检查站一级警长及以下（四）",
+    "recruitCount": 1,
+    "location": "广西壮族自治区南宁市",
+    "currentApplicants": 2,
+    "date": "2026-07-03"
+  },
+  {
+    "department": "",
+    "jobTitle": "法规部门一级主任科员及以下",
+    "recruitCount": 1,
     "location": "广西壮族自治区南宁市",
     "currentApplicants": 0,
-    "date": "2026-07-02"
-  },
-  {
-    "department": "",
-    "jobTitle": "白山边境管理支队一级警长及以下（十一）",
-    "recruitCount": 1,
-    "location": "吉林省白山市长白朝鲜族自治县",
-    "currentApplicants": 0,
-    "date": "2026-07-02"
-  },
-  {
-    "department": "",
-    "jobTitle": "满洲里出入境边防检查站一级警长及以下（三）",
-    "recruitCount": 2,
-    "location": "内蒙古自治区呼伦贝尔市满洲里市",
-    "currentApplicants": 2,
-    "date": "2026-07-02"
+    "date": "2026-07-03"
   }
 ]
