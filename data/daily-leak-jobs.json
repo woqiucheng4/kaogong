@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "绥中调查队一级科员（1）",
-    "recruitCount": 1,
-    "location": "辽宁省葫芦岛市绥中县",
-    "currentApplicants": 0,
-    "date": "2026-07-03"
-  },
-  {
-    "department": "",
-    "jobTitle": "珲春出入境边防检查站一级警长及以下",
-    "recruitCount": 1,
-    "location": "吉林省延边朝鲜族自治州珲春市",
-    "currentApplicants": 1,
-    "date": "2026-07-03"
-  },
-  {
-    "department": "",
     "jobTitle": "监管部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "山东省青岛市莱西市",
-    "currentApplicants": 2,
-    "date": "2026-07-03"
+    "location": "福建省宁德市",
+    "currentApplicants": 1,
+    "date": "2026-07-04"
   },
   {
     "department": "",
-    "jobTitle": "南宁出入境边防检查站一级警长及以下（四）",
+    "jobTitle": "一级科员",
     "recruitCount": 1,
-    "location": "广西壮族自治区南宁市",
-    "currentApplicants": 2,
-    "date": "2026-07-03"
+    "location": "江苏省盐城市",
+    "currentApplicants": 1,
+    "date": "2026-07-04"
   },
   {
     "department": "",
-    "jobTitle": "法规部门一级主任科员及以下",
+    "jobTitle": "水旱灾害防御处一级主任科员及以下",
+    "recruitCount": 2,
+    "location": "天津市河东区",
+    "currentApplicants": 1,
+    "date": "2026-07-04"
+  },
+  {
+    "department": "",
+    "jobTitle": "机关党委一级主任科员及以下",
     "recruitCount": 1,
-    "location": "广西壮族自治区南宁市",
-    "currentApplicants": 0,
-    "date": "2026-07-03"
+    "location": "山东省济南市",
+    "currentApplicants": 1,
+    "date": "2026-07-04"
+  },
+  {
+    "department": "",
+    "jobTitle": "财务处一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "广东省广州市天河区",
+    "currentApplicants": 2,
+    "date": "2026-07-04"
   }
 ]
