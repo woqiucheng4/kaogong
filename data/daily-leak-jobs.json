@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "法律管理四级主办及以下（一）",
-    "recruitCount": 1,
-    "location": "广东省茂名市",
-    "currentApplicants": 2,
-    "date": "2026-07-06"
-  },
-  {
-    "department": "",
-    "jobTitle": "文山边境管理支队一级警长及以下（二）",
-    "recruitCount": 1,
-    "location": "云南省文山壮族苗族自治州",
+    "jobTitle": "白山边境管理支队一级警长及以下（四）",
+    "recruitCount": 5,
+    "location": "吉林省白山市",
     "currentApplicants": 0,
-    "date": "2026-07-06"
+    "date": "2026-07-07"
   },
   {
     "department": "",
-    "jobTitle": "动物检疫四级主办及以下",
+    "jobTitle": "综合部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "山东省青岛市",
-    "currentApplicants": 2,
-    "date": "2026-07-06"
+    "location": "河南省濮阳市",
+    "currentApplicants": 1,
+    "date": "2026-07-07"
   },
   {
     "department": "",
-    "jobTitle": "海关监管四级主办及以下",
+    "jobTitle": "科技管理（电子信息化类）二级主办及以下",
     "recruitCount": 1,
-    "location": "浙江省杭州市",
-    "currentApplicants": 2,
-    "date": "2026-07-06"
+    "location": "辽宁省",
+    "currentApplicants": 1,
+    "date": "2026-07-07"
   },
   {
     "department": "",
-    "jobTitle": "植物检疫四级主办及以下（四）",
+    "jobTitle": "综合业务部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "湖南省长沙市",
+    "currentApplicants": 2,
+    "date": "2026-07-07"
+  },
+  {
+    "department": "",
+    "jobTitle": "一级行政执法员（八）",
     "recruitCount": 2,
-    "location": "广东省珠海市",
-    "currentApplicants": 2,
-    "date": "2026-07-06"
+    "location": "海南省",
+    "currentApplicants": 1,
+    "date": "2026-07-07"
   }
 ]
