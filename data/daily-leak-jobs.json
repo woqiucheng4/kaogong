@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "白山边境管理支队一级警长及以下（四）",
-    "recruitCount": 5,
-    "location": "吉林省白山市",
-    "currentApplicants": 0,
-    "date": "2026-07-07"
-  },
-  {
-    "department": "",
-    "jobTitle": "综合部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "河南省濮阳市",
-    "currentApplicants": 1,
-    "date": "2026-07-07"
-  },
-  {
-    "department": "",
-    "jobTitle": "科技管理（电子信息化类）二级主办及以下",
-    "recruitCount": 1,
-    "location": "辽宁省",
-    "currentApplicants": 1,
-    "date": "2026-07-07"
-  },
-  {
-    "department": "",
-    "jobTitle": "综合业务部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "湖南省长沙市",
+    "jobTitle": "西昌铁路公安处基层所队民警",
+    "recruitCount": 4,
+    "location": "四川省",
     "currentApplicants": 2,
-    "date": "2026-07-07"
+    "date": "2026-07-08"
   },
   {
     "department": "",
-    "jobTitle": "一级行政执法员（八）",
-    "recruitCount": 2,
-    "location": "海南省",
-    "currentApplicants": 1,
-    "date": "2026-07-07"
+    "jobTitle": "荆州调查队业务科室四级主任科员及以下",
+    "recruitCount": 1,
+    "location": "湖北省荆州市",
+    "currentApplicants": 2,
+    "date": "2026-07-08"
+  },
+  {
+    "department": "",
+    "jobTitle": "贵阳铁路公安处基层所队民警",
+    "recruitCount": 1,
+    "location": "贵州省",
+    "currentApplicants": 0,
+    "date": "2026-07-08"
+  },
+  {
+    "department": "",
+    "jobTitle": "兰州铁路公安处基层所队民警",
+    "recruitCount": 1,
+    "location": "甘肃省天水市",
+    "currentApplicants": 2,
+    "date": "2026-07-08"
+  },
+  {
+    "department": "",
+    "jobTitle": "财务四级主办及以下（一）",
+    "recruitCount": 1,
+    "location": "福建省厦门市",
+    "currentApplicants": 2,
+    "date": "2026-07-08"
   }
 ]
