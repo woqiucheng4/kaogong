@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "一级行政执法员（九）",
+    "jobTitle": "舟山调查队业务处室四级主任科员及以下（1）",
     "recruitCount": 1,
-    "location": "海南省",
+    "location": "浙江省舟山市",
     "currentApplicants": 0,
-    "date": "2026-07-09"
-  },
-  {
-    "department": "",
-    "jobTitle": "财会部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "福建省宁德市",
-    "currentApplicants": 0,
-    "date": "2026-07-09"
+    "date": "2026-07-10"
   },
   {
     "department": "",
     "jobTitle": "监管部门一级主任科员及以下",
-    "recruitCount": 2,
-    "location": "江西省抚州市",
-    "currentApplicants": 2,
-    "date": "2026-07-09"
-  },
-  {
-    "department": "",
-    "jobTitle": "综合管理岗位一级主任科员及以下",
     "recruitCount": 1,
-    "location": "河北省秦皇岛市",
+    "location": "浙江省金华市",
     "currentApplicants": 2,
-    "date": "2026-07-09"
+    "date": "2026-07-10"
   },
   {
     "department": "",
-    "jobTitle": "黄岛海关缉私分局一级警长及以下",
-    "recruitCount": 2,
-    "location": "山东省青岛市",
+    "jobTitle": "北京铁路公安处基层所队民警",
+    "recruitCount": 1,
+    "location": "河北省承德市",
     "currentApplicants": 1,
-    "date": "2026-07-09"
+    "date": "2026-07-10"
+  },
+  {
+    "department": "",
+    "jobTitle": "情报技术处一级警长及以下",
+    "recruitCount": 1,
+    "location": "吉林省长春市二道区",
+    "currentApplicants": 1,
+    "date": "2026-07-10"
+  },
+  {
+    "department": "",
+    "jobTitle": "综合业务部门一级主任科员及以下",
+    "recruitCount": 2,
+    "location": "江苏省南京市",
+    "currentApplicants": 0,
+    "date": "2026-07-10"
   }
 ]
