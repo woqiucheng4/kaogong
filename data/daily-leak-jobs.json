@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "行业监管处一级主任科员及以下",
+    "jobTitle": "一级行政执法员（十）",
     "recruitCount": 1,
-    "location": "陕西省西安市",
+    "location": "河北省秦皇岛市",
     "currentApplicants": 0,
-    "date": "2026-07-12"
-  },
-  {
-    "department": "",
-    "jobTitle": "武汉铁路公安处基层所队民警",
-    "recruitCount": 4,
-    "location": "河南省",
-    "currentApplicants": 1,
-    "date": "2026-07-12"
-  },
-  {
-    "department": "",
-    "jobTitle": "动物检疫四级主办及以下（一）",
-    "recruitCount": 1,
-    "location": "山东省烟台市",
-    "currentApplicants": 0,
-    "date": "2026-07-12"
-  },
-  {
-    "department": "",
-    "jobTitle": "科技管理（电子信息化类）一级行政执法员",
-    "recruitCount": 1,
-    "location": "江苏省苏州市张家港市",
-    "currentApplicants": 0,
-    "date": "2026-07-12"
+    "date": "2026-07-13"
   },
   {
     "department": "",
     "jobTitle": "监管部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "湖南省张家界市永定区",
+    "location": "安徽省滁州市天长市",
+    "currentApplicants": 2,
+    "date": "2026-07-13"
+  },
+  {
+    "department": "",
+    "jobTitle": "新闻宣传四级主办及以下",
+    "recruitCount": 2,
+    "location": "广东省",
     "currentApplicants": 0,
-    "date": "2026-07-12"
+    "date": "2026-07-13"
+  },
+  {
+    "department": "",
+    "jobTitle": "新闻宣传四级主办及以下",
+    "recruitCount": 1,
+    "location": "广东省",
+    "currentApplicants": 2,
+    "date": "2026-07-13"
+  },
+  {
+    "department": "",
+    "jobTitle": "档案管理四级主办及以下",
+    "recruitCount": 1,
+    "location": "广东省阳江市",
+    "currentApplicants": 1,
+    "date": "2026-07-13"
   }
 ]
