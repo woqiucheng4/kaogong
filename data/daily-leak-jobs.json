@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "一级行政执法员（十）",
+    "jobTitle": "飞行标准处一级主任科员及以下",
     "recruitCount": 1,
-    "location": "河北省秦皇岛市",
+    "location": "甘肃省兰州市",
     "currentApplicants": 0,
-    "date": "2026-07-13"
+    "date": "2026-07-14"
   },
   {
     "department": "",
-    "jobTitle": "监管部门一级主任科员及以下",
+    "jobTitle": "一级警长及以下（一）",
     "recruitCount": 1,
-    "location": "安徽省滁州市天长市",
-    "currentApplicants": 2,
-    "date": "2026-07-13"
-  },
-  {
-    "department": "",
-    "jobTitle": "新闻宣传四级主办及以下",
-    "recruitCount": 2,
-    "location": "广东省",
+    "location": "江西省南昌市红谷滩区",
     "currentApplicants": 0,
-    "date": "2026-07-13"
+    "date": "2026-07-14"
   },
   {
     "department": "",
-    "jobTitle": "新闻宣传四级主办及以下",
+    "jobTitle": "食品监管四级主办及以下（一）",
     "recruitCount": 1,
-    "location": "广东省",
-    "currentApplicants": 2,
-    "date": "2026-07-13"
-  },
-  {
-    "department": "",
-    "jobTitle": "档案管理四级主办及以下",
-    "recruitCount": 1,
-    "location": "广东省阳江市",
+    "location": "广东省广州市",
     "currentApplicants": 1,
-    "date": "2026-07-13"
+    "date": "2026-07-14"
+  },
+  {
+    "department": "",
+    "jobTitle": "连云港海关缉私分局一级警长及以下",
+    "recruitCount": 2,
+    "location": "江苏省连云港市",
+    "currentApplicants": 2,
+    "date": "2026-07-14"
+  },
+  {
+    "department": "",
+    "jobTitle": "法规部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "福建省漳州市漳浦县",
+    "currentApplicants": 2,
+    "date": "2026-07-14"
   }
 ]
