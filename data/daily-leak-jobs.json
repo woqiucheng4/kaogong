@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "财务管理四级主办及以下",
+    "jobTitle": "人事处一级主任科员及以下",
     "recruitCount": 1,
-    "location": "吉林省长春市",
-    "currentApplicants": 2,
-    "date": "2026-07-15"
+    "location": "陕西省西安市",
+    "currentApplicants": 0,
+    "date": "2026-07-16"
   },
   {
     "department": "",
-    "jobTitle": "新闻宣传四级主办及以下",
+    "jobTitle": "监管部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "广东省",
+    "location": "广东省江门市台山市",
+    "currentApplicants": 2,
+    "date": "2026-07-16"
+  },
+  {
+    "department": "",
+    "jobTitle": "市场监管处一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "福建省福州市",
     "currentApplicants": 1,
-    "date": "2026-07-15"
+    "date": "2026-07-16"
   },
   {
     "department": "",
     "jobTitle": "综合部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "浙江省杭州市萧山区",
-    "currentApplicants": 0,
-    "date": "2026-07-15"
-  },
-  {
-    "department": "",
-    "jobTitle": "财会部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "江苏省盐城市",
+    "location": "云南省曲靖市",
     "currentApplicants": 1,
-    "date": "2026-07-15"
+    "date": "2026-07-16"
   },
   {
     "department": "",
-    "jobTitle": "法律管理四级主办及以下",
-    "recruitCount": 3,
-    "location": "广东省",
+    "jobTitle": "二连出入境边防检查站一级警长及以下（四）",
+    "recruitCount": 2,
+    "location": "内蒙古自治区锡林郭勒盟二连浩特市",
     "currentApplicants": 2,
-    "date": "2026-07-15"
+    "date": "2026-07-16"
   }
 ]
