@@ -3,40 +3,40 @@
     "department": "",
     "jobTitle": "人事处一级主任科员及以下",
     "recruitCount": 1,
-    "location": "陕西省西安市",
+    "location": "四川省成都市青羊区",
+    "currentApplicants": 2,
+    "date": "2026-07-17"
+  },
+  {
+    "department": "",
+    "jobTitle": "乌鲁木齐铁路公安处基层所队民警",
+    "recruitCount": 3,
+    "location": "新疆维吾尔自治区石河子市",
+    "currentApplicants": 2,
+    "date": "2026-07-17"
+  },
+  {
+    "department": "",
+    "jobTitle": "监管一级行政执法员",
+    "recruitCount": 1,
+    "location": "黑龙江省",
+    "currentApplicants": 2,
+    "date": "2026-07-17"
+  },
+  {
+    "department": "",
+    "jobTitle": "贵阳铁路公安处基层所队民警",
+    "recruitCount": 1,
+    "location": "贵州省",
+    "currentApplicants": 2,
+    "date": "2026-07-17"
+  },
+  {
+    "department": "",
+    "jobTitle": "成都铁路公安处基层所队民警",
+    "recruitCount": 6,
+    "location": "四川省",
     "currentApplicants": 0,
-    "date": "2026-07-16"
-  },
-  {
-    "department": "",
-    "jobTitle": "监管部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "广东省江门市台山市",
-    "currentApplicants": 2,
-    "date": "2026-07-16"
-  },
-  {
-    "department": "",
-    "jobTitle": "市场监管处一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "福建省福州市",
-    "currentApplicants": 1,
-    "date": "2026-07-16"
-  },
-  {
-    "department": "",
-    "jobTitle": "综合部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "云南省曲靖市",
-    "currentApplicants": 1,
-    "date": "2026-07-16"
-  },
-  {
-    "department": "",
-    "jobTitle": "二连出入境边防检查站一级警长及以下（四）",
-    "recruitCount": 2,
-    "location": "内蒙古自治区锡林郭勒盟二连浩特市",
-    "currentApplicants": 2,
-    "date": "2026-07-16"
+    "date": "2026-07-17"
   }
 ]
