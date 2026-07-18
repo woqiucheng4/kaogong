@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "人事处一级主任科员及以下",
+    "jobTitle": "边检站一级警长及以下（二十）",
     "recruitCount": 1,
-    "location": "四川省成都市青羊区",
-    "currentApplicants": 2,
-    "date": "2026-07-17"
+    "location": "广东省江门市台山市",
+    "currentApplicants": 1,
+    "date": "2026-07-18"
   },
   {
     "department": "",
-    "jobTitle": "乌鲁木齐铁路公安处基层所队民警",
-    "recruitCount": 3,
-    "location": "新疆维吾尔自治区石河子市",
-    "currentApplicants": 2,
-    "date": "2026-07-17"
-  },
-  {
-    "department": "",
-    "jobTitle": "监管一级行政执法员",
+    "jobTitle": "监管部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "黑龙江省",
-    "currentApplicants": 2,
-    "date": "2026-07-17"
-  },
-  {
-    "department": "",
-    "jobTitle": "贵阳铁路公安处基层所队民警",
-    "recruitCount": 1,
-    "location": "贵州省",
-    "currentApplicants": 2,
-    "date": "2026-07-17"
-  },
-  {
-    "department": "",
-    "jobTitle": "成都铁路公安处基层所队民警",
-    "recruitCount": 6,
-    "location": "四川省",
+    "location": "吉林省延边朝鲜族自治州",
     "currentApplicants": 0,
-    "date": "2026-07-17"
+    "date": "2026-07-18"
+  },
+  {
+    "department": "",
+    "jobTitle": "一级主办及以下（一）",
+    "recruitCount": 3,
+    "location": "新疆维吾尔自治区伊犁哈萨克自治州伊宁市",
+    "currentApplicants": 2,
+    "date": "2026-07-18"
+  },
+  {
+    "department": "",
+    "jobTitle": "一级行政执法员（六）",
+    "recruitCount": 2,
+    "location": "江苏省南京市高淳区",
+    "currentApplicants": 0,
+    "date": "2026-07-18"
+  },
+  {
+    "department": "",
+    "jobTitle": "食品检验监管一级行政执法员",
+    "recruitCount": 1,
+    "location": "湖南省益阳市",
+    "currentApplicants": 0,
+    "date": "2026-07-18"
   }
 ]
