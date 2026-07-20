@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "监管部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "山西省运城市万荣县",
+    "jobTitle": "边检站一级警长及以下（八）",
+    "recruitCount": 4,
+    "location": "广东省珠海市",
     "currentApplicants": 2,
-    "date": "2026-07-19"
+    "date": "2026-07-20"
   },
   {
     "department": "",
-    "jobTitle": "税收征管一级行政执法员",
+    "jobTitle": "一级主办及以下（一）",
     "recruitCount": 2,
-    "location": "海南省",
-    "currentApplicants": 1,
-    "date": "2026-07-19"
-  },
-  {
-    "department": "",
-    "jobTitle": "植物检疫一级行政执法员（三）",
-    "recruitCount": 1,
-    "location": "江苏省南通市",
-    "currentApplicants": 0,
-    "date": "2026-07-19"
-  },
-  {
-    "department": "",
-    "jobTitle": "动物检疫四级主办及以下（一）",
-    "recruitCount": 1,
-    "location": "广东省肇庆市",
-    "currentApplicants": 1,
-    "date": "2026-07-19"
-  },
-  {
-    "department": "",
-    "jobTitle": "阿拉善边境管理支队一级警长及以下（二）",
-    "recruitCount": 1,
-    "location": "内蒙古自治区阿拉善盟",
+    "location": "四川省广元市利州区",
     "currentApplicants": 2,
-    "date": "2026-07-19"
+    "date": "2026-07-20"
+  },
+  {
+    "department": "",
+    "jobTitle": "汕尾海关缉私分局一级警长及以下",
+    "recruitCount": 1,
+    "location": "广东省汕尾市",
+    "currentApplicants": 2,
+    "date": "2026-07-20"
+  },
+  {
+    "department": "",
+    "jobTitle": "情报技术处一级警长及以下",
+    "recruitCount": 1,
+    "location": "辽宁省大连市",
+    "currentApplicants": 1,
+    "date": "2026-07-20"
+  },
+  {
+    "department": "",
+    "jobTitle": "西昌铁路公安处基层所队民警",
+    "recruitCount": 3,
+    "location": "四川省",
+    "currentApplicants": 1,
+    "date": "2026-07-20"
   }
 ]
