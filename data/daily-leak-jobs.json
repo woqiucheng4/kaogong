@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "边检站一级警长及以下（八）",
-    "recruitCount": 4,
-    "location": "广东省珠海市",
-    "currentApplicants": 2,
-    "date": "2026-07-20"
+    "jobTitle": "海河防潮闸管理处一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "天津市滨海新区",
+    "currentApplicants": 0,
+    "date": "2026-07-21"
   },
   {
     "department": "",
-    "jobTitle": "一级主办及以下（一）",
+    "jobTitle": "安康铁路公安处基层所队民警",
+    "recruitCount": 1,
+    "location": "陕西省",
+    "currentApplicants": 1,
+    "date": "2026-07-21"
+  },
+  {
+    "department": "",
+    "jobTitle": "卫生检疫四级主办及以下",
+    "recruitCount": 1,
+    "location": "广东省",
+    "currentApplicants": 1,
+    "date": "2026-07-21"
+  },
+  {
+    "department": "",
+    "jobTitle": "货物监管四级主办及以下",
     "recruitCount": 2,
-    "location": "四川省广元市利州区",
-    "currentApplicants": 2,
-    "date": "2026-07-20"
+    "location": "广东省",
+    "currentApplicants": 0,
+    "date": "2026-07-21"
   },
   {
     "department": "",
-    "jobTitle": "汕尾海关缉私分局一级警长及以下",
-    "recruitCount": 1,
-    "location": "广东省汕尾市",
-    "currentApplicants": 2,
-    "date": "2026-07-20"
-  },
-  {
-    "department": "",
-    "jobTitle": "情报技术处一级警长及以下",
-    "recruitCount": 1,
-    "location": "辽宁省大连市",
+    "jobTitle": "新闻宣传四级主办及以下",
+    "recruitCount": 2,
+    "location": "广东省",
     "currentApplicants": 1,
-    "date": "2026-07-20"
-  },
-  {
-    "department": "",
-    "jobTitle": "西昌铁路公安处基层所队民警",
-    "recruitCount": 3,
-    "location": "四川省",
-    "currentApplicants": 1,
-    "date": "2026-07-20"
+    "date": "2026-07-21"
   }
 ]
