@@ -3,40 +3,40 @@
     "department": "",
     "jobTitle": "监管部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "江西省抚州市资溪县",
+    "location": "黑龙江省双鸭山市",
     "currentApplicants": 1,
-    "date": "2026-07-22"
+    "date": "2026-07-23"
   },
   {
     "department": "",
-    "jobTitle": "成都边检站警务技术一级主管及以下（二）",
+    "jobTitle": "延边边境管理支队一级警长及以下（十二）",
     "recruitCount": 1,
-    "location": "四川省成都市",
+    "location": "吉林省延边朝鲜族自治州图们市",
+    "currentApplicants": 2,
+    "date": "2026-07-23"
+  },
+  {
+    "department": "",
+    "jobTitle": "西昌铁路公安处基层所队民警",
+    "recruitCount": 4,
+    "location": "四川省",
+    "currentApplicants": 2,
+    "date": "2026-07-23"
+  },
+  {
+    "department": "",
+    "jobTitle": "法规部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "河南省周口市淮阳区",
+    "currentApplicants": 2,
+    "date": "2026-07-23"
+  },
+  {
+    "department": "",
+    "jobTitle": "行政管理四级主办及以下",
+    "recruitCount": 1,
+    "location": "广东省",
     "currentApplicants": 1,
-    "date": "2026-07-22"
-  },
-  {
-    "department": "",
-    "jobTitle": "一级行政执法员（三）",
-    "recruitCount": 2,
-    "location": "辽宁省抚顺市顺城区",
-    "currentApplicants": 0,
-    "date": "2026-07-22"
-  },
-  {
-    "department": "",
-    "jobTitle": "一级行政执法员（三）",
-    "recruitCount": 1,
-    "location": "广东省中山市",
-    "currentApplicants": 0,
-    "date": "2026-07-22"
-  },
-  {
-    "department": "",
-    "jobTitle": "法律管理四级主办及以下（一）",
-    "recruitCount": 1,
-    "location": "广东省湛江市",
-    "currentApplicants": 1,
-    "date": "2026-07-22"
+    "date": "2026-07-23"
   }
 ]
