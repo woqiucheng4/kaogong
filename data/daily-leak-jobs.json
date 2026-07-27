@@ -3,40 +3,40 @@
     "department": "",
     "jobTitle": "一级主办及以下（一）",
     "recruitCount": 2,
-    "location": "四川省广元市",
+    "location": "宁夏回族自治区银川市金凤区",
+    "currentApplicants": 2,
+    "date": "2026-07-27"
+  },
+  {
+    "department": "",
+    "jobTitle": "天津铁路公安处基层所队民警",
+    "recruitCount": 4,
+    "location": "天津市",
     "currentApplicants": 1,
-    "date": "2026-07-26"
+    "date": "2026-07-27"
   },
   {
     "department": "",
-    "jobTitle": "法规部门一级主任科员及以下",
+    "jobTitle": "办公综合四级主办及以下",
     "recruitCount": 1,
-    "location": "广西壮族自治区南宁市马山县",
+    "location": "福建省厦门市",
     "currentApplicants": 2,
-    "date": "2026-07-26"
+    "date": "2026-07-27"
   },
   {
     "department": "",
-    "jobTitle": "怀化铁路公安处基层所队民警",
-    "recruitCount": 2,
-    "location": "湖南省怀化市",
+    "jobTitle": "一级行政执法员（一）",
+    "recruitCount": 1,
+    "location": "福建省福州市",
+    "currentApplicants": 0,
+    "date": "2026-07-27"
+  },
+  {
+    "department": "",
+    "jobTitle": "法律管理四级主办及以下（一）",
+    "recruitCount": 1,
+    "location": "广东省茂名市",
     "currentApplicants": 1,
-    "date": "2026-07-26"
-  },
-  {
-    "department": "",
-    "jobTitle": "一级主办及以下（一）",
-    "recruitCount": 2,
-    "location": "新疆维吾尔自治区喀什地区喀什市",
-    "currentApplicants": 2,
-    "date": "2026-07-26"
-  },
-  {
-    "department": "",
-    "jobTitle": "监管部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "山东省聊城市东阿县",
-    "currentApplicants": 2,
-    "date": "2026-07-26"
+    "date": "2026-07-27"
   }
 ]
