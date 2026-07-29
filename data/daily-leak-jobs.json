@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "延边边境管理支队一级警长及以下（一）",
-    "recruitCount": 2,
-    "location": "吉林省延边朝鲜族自治州",
-    "currentApplicants": 1,
-    "date": "2026-07-28"
-  },
-  {
-    "department": "",
-    "jobTitle": "人事教育科一级主任科员及以下",
+    "jobTitle": "鲅鱼圈出入境边防检查站一级警长及以下（二）",
     "recruitCount": 1,
-    "location": "贵州省铜仁市碧江区",
+    "location": "辽宁省营口市",
     "currentApplicants": 1,
-    "date": "2026-07-28"
+    "date": "2026-07-29"
   },
   {
     "department": "",
-    "jobTitle": "监管部门一级主任科员及以下",
+    "jobTitle": "法规部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "广东省梅州市大埔县",
-    "currentApplicants": 1,
-    "date": "2026-07-28"
+    "location": "福建省宁德市",
+    "currentApplicants": 0,
+    "date": "2026-07-29"
   },
   {
     "department": "",
-    "jobTitle": "技术保障队一级警长及以下",
-    "recruitCount": 2,
-    "location": "吉林省长春市",
+    "jobTitle": "海拉尔铁路公安处基层所队民警",
+    "recruitCount": 7,
+    "location": "内蒙古自治区呼伦贝尔市",
     "currentApplicants": 2,
-    "date": "2026-07-28"
+    "date": "2026-07-29"
   },
   {
     "department": "",
-    "jobTitle": "延吉出入境边防检查站一级警长及以下",
+    "jobTitle": "综合业务部门一级主任科员及以下",
+    "recruitCount": 2,
+    "location": "广东省广州市",
+    "currentApplicants": 0,
+    "date": "2026-07-29"
+  },
+  {
+    "department": "",
+    "jobTitle": "科技管理（电子信息化类）二级主办及以下",
     "recruitCount": 1,
-    "location": "吉林省延边朝鲜族自治州延吉市",
-    "currentApplicants": 2,
-    "date": "2026-07-28"
+    "location": "辽宁省",
+    "currentApplicants": 0,
+    "date": "2026-07-29"
   }
 ]
