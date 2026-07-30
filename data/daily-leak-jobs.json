@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "鲅鱼圈出入境边防检查站一级警长及以下（二）",
-    "recruitCount": 1,
-    "location": "辽宁省营口市",
-    "currentApplicants": 1,
-    "date": "2026-07-29"
-  },
-  {
-    "department": "",
-    "jobTitle": "法规部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "福建省宁德市",
-    "currentApplicants": 0,
-    "date": "2026-07-29"
-  },
-  {
-    "department": "",
-    "jobTitle": "海拉尔铁路公安处基层所队民警",
-    "recruitCount": 7,
-    "location": "内蒙古自治区呼伦贝尔市",
-    "currentApplicants": 2,
-    "date": "2026-07-29"
-  },
-  {
-    "department": "",
-    "jobTitle": "综合业务部门一级主任科员及以下",
+    "jobTitle": "延边边境管理支队一级警长及以下（二）",
     "recruitCount": 2,
-    "location": "广东省广州市",
+    "location": "吉林省延边朝鲜族自治州",
     "currentApplicants": 0,
-    "date": "2026-07-29"
+    "date": "2026-07-30"
   },
   {
     "department": "",
-    "jobTitle": "科技管理（电子信息化类）二级主办及以下",
+    "jobTitle": "纪检组纪检一室一级主任科员及以下",
     "recruitCount": 1,
-    "location": "辽宁省",
+    "location": "山东省济南市",
+    "currentApplicants": 1,
+    "date": "2026-07-30"
+  },
+  {
+    "department": "",
+    "jobTitle": "综合部门一级主任科员及以下",
+    "recruitCount": 3,
+    "location": "四川省",
+    "currentApplicants": 2,
+    "date": "2026-07-30"
+  },
+  {
+    "department": "",
+    "jobTitle": "怒江边境管理支队一级警长及以下（五）",
+    "recruitCount": 2,
+    "location": "云南省怒江傈僳族自治州",
+    "currentApplicants": 1,
+    "date": "2026-07-30"
+  },
+  {
+    "department": "",
+    "jobTitle": "临沧边境管理支队一级警长及以下（一）",
+    "recruitCount": 3,
+    "location": "云南省临沧市",
     "currentApplicants": 0,
-    "date": "2026-07-29"
+    "date": "2026-07-30"
   }
 ]
