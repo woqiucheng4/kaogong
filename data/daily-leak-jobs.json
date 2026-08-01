@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "和田边境管理支队一级警长及以下（七）",
-    "recruitCount": 4,
-    "location": "新疆维吾尔自治区和田地区",
+    "jobTitle": "第一税务分局（重点税源企业税收服务和管理局）一级行政执法员（一）",
+    "recruitCount": 3,
+    "location": "辽宁省鞍山市铁东区",
     "currentApplicants": 0,
-    "date": "2026-07-31"
+    "date": "2026-08-01"
   },
   {
     "department": "",
-    "jobTitle": "法制管理四级主办及以下（四）",
-    "recruitCount": 2,
-    "location": "广东省珠海市",
-    "currentApplicants": 0,
-    "date": "2026-07-31"
-  },
-  {
-    "department": "",
-    "jobTitle": "一级主办及以下（一）",
-    "recruitCount": 2,
-    "location": "福建省福州市晋安区",
-    "currentApplicants": 1,
-    "date": "2026-07-31"
-  },
-  {
-    "department": "",
-    "jobTitle": "一级行政执法员",
+    "jobTitle": "杭州边检站一级警长及以下（一）",
     "recruitCount": 1,
-    "location": "辽宁省盘锦市",
+    "location": "浙江省杭州市萧山区",
+    "currentApplicants": 0,
+    "date": "2026-08-01"
+  },
+  {
+    "department": "",
+    "jobTitle": "一级科员二",
+    "recruitCount": 1,
+    "location": "吉林省辽源市",
     "currentApplicants": 1,
-    "date": "2026-07-31"
+    "date": "2026-08-01"
   },
   {
     "department": "",
     "jobTitle": "监管部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "黑龙江省大庆市",
+    "location": "山东省青岛市莱西市",
     "currentApplicants": 0,
-    "date": "2026-07-31"
+    "date": "2026-08-01"
+  },
+  {
+    "department": "",
+    "jobTitle": "财会部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "贵州省黔西南布依族苗族自治州",
+    "currentApplicants": 1,
+    "date": "2026-08-01"
   }
 ]
