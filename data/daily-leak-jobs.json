@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "第一税务分局（重点税源企业税收服务和管理局）一级行政执法员（一）",
-    "recruitCount": 3,
-    "location": "辽宁省鞍山市铁东区",
+    "jobTitle": "一级行政执法员（四）",
+    "recruitCount": 1,
+    "location": "辽宁省大连市",
     "currentApplicants": 0,
-    "date": "2026-08-01"
+    "date": "2026-08-02"
   },
   {
     "department": "",
-    "jobTitle": "杭州边检站一级警长及以下（一）",
+    "jobTitle": "郑州铁路公安处基层所队民警",
+    "recruitCount": 2,
+    "location": "河南省",
+    "currentApplicants": 2,
+    "date": "2026-08-02"
+  },
+  {
+    "department": "",
+    "jobTitle": "法制管理四级主办及以下",
     "recruitCount": 1,
-    "location": "浙江省杭州市萧山区",
+    "location": "河北省唐山市",
     "currentApplicants": 0,
-    "date": "2026-08-01"
+    "date": "2026-08-02"
   },
   {
     "department": "",
-    "jobTitle": "一级科员二",
-    "recruitCount": 1,
-    "location": "吉林省辽源市",
-    "currentApplicants": 1,
-    "date": "2026-08-01"
+    "jobTitle": "武汉铁路公安处基层所队民警",
+    "recruitCount": 2,
+    "location": "湖北省",
+    "currentApplicants": 2,
+    "date": "2026-08-02"
   },
   {
     "department": "",
-    "jobTitle": "监管部门一级主任科员及以下",
+    "jobTitle": "纪律检查部门一级警长及以下",
     "recruitCount": 1,
-    "location": "山东省青岛市莱西市",
-    "currentApplicants": 0,
-    "date": "2026-08-01"
-  },
-  {
-    "department": "",
-    "jobTitle": "财会部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "贵州省黔西南布依族苗族自治州",
-    "currentApplicants": 1,
-    "date": "2026-08-01"
+    "location": "湖北省武汉市",
+    "currentApplicants": 2,
+    "date": "2026-08-02"
   }
 ]
