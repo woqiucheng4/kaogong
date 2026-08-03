@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "一级行政执法员（四）",
+    "jobTitle": "一级主办及以下（二）",
     "recruitCount": 1,
-    "location": "辽宁省大连市",
+    "location": "云南省大理白族自治州大理市",
     "currentApplicants": 0,
-    "date": "2026-08-02"
+    "date": "2026-08-03"
   },
   {
     "department": "",
-    "jobTitle": "郑州铁路公安处基层所队民警",
-    "recruitCount": 2,
-    "location": "河南省",
-    "currentApplicants": 2,
-    "date": "2026-08-02"
-  },
-  {
-    "department": "",
-    "jobTitle": "法制管理四级主办及以下",
+    "jobTitle": "九洲海关缉私分局一级警长及以下",
     "recruitCount": 1,
-    "location": "河北省唐山市",
+    "location": "广东省珠海市",
     "currentApplicants": 0,
-    "date": "2026-08-02"
+    "date": "2026-08-03"
   },
   {
     "department": "",
-    "jobTitle": "武汉铁路公安处基层所队民警",
-    "recruitCount": 2,
-    "location": "湖北省",
-    "currentApplicants": 2,
-    "date": "2026-08-02"
-  },
-  {
-    "department": "",
-    "jobTitle": "纪律检查部门一级警长及以下",
+    "jobTitle": "白山边境管理支队一级警长及以下（十四）",
     "recruitCount": 1,
-    "location": "湖北省武汉市",
+    "location": "吉林省白山市长白朝鲜族自治县",
+    "currentApplicants": 1,
+    "date": "2026-08-03"
+  },
+  {
+    "department": "",
+    "jobTitle": "边检站一级警长及以下（七）",
+    "recruitCount": 3,
+    "location": "吉林省延边朝鲜族自治州",
     "currentApplicants": 2,
-    "date": "2026-08-02"
+    "date": "2026-08-03"
+  },
+  {
+    "department": "",
+    "jobTitle": "金塔调查队一级科员",
+    "recruitCount": 1,
+    "location": "甘肃省酒泉市金塔县",
+    "currentApplicants": 0,
+    "date": "2026-08-03"
   }
 ]
