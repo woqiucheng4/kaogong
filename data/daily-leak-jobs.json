@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "一级主办及以下（二）",
+    "jobTitle": "监管部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "云南省大理白族自治州大理市",
+    "location": "重庆市开州区",
     "currentApplicants": 0,
-    "date": "2026-08-03"
+    "date": "2026-08-04"
   },
   {
     "department": "",
-    "jobTitle": "九洲海关缉私分局一级警长及以下",
-    "recruitCount": 1,
-    "location": "广东省珠海市",
+    "jobTitle": "桂林出入境边防检查站一级警长及以下（一）",
+    "recruitCount": 2,
+    "location": "广西壮族自治区桂林市",
     "currentApplicants": 0,
-    "date": "2026-08-03"
+    "date": "2026-08-04"
   },
   {
     "department": "",
-    "jobTitle": "白山边境管理支队一级警长及以下（十四）",
-    "recruitCount": 1,
-    "location": "吉林省白山市长白朝鲜族自治县",
+    "jobTitle": "怒江边境管理支队一级警长及以下（二）",
+    "recruitCount": 2,
+    "location": "云南省怒江傈僳族自治州",
     "currentApplicants": 1,
-    "date": "2026-08-03"
+    "date": "2026-08-04"
   },
   {
     "department": "",
-    "jobTitle": "边检站一级警长及以下（七）",
-    "recruitCount": 3,
-    "location": "吉林省延边朝鲜族自治州",
-    "currentApplicants": 2,
-    "date": "2026-08-03"
-  },
-  {
-    "department": "",
-    "jobTitle": "金塔调查队一级科员",
+    "jobTitle": "一级主任科员及以下一",
     "recruitCount": 1,
-    "location": "甘肃省酒泉市金塔县",
+    "location": "新疆维吾尔自治区乌鲁木齐市水磨沟区",
     "currentApplicants": 0,
-    "date": "2026-08-03"
+    "date": "2026-08-04"
+  },
+  {
+    "department": "",
+    "jobTitle": "普兰出入境边防检查站一级警长及以下（二）",
+    "recruitCount": 1,
+    "location": "西藏自治区阿里地区",
+    "currentApplicants": 1,
+    "date": "2026-08-04"
   }
 ]
