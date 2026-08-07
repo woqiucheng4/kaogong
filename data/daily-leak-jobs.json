@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "友谊关出入境边防检查站一级警长及以下（一）",
-    "recruitCount": 1,
-    "location": "广西壮族自治区崇左市",
-    "currentApplicants": 2,
-    "date": "2026-08-05"
-  },
-  {
-    "department": "",
-    "jobTitle": "横琴海关缉私分局一级警长及以下",
-    "recruitCount": 1,
-    "location": "广东省珠海市",
-    "currentApplicants": 0,
-    "date": "2026-08-05"
-  },
-  {
-    "department": "",
-    "jobTitle": "财会部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "福建省漳州市漳浦县",
-    "currentApplicants": 0,
-    "date": "2026-08-05"
-  },
-  {
-    "department": "",
-    "jobTitle": "植物检疫四级主办及以下（一）",
-    "recruitCount": 1,
-    "location": "广东省",
-    "currentApplicants": 0,
-    "date": "2026-08-05"
-  },
-  {
-    "department": "",
-    "jobTitle": "货物查验四级主办及以下（二）",
+    "jobTitle": "延边边境管理支队一级警长及以下（一）",
     "recruitCount": 2,
-    "location": "广东省珠海市",
+    "location": "吉林省延边朝鲜族自治州",
+    "currentApplicants": 2,
+    "date": "2026-08-07"
+  },
+  {
+    "department": "",
+    "jobTitle": "监管部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "浙江省丽水市松阳县",
     "currentApplicants": 1,
-    "date": "2026-08-05"
+    "date": "2026-08-07"
+  },
+  {
+    "department": "",
+    "jobTitle": "马尾海关缉私分局一级警长及以下",
+    "recruitCount": 1,
+    "location": "福建省福州市",
+    "currentApplicants": 0,
+    "date": "2026-08-07"
+  },
+  {
+    "department": "",
+    "jobTitle": "动植物检疫一级行政执法员",
+    "recruitCount": 1,
+    "location": "内蒙古自治区锡林郭勒盟",
+    "currentApplicants": 2,
+    "date": "2026-08-07"
+  },
+  {
+    "department": "",
+    "jobTitle": "后勤保障处一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "陕西省延安市",
+    "currentApplicants": 1,
+    "date": "2026-08-07"
   }
 ]
