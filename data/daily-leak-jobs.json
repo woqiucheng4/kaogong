@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "防灾减灾科一级主任科员及以下",
+    "jobTitle": "监管部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "新疆维吾尔自治区昌吉回族自治州吉木萨尔县",
+    "location": "河北省秦皇岛市卢龙县",
     "currentApplicants": 2,
-    "date": "2026-08-08"
+    "date": "2026-08-09"
   },
   {
     "department": "",
-    "jobTitle": "办公综合四级主办及以下",
+    "jobTitle": "稽核查监管四级主办及以下（二）",
     "recruitCount": 2,
-    "location": "广东省湛江市",
-    "currentApplicants": 1,
-    "date": "2026-08-08"
-  },
-  {
-    "department": "",
-    "jobTitle": "一级行政执法员（一）",
-    "recruitCount": 1,
-    "location": "江西省九江市",
+    "location": "广东省珠海市",
     "currentApplicants": 2,
-    "date": "2026-08-08"
+    "date": "2026-08-09"
   },
   {
     "department": "",
-    "jobTitle": "一级主任科员及以下",
+    "jobTitle": "动物检疫四级主办及以下（一）",
     "recruitCount": 1,
-    "location": "四川省成都市",
-    "currentApplicants": 1,
-    "date": "2026-08-08"
+    "location": "广东省",
+    "currentApplicants": 0,
+    "date": "2026-08-09"
   },
   {
     "department": "",
-    "jobTitle": "督察业务处一级主任科员及以下",
-    "recruitCount": 2,
-    "location": "广东省广州市",
+    "jobTitle": "化工监管一级行政执法员",
+    "recruitCount": 1,
+    "location": "江苏省苏州市张家港市",
     "currentApplicants": 1,
-    "date": "2026-08-08"
+    "date": "2026-08-09"
+  },
+  {
+    "department": "",
+    "jobTitle": "一级主办及以下（一）",
+    "recruitCount": 2,
+    "location": "黑龙江省佳木斯市向阳区",
+    "currentApplicants": 1,
+    "date": "2026-08-09"
   }
 ]
