@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "科技部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "新疆维吾尔自治区塔城地区托里县",
-    "currentApplicants": 2,
-    "date": "2026-08-11"
-  },
-  {
-    "department": "",
-    "jobTitle": "市场监管处一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "山西省太原市杏花岭区",
-    "currentApplicants": 1,
-    "date": "2026-08-11"
-  },
-  {
-    "department": "",
-    "jobTitle": "法规部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "海南省",
-    "currentApplicants": 2,
-    "date": "2026-08-11"
-  },
-  {
-    "department": "",
-    "jobTitle": "财会部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "广东省佛山市三水区",
-    "currentApplicants": 2,
-    "date": "2026-08-11"
-  },
-  {
-    "department": "",
     "jobTitle": "监管部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "甘肃省酒泉市敦煌市",
+    "location": "广东省梅州市大埔县",
     "currentApplicants": 1,
-    "date": "2026-08-11"
+    "date": "2026-08-12"
+  },
+  {
+    "department": "",
+    "jobTitle": "二连出入境边防检查站一级警长及以下（一）",
+    "recruitCount": 1,
+    "location": "内蒙古自治区锡林郭勒盟二连浩特市",
+    "currentApplicants": 0,
+    "date": "2026-08-12"
+  },
+  {
+    "department": "",
+    "jobTitle": "延边边境管理支队一级警长及以下（十六）",
+    "recruitCount": 1,
+    "location": "吉林省延边朝鲜族自治州图们市",
+    "currentApplicants": 2,
+    "date": "2026-08-12"
+  },
+  {
+    "department": "",
+    "jobTitle": "阿勒泰边境管理支队一级警长及以下（九）",
+    "recruitCount": 4,
+    "location": "新疆维吾尔自治区阿勒泰地区",
+    "currentApplicants": 0,
+    "date": "2026-08-12"
+  },
+  {
+    "department": "",
+    "jobTitle": "二连出入境边防检查站警务技术一级主管及以下",
+    "recruitCount": 3,
+    "location": "内蒙古自治区锡林郭勒盟二连浩特市",
+    "currentApplicants": 1,
+    "date": "2026-08-12"
   }
 ]
