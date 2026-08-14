@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "边检站一级警长及以下（二十一）",
+    "jobTitle": "二连出入境边防检查站一级警长及以下（三）",
     "recruitCount": 1,
-    "location": "广东省阳江市",
+    "location": "内蒙古自治区锡林郭勒盟二连浩特市",
+    "currentApplicants": 2,
+    "date": "2026-08-14"
+  },
+  {
+    "department": "",
+    "jobTitle": "监管部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "河南省周口市淮阳区",
     "currentApplicants": 0,
-    "date": "2026-08-13"
+    "date": "2026-08-14"
+  },
+  {
+    "department": "",
+    "jobTitle": "植物检疫四级主办及以下（一）",
+    "recruitCount": 1,
+    "location": "山东省烟台市",
+    "currentApplicants": 0,
+    "date": "2026-08-14"
+  },
+  {
+    "department": "",
+    "jobTitle": "法制工作四级主办及以下（二）",
+    "recruitCount": 1,
+    "location": "山东省威海市",
+    "currentApplicants": 0,
+    "date": "2026-08-14"
   },
   {
     "department": "",
     "jobTitle": "监管部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "江苏省扬州市仪征市",
-    "currentApplicants": 2,
-    "date": "2026-08-13"
-  },
-  {
-    "department": "",
-    "jobTitle": "监管部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "浙江省金华市",
-    "currentApplicants": 2,
-    "date": "2026-08-13"
-  },
-  {
-    "department": "",
-    "jobTitle": "西昌铁路公安处基层所队民警",
-    "recruitCount": 5,
-    "location": "四川省",
-    "currentApplicants": 1,
-    "date": "2026-08-13"
-  },
-  {
-    "department": "",
-    "jobTitle": "综合部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "内蒙古自治区巴彦淖尔市乌拉特前旗",
-    "currentApplicants": 2,
-    "date": "2026-08-13"
+    "location": "内蒙古自治区鄂尔多斯市伊金霍洛旗",
+    "currentApplicants": 0,
+    "date": "2026-08-14"
   }
 ]
