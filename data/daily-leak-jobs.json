@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "红其拉甫出入境边防检查站一级警长及以下（五）",
-    "recruitCount": 4,
-    "location": "新疆维吾尔自治区喀什地区塔什库尔干塔吉克自治县",
+    "jobTitle": "调查监测处一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "陕西省西安市碑林区",
     "currentApplicants": 2,
-    "date": "2026-08-18"
+    "date": "2026-08-19"
   },
   {
     "department": "",
-    "jobTitle": "延边边境管理支队一级警长及以下（一）",
-    "recruitCount": 2,
-    "location": "吉林省延边朝鲜族自治州",
+    "jobTitle": "恩施边检站一级警长及以下（三）",
+    "recruitCount": 1,
+    "location": "湖北省",
     "currentApplicants": 1,
-    "date": "2026-08-18"
+    "date": "2026-08-19"
   },
   {
     "department": "",
-    "jobTitle": "边检站一级警长及以下（七）",
+    "jobTitle": "打洛出入境边防检查站一级警长及以下（一）",
+    "recruitCount": 1,
+    "location": "云南省西双版纳傣族自治州",
+    "currentApplicants": 1,
+    "date": "2026-08-19"
+  },
+  {
+    "department": "",
+    "jobTitle": "西双版纳边境管理支队一级警长及以下（三）",
     "recruitCount": 2,
-    "location": "天津市",
+    "location": "云南省西双版纳傣族自治州",
     "currentApplicants": 0,
-    "date": "2026-08-18"
+    "date": "2026-08-19"
   },
   {
     "department": "",
-    "jobTitle": "综合部门一级主任科员及以下",
+    "jobTitle": "一级主任科员及以下",
     "recruitCount": 1,
-    "location": "广西壮族自治区防城港市",
-    "currentApplicants": 2,
-    "date": "2026-08-18"
-  },
-  {
-    "department": "",
-    "jobTitle": "阿拉善边境管理支队一级警长及以下（二）",
-    "recruitCount": 1,
-    "location": "内蒙古自治区阿拉善盟",
-    "currentApplicants": 1,
-    "date": "2026-08-18"
+    "location": "陕西省宝鸡市",
+    "currentApplicants": 0,
+    "date": "2026-08-19"
   }
 ]
