@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "人事政工一级行政执法员",
+    "jobTitle": "法制管理四级主办及以下",
     "recruitCount": 1,
-    "location": "吉林省延边朝鲜族自治州延吉市",
-    "currentApplicants": 0,
-    "date": "2026-08-20"
-  },
-  {
-    "department": "",
-    "jobTitle": "伊春边境管理支队一级警长及以下",
-    "recruitCount": 1,
-    "location": "黑龙江省伊春市",
-    "currentApplicants": 1,
-    "date": "2026-08-20"
-  },
-  {
-    "department": "",
-    "jobTitle": "审计业务处一级主任科员及以下",
-    "recruitCount": 4,
-    "location": "天津市",
-    "currentApplicants": 1,
-    "date": "2026-08-20"
-  },
-  {
-    "department": "",
-    "jobTitle": "化工产品检验监管四级主办及以下（一）",
-    "recruitCount": 1,
-    "location": "广东省江门市",
-    "currentApplicants": 0,
-    "date": "2026-08-20"
-  },
-  {
-    "department": "",
-    "jobTitle": "一级主办及以下（四）",
-    "recruitCount": 1,
-    "location": "云南省昆明市五华区",
+    "location": "福建省福州市平潭县",
     "currentApplicants": 2,
-    "date": "2026-08-20"
+    "date": "2026-08-21"
+  },
+  {
+    "department": "",
+    "jobTitle": "日喀则边境管理支队一级警长及以下（一）",
+    "recruitCount": 5,
+    "location": "西藏自治区日喀则市",
+    "currentApplicants": 2,
+    "date": "2026-08-21"
+  },
+  {
+    "department": "",
+    "jobTitle": "兰州铁路公安处基层所队民警",
+    "recruitCount": 1,
+    "location": "甘肃省陇南市",
+    "currentApplicants": 2,
+    "date": "2026-08-21"
+  },
+  {
+    "department": "",
+    "jobTitle": "衡阳铁路公安处基层所队民警",
+    "recruitCount": 2,
+    "location": "湖南省衡阳市",
+    "currentApplicants": 2,
+    "date": "2026-08-21"
+  },
+  {
+    "department": "",
+    "jobTitle": "郑州铁路公安处基层所队民警",
+    "recruitCount": 2,
+    "location": "河南省",
+    "currentApplicants": 2,
+    "date": "2026-08-21"
   }
 ]
