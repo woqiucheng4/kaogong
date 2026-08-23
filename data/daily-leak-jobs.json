@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "饶河出入境边防检查站一级警长及以下",
-    "recruitCount": 1,
-    "location": "黑龙江省双鸭山市饶河县",
-    "currentApplicants": 0,
-    "date": "2026-08-22"
-  },
-  {
-    "department": "",
-    "jobTitle": "贵阳铁路公安处基层所队民警",
-    "recruitCount": 1,
-    "location": "贵州省",
-    "currentApplicants": 0,
-    "date": "2026-08-22"
-  },
-  {
-    "department": "",
-    "jobTitle": "武汉铁路公安处基层所队民警",
-    "recruitCount": 3,
-    "location": "湖北省",
+    "jobTitle": "阿勒泰边境管理支队一级警长及以下（六）",
+    "recruitCount": 5,
+    "location": "新疆维吾尔自治区阿勒泰地区",
     "currentApplicants": 2,
-    "date": "2026-08-22"
+    "date": "2026-08-23"
   },
   {
     "department": "",
-    "jobTitle": "审计业务处一级主任科员及以下",
-    "recruitCount": 4,
-    "location": "天津市",
-    "currentApplicants": 1,
-    "date": "2026-08-22"
-  },
-  {
-    "department": "",
-    "jobTitle": "贵阳铁路公安处基层所队民警",
+    "jobTitle": "横琴海关缉私分局一级警长及以下",
     "recruitCount": 1,
-    "location": "贵州省",
-    "currentApplicants": 1,
-    "date": "2026-08-22"
+    "location": "广东省珠海市",
+    "currentApplicants": 0,
+    "date": "2026-08-23"
+  },
+  {
+    "department": "",
+    "jobTitle": "柳州铁路公安处基层所队民警",
+    "recruitCount": 2,
+    "location": "广西壮族自治区",
+    "currentApplicants": 2,
+    "date": "2026-08-23"
+  },
+  {
+    "department": "",
+    "jobTitle": "兰州铁路公安处基层所队民警",
+    "recruitCount": 1,
+    "location": "甘肃省定西市",
+    "currentApplicants": 2,
+    "date": "2026-08-23"
+  },
+  {
+    "department": "",
+    "jobTitle": "石家庄铁路公安处基层所队民警",
+    "recruitCount": 2,
+    "location": "河北省",
+    "currentApplicants": 2,
+    "date": "2026-08-23"
   }
 ]
