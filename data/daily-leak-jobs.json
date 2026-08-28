@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "综合业务部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "河北省衡水市",
-    "currentApplicants": 0,
-    "date": "2026-08-26"
-  },
-  {
-    "department": "",
-    "jobTitle": "动物检疫四级主办及以下",
-    "recruitCount": 1,
-    "location": "山东省青岛市",
-    "currentApplicants": 1,
-    "date": "2026-08-26"
-  },
-  {
-    "department": "",
-    "jobTitle": "二连出入境边防检查站一级警长及以下（四）",
+    "jobTitle": "西昌铁路公安处基层所队民警",
     "recruitCount": 2,
-    "location": "内蒙古自治区锡林郭勒盟二连浩特市",
+    "location": "四川省",
+    "currentApplicants": 1,
+    "date": "2026-08-28"
+  },
+  {
+    "department": "",
+    "jobTitle": "一级主办及以下（一）",
+    "recruitCount": 2,
+    "location": "四川省成都市锦江区",
     "currentApplicants": 2,
-    "date": "2026-08-26"
+    "date": "2026-08-28"
   },
   {
     "department": "",
-    "jobTitle": "林芝边境管理支队一级警长及以下（十四）",
+    "jobTitle": "一级主任科员及以下",
+    "recruitCount": 2,
+    "location": "辽宁省沈阳市",
+    "currentApplicants": 2,
+    "date": "2026-08-28"
+  },
+  {
+    "department": "",
+    "jobTitle": "督察室一级主任科员及以下",
     "recruitCount": 1,
-    "location": "西藏自治区林芝市",
-    "currentApplicants": 1,
-    "date": "2026-08-26"
+    "location": "陕西省西安市",
+    "currentApplicants": 0,
+    "date": "2026-08-28"
   },
   {
     "department": "",
-    "jobTitle": "阿勒泰边境管理支队一级警长及以下（四）",
-    "recruitCount": 5,
-    "location": "新疆维吾尔自治区阿勒泰地区",
-    "currentApplicants": 1,
-    "date": "2026-08-26"
+    "jobTitle": "一级行政执法员（六）",
+    "recruitCount": 1,
+    "location": "浙江省台州市",
+    "currentApplicants": 0,
+    "date": "2026-08-28"
   }
 ]
