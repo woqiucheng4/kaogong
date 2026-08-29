@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "西昌铁路公安处基层所队民警",
-    "recruitCount": 2,
-    "location": "四川省",
+    "jobTitle": "宜昌调查队业务科室四级主任科员及以下",
+    "recruitCount": 1,
+    "location": "湖北省宜昌市",
     "currentApplicants": 1,
-    "date": "2026-08-28"
+    "date": "2026-08-29"
   },
   {
     "department": "",
-    "jobTitle": "一级主办及以下（一）",
-    "recruitCount": 2,
-    "location": "四川省成都市锦江区",
-    "currentApplicants": 2,
-    "date": "2026-08-28"
-  },
-  {
-    "department": "",
-    "jobTitle": "一级主任科员及以下",
-    "recruitCount": 2,
-    "location": "辽宁省沈阳市",
-    "currentApplicants": 2,
-    "date": "2026-08-28"
-  },
-  {
-    "department": "",
-    "jobTitle": "督察室一级主任科员及以下",
+    "jobTitle": "监管部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "陕西省西安市",
-    "currentApplicants": 0,
-    "date": "2026-08-28"
+    "location": "山东省潍坊市诸城市",
+    "currentApplicants": 1,
+    "date": "2026-08-29"
   },
   {
     "department": "",
-    "jobTitle": "一级行政执法员（六）",
+    "jobTitle": "一级行政执法员（十）",
+    "recruitCount": 2,
+    "location": "河北省唐山市",
+    "currentApplicants": 1,
+    "date": "2026-08-29"
+  },
+  {
+    "department": "",
+    "jobTitle": "大同铁路公安处基层所队民警",
     "recruitCount": 1,
-    "location": "浙江省台州市",
-    "currentApplicants": 0,
-    "date": "2026-08-28"
+    "location": "山西省朔州市",
+    "currentApplicants": 2,
+    "date": "2026-08-29"
+  },
+  {
+    "department": "",
+    "jobTitle": "货物查验四级主办及以下（二）",
+    "recruitCount": 2,
+    "location": "广东省珠海市",
+    "currentApplicants": 2,
+    "date": "2026-08-29"
   }
 ]
