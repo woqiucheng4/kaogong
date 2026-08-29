@@ -1,41 +1,41 @@
 [
   {
     "department": "",
-    "jobTitle": "宜昌调查队业务科室四级主任科员及以下",
+    "jobTitle": "通化边境管理支队一级警长及以下（十二）",
     "recruitCount": 1,
-    "location": "湖北省宜昌市",
-    "currentApplicants": 1,
+    "location": "吉林省通化市集安市",
+    "currentApplicants": 2,
     "date": "2026-08-29"
   },
   {
     "department": "",
     "jobTitle": "监管部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "山东省潍坊市诸城市",
-    "currentApplicants": 1,
+    "location": "贵州省黔西南布依族苗族自治州",
+    "currentApplicants": 0,
     "date": "2026-08-29"
   },
   {
     "department": "",
-    "jobTitle": "一级行政执法员（十）",
-    "recruitCount": 2,
-    "location": "河北省唐山市",
-    "currentApplicants": 1,
-    "date": "2026-08-29"
-  },
-  {
-    "department": "",
-    "jobTitle": "大同铁路公安处基层所队民警",
+    "jobTitle": "里孜出入境边防检查站一级警长及以下（二）",
     "recruitCount": 1,
-    "location": "山西省朔州市",
-    "currentApplicants": 2,
+    "location": "西藏自治区日喀则市",
+    "currentApplicants": 1,
     "date": "2026-08-29"
   },
   {
     "department": "",
-    "jobTitle": "货物查验四级主办及以下（二）",
+    "jobTitle": "伊尔克什坦出入境边防检查站一级警长及以下（四）",
     "recruitCount": 2,
-    "location": "广东省珠海市",
+    "location": "新疆维吾尔自治区克孜勒苏柯尔克孜自治州乌恰县",
+    "currentApplicants": 0,
+    "date": "2026-08-29"
+  },
+  {
+    "department": "",
+    "jobTitle": "乌鲁木齐出入境边防检查站一级警长及以下（三）",
+    "recruitCount": 5,
+    "location": "新疆维吾尔自治区乌鲁木齐市",
     "currentApplicants": 2,
     "date": "2026-08-29"
   }
