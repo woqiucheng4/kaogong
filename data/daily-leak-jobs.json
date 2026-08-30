@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "通化边境管理支队一级警长及以下（十二）",
+    "jobTitle": "科技部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "吉林省通化市集安市",
+    "location": "云南省临沧市永德县",
     "currentApplicants": 2,
-    "date": "2026-08-29"
+    "date": "2026-08-30"
+  },
+  {
+    "department": "",
+    "jobTitle": "包头铁路公安处基层所队民警",
+    "recruitCount": 1,
+    "location": "内蒙古自治区阿拉善盟",
+    "currentApplicants": 0,
+    "date": "2026-08-30"
   },
   {
     "department": "",
     "jobTitle": "监管部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "贵州省黔西南布依族苗族自治州",
-    "currentApplicants": 0,
-    "date": "2026-08-29"
-  },
-  {
-    "department": "",
-    "jobTitle": "里孜出入境边防检查站一级警长及以下（二）",
-    "recruitCount": 1,
-    "location": "西藏自治区日喀则市",
+    "location": "河北省廊坊市永清县",
     "currentApplicants": 1,
-    "date": "2026-08-29"
+    "date": "2026-08-30"
   },
   {
     "department": "",
-    "jobTitle": "伊尔克什坦出入境边防检查站一级警长及以下（四）",
-    "recruitCount": 2,
-    "location": "新疆维吾尔自治区克孜勒苏柯尔克孜自治州乌恰县",
-    "currentApplicants": 0,
-    "date": "2026-08-29"
-  },
-  {
-    "department": "",
-    "jobTitle": "乌鲁木齐出入境边防检查站一级警长及以下（三）",
-    "recruitCount": 5,
-    "location": "新疆维吾尔自治区乌鲁木齐市",
+    "jobTitle": "科技部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "河南省漯河市舞阳县",
     "currentApplicants": 2,
-    "date": "2026-08-29"
+    "date": "2026-08-30"
+  },
+  {
+    "department": "",
+    "jobTitle": "稽查局一级主办及以下（一）",
+    "recruitCount": 2,
+    "location": "宁夏回族自治区石嘴山市大武口区",
+    "currentApplicants": 0,
+    "date": "2026-08-30"
   }
 ]
