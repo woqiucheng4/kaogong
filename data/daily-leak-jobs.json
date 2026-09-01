@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "辖区法律类监管岗位一级主任科员及以下",
-    "recruitCount": 2,
-    "location": "青海省西宁市",
+    "jobTitle": "监管部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "山东省泰安市新泰市",
+    "currentApplicants": 0,
+    "date": "2026-09-01"
+  },
+  {
+    "department": "",
+    "jobTitle": "一级行政执法员（十三）",
+    "recruitCount": 3,
+    "location": "浙江省宁波市",
+    "currentApplicants": 1,
+    "date": "2026-09-01"
+  },
+  {
+    "department": "",
+    "jobTitle": "瑞丽遣返中心执行队一级警长及以下（一）",
+    "recruitCount": 1,
+    "location": "云南省德宏傣族景颇族自治州瑞丽市",
     "currentApplicants": 2,
-    "date": "2026-08-31"
+    "date": "2026-09-01"
   },
   {
     "department": "",
-    "jobTitle": "通化边境管理支队一级警长及以下（八）",
-    "recruitCount": 2,
-    "location": "吉林省通化市集安市",
-    "currentApplicants": 0,
-    "date": "2026-08-31"
-  },
-  {
-    "department": "",
-    "jobTitle": "监管部门一级主任科员及以下",
+    "jobTitle": "法规部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "陕西省安康市",
-    "currentApplicants": 0,
-    "date": "2026-08-31"
+    "location": "福建省宁德市",
+    "currentApplicants": 1,
+    "date": "2026-09-01"
   },
   {
     "department": "",
-    "jobTitle": "监管部门一级主任科员及以下",
+    "jobTitle": "综合部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "陕西省咸阳市",
-    "currentApplicants": 0,
-    "date": "2026-08-31"
-  },
-  {
-    "department": "",
-    "jobTitle": "吉隆出入境边防检查站一级警长及以下（二）",
-    "recruitCount": 1,
-    "location": "西藏自治区日喀则市",
-    "currentApplicants": 0,
-    "date": "2026-08-31"
+    "location": "内蒙古自治区巴彦淖尔市乌拉特前旗",
+    "currentApplicants": 1,
+    "date": "2026-09-01"
   }
 ]
