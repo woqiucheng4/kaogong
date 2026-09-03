@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "濒危物种进出口管理处一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "福建省福州市",
+    "jobTitle": "阿拉善边境管理支队一级警长及以下（四）",
+    "recruitCount": 2,
+    "location": "内蒙古自治区阿拉善盟",
     "currentApplicants": 2,
-    "date": "2026-09-02"
+    "date": "2026-09-03"
   },
   {
     "department": "",
-    "jobTitle": "一级行政执法员（二）",
+    "jobTitle": "保山边境管理支队一级警长及以下（三）",
     "recruitCount": 1,
-    "location": "广东省汕头市龙湖区",
-    "currentApplicants": 2,
-    "date": "2026-09-02"
+    "location": "云南省保山市",
+    "currentApplicants": 0,
+    "date": "2026-09-03"
   },
   {
     "department": "",
-    "jobTitle": "鹰潭铁路公安处基层所队民警",
+    "jobTitle": "怒江边境管理支队一级警长及以下（一）",
     "recruitCount": 1,
-    "location": "江西省",
+    "location": "云南省怒江傈僳族自治州",
+    "currentApplicants": 2,
+    "date": "2026-09-03"
+  },
+  {
+    "department": "",
+    "jobTitle": "普洱边境管理支队一级警长及以下（二）",
+    "recruitCount": 2,
+    "location": "云南省普洱市",
+    "currentApplicants": 0,
+    "date": "2026-09-03"
+  },
+  {
+    "department": "",
+    "jobTitle": "长白山边境管理支队一级警长及以下（三）",
+    "recruitCount": 1,
+    "location": "吉林省延边朝鲜族自治州安图县",
     "currentApplicants": 1,
-    "date": "2026-09-02"
-  },
-  {
-    "department": "",
-    "jobTitle": "财务管理四级主办及以下",
-    "recruitCount": 1,
-    "location": "吉林省长春市",
-    "currentApplicants": 1,
-    "date": "2026-09-02"
-  },
-  {
-    "department": "",
-    "jobTitle": "综合业务部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "四川省达州市",
-    "currentApplicants": 2,
-    "date": "2026-09-02"
+    "date": "2026-09-03"
   }
 ]
