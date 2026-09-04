@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "阿拉善边境管理支队一级警长及以下（四）",
+    "jobTitle": "通化边境管理支队一级警长及以下（八）",
     "recruitCount": 2,
-    "location": "内蒙古自治区阿拉善盟",
-    "currentApplicants": 2,
-    "date": "2026-09-03"
-  },
-  {
-    "department": "",
-    "jobTitle": "保山边境管理支队一级警长及以下（三）",
-    "recruitCount": 1,
-    "location": "云南省保山市",
+    "location": "吉林省通化市集安市",
     "currentApplicants": 0,
-    "date": "2026-09-03"
+    "date": "2026-09-04"
   },
   {
     "department": "",
-    "jobTitle": "怒江边境管理支队一级警长及以下（一）",
-    "recruitCount": 1,
-    "location": "云南省怒江傈僳族自治州",
-    "currentApplicants": 2,
-    "date": "2026-09-03"
-  },
-  {
-    "department": "",
-    "jobTitle": "普洱边境管理支队一级警长及以下（二）",
+    "jobTitle": "一级行政执法员（三）",
     "recruitCount": 2,
-    "location": "云南省普洱市",
+    "location": "辽宁省抚顺市顺城区",
     "currentApplicants": 0,
-    "date": "2026-09-03"
+    "date": "2026-09-04"
   },
   {
     "department": "",
-    "jobTitle": "长白山边境管理支队一级警长及以下（三）",
+    "jobTitle": "监管部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "吉林省延边朝鲜族自治州安图县",
+    "location": "山东省济南市济阳区",
+    "currentApplicants": 2,
+    "date": "2026-09-04"
+  },
+  {
+    "department": "",
+    "jobTitle": "综合业务部门一级主任科员及以下",
+    "recruitCount": 2,
+    "location": "江苏省南京市",
+    "currentApplicants": 0,
+    "date": "2026-09-04"
+  },
+  {
+    "department": "",
+    "jobTitle": "闸口海关缉私分局一级警长及以下",
+    "recruitCount": 1,
+    "location": "广东省珠海市",
     "currentApplicants": 1,
-    "date": "2026-09-03"
+    "date": "2026-09-04"
   }
 ]
