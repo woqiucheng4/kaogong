@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "通化边境管理支队一级警长及以下（八）",
-    "recruitCount": 2,
-    "location": "吉林省通化市集安市",
-    "currentApplicants": 0,
-    "date": "2026-09-04"
-  },
-  {
-    "department": "",
-    "jobTitle": "一级行政执法员（三）",
-    "recruitCount": 2,
-    "location": "辽宁省抚顺市顺城区",
-    "currentApplicants": 0,
-    "date": "2026-09-04"
-  },
-  {
-    "department": "",
-    "jobTitle": "监管部门一级主任科员及以下",
+    "jobTitle": "白山边境管理支队一级警长及以下（十三）",
     "recruitCount": 1,
-    "location": "山东省济南市济阳区",
-    "currentApplicants": 2,
-    "date": "2026-09-04"
-  },
-  {
-    "department": "",
-    "jobTitle": "综合业务部门一级主任科员及以下",
-    "recruitCount": 2,
-    "location": "江苏省南京市",
-    "currentApplicants": 0,
-    "date": "2026-09-04"
-  },
-  {
-    "department": "",
-    "jobTitle": "闸口海关缉私分局一级警长及以下",
-    "recruitCount": 1,
-    "location": "广东省珠海市",
+    "location": "吉林省白山市长白朝鲜族自治县",
     "currentApplicants": 1,
-    "date": "2026-09-04"
+    "date": "2026-09-05"
+  },
+  {
+    "department": "",
+    "jobTitle": "一级科员",
+    "recruitCount": 1,
+    "location": "黑龙江省大兴安岭地区",
+    "currentApplicants": 1,
+    "date": "2026-09-05"
+  },
+  {
+    "department": "",
+    "jobTitle": "吉隆出入境边防检查站一级警长及以下（二）",
+    "recruitCount": 1,
+    "location": "西藏自治区日喀则市",
+    "currentApplicants": 2,
+    "date": "2026-09-05"
+  },
+  {
+    "department": "",
+    "jobTitle": "吉隆出入境边防检查站一级警长及以下（四）",
+    "recruitCount": 2,
+    "location": "西藏自治区日喀则市",
+    "currentApplicants": 0,
+    "date": "2026-09-05"
+  },
+  {
+    "department": "",
+    "jobTitle": "机场处一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "吉林省长春市",
+    "currentApplicants": 2,
+    "date": "2026-09-05"
   }
 ]
