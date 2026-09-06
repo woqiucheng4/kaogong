@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "白山边境管理支队一级警长及以下（十三）",
+    "jobTitle": "监管部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "吉林省白山市长白朝鲜族自治县",
-    "currentApplicants": 1,
-    "date": "2026-09-05"
-  },
-  {
-    "department": "",
-    "jobTitle": "一级科员",
-    "recruitCount": 1,
-    "location": "黑龙江省大兴安岭地区",
-    "currentApplicants": 1,
-    "date": "2026-09-05"
-  },
-  {
-    "department": "",
-    "jobTitle": "吉隆出入境边防检查站一级警长及以下（二）",
-    "recruitCount": 1,
-    "location": "西藏自治区日喀则市",
-    "currentApplicants": 2,
-    "date": "2026-09-05"
-  },
-  {
-    "department": "",
-    "jobTitle": "吉隆出入境边防检查站一级警长及以下（四）",
-    "recruitCount": 2,
-    "location": "西藏自治区日喀则市",
+    "location": "甘肃省武威市",
     "currentApplicants": 0,
-    "date": "2026-09-05"
+    "date": "2026-09-06"
   },
   {
     "department": "",
-    "jobTitle": "机场处一级主任科员及以下",
+    "jobTitle": "口岸监管一级行政执法员",
+    "recruitCount": 2,
+    "location": "海南省",
+    "currentApplicants": 0,
+    "date": "2026-09-06"
+  },
+  {
+    "department": "",
+    "jobTitle": "一级主办及以下（一）",
+    "recruitCount": 2,
+    "location": "四川省成都市",
+    "currentApplicants": 0,
+    "date": "2026-09-06"
+  },
+  {
+    "department": "",
+    "jobTitle": "植物检疫四级主办及以下",
     "recruitCount": 1,
-    "location": "吉林省长春市",
-    "currentApplicants": 2,
-    "date": "2026-09-05"
+    "location": "浙江省嘉兴市",
+    "currentApplicants": 1,
+    "date": "2026-09-06"
+  },
+  {
+    "department": "",
+    "jobTitle": "法务二级主办及以下",
+    "recruitCount": 1,
+    "location": "江苏省苏州市",
+    "currentApplicants": 0,
+    "date": "2026-09-06"
   }
 ]
