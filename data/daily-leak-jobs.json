@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "白山边境管理支队一级警长及以下（九）",
+    "jobTitle": "监管部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "吉林省白山市临江市",
-    "currentApplicants": 0,
-    "date": "2026-09-07"
+    "location": "广西壮族自治区贺州市钟山县",
+    "currentApplicants": 2,
+    "date": "2026-09-08"
   },
   {
     "department": "",
-    "jobTitle": "一级行政执法员（五）",
+    "jobTitle": "一级主任科员及以下",
     "recruitCount": 1,
-    "location": "安徽省马鞍山市",
-    "currentApplicants": 1,
-    "date": "2026-09-07"
+    "location": "湖北省咸宁市",
+    "currentApplicants": 2,
+    "date": "2026-09-08"
   },
   {
     "department": "",
-    "jobTitle": "动物检疫四级主办及以下（四）",
-    "recruitCount": 3,
-    "location": "广东省珠海市",
-    "currentApplicants": 0,
-    "date": "2026-09-07"
-  },
-  {
-    "department": "",
-    "jobTitle": "武汉铁路公安处基层所队民警",
-    "recruitCount": 2,
-    "location": "湖北省",
-    "currentApplicants": 1,
-    "date": "2026-09-07"
-  },
-  {
-    "department": "",
-    "jobTitle": "财务一级行政执法员",
+    "jobTitle": "通信导航监视处一级主任科员及以下",
     "recruitCount": 1,
-    "location": "江苏省苏州市常熟市",
+    "location": "辽宁省沈阳市",
+    "currentApplicants": 2,
+    "date": "2026-09-08"
+  },
+  {
+    "department": "",
+    "jobTitle": "伊尔克什坦出入境边防检查站一级警长及以下（一）",
+    "recruitCount": 1,
+    "location": "新疆维吾尔自治区克孜勒苏柯尔克孜自治州乌恰县",
     "currentApplicants": 1,
-    "date": "2026-09-07"
+    "date": "2026-09-08"
+  },
+  {
+    "department": "",
+    "jobTitle": "林芝边境管理支队一级警长及以下（十二）",
+    "recruitCount": 1,
+    "location": "西藏自治区林芝市",
+    "currentApplicants": 1,
+    "date": "2026-09-08"
   }
 ]
