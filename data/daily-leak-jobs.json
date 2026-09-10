@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "里孜出入境边防检查站一级警长及以下（四）",
-    "recruitCount": 2,
-    "location": "西藏自治区日喀则市",
-    "currentApplicants": 0,
-    "date": "2026-09-09"
+    "jobTitle": "科技与预报处一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "辽宁省沈阳市",
+    "currentApplicants": 1,
+    "date": "2026-09-10"
   },
   {
     "department": "",
-    "jobTitle": "丹东港出入境边防检查站一级警长及以下",
-    "recruitCount": 1,
-    "location": "辽宁省丹东市",
+    "jobTitle": "辖区财金类监管岗位一级主任科员及以下",
+    "recruitCount": 2,
+    "location": "四川省成都市",
     "currentApplicants": 0,
-    "date": "2026-09-09"
+    "date": "2026-09-10"
+  },
+  {
+    "department": "",
+    "jobTitle": "延边边境管理支队一级警长及以下（二十一）",
+    "recruitCount": 1,
+    "location": "吉林省延边朝鲜族自治州珲春市",
+    "currentApplicants": 0,
+    "date": "2026-09-10"
+  },
+  {
+    "department": "",
+    "jobTitle": "边检站一级警长及以下（七）",
+    "recruitCount": 3,
+    "location": "吉林省延边朝鲜族自治州",
+    "currentApplicants": 2,
+    "date": "2026-09-10"
   },
   {
     "department": "",
     "jobTitle": "监管部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "甘肃省陇南市西和县",
-    "currentApplicants": 2,
-    "date": "2026-09-09"
-  },
-  {
-    "department": "",
-    "jobTitle": "满洲里出入境边防检查站一级警长及以下（二）",
-    "recruitCount": 1,
-    "location": "内蒙古自治区呼伦贝尔市满洲里市",
-    "currentApplicants": 2,
-    "date": "2026-09-09"
-  },
-  {
-    "department": "",
-    "jobTitle": "长春出入境边防检查站一级警长及以下（五）",
-    "recruitCount": 1,
-    "location": "吉林省长春市",
+    "location": "广西壮族自治区北海市",
     "currentApplicants": 0,
-    "date": "2026-09-09"
+    "date": "2026-09-10"
   }
 ]
