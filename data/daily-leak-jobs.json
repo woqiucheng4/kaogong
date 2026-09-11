@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "科技与预报处一级主任科员及以下",
+    "jobTitle": "普兰出入境边防检查站一级警长及以下（四）",
     "recruitCount": 1,
-    "location": "辽宁省沈阳市",
+    "location": "西藏自治区阿里地区",
     "currentApplicants": 1,
-    "date": "2026-09-10"
-  },
-  {
-    "department": "",
-    "jobTitle": "辖区财金类监管岗位一级主任科员及以下",
-    "recruitCount": 2,
-    "location": "四川省成都市",
-    "currentApplicants": 0,
-    "date": "2026-09-10"
-  },
-  {
-    "department": "",
-    "jobTitle": "延边边境管理支队一级警长及以下（二十一）",
-    "recruitCount": 1,
-    "location": "吉林省延边朝鲜族自治州珲春市",
-    "currentApplicants": 0,
-    "date": "2026-09-10"
-  },
-  {
-    "department": "",
-    "jobTitle": "边检站一级警长及以下（七）",
-    "recruitCount": 3,
-    "location": "吉林省延边朝鲜族自治州",
-    "currentApplicants": 2,
-    "date": "2026-09-10"
+    "date": "2026-09-11"
   },
   {
     "department": "",
     "jobTitle": "监管部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "广西壮族自治区北海市",
+    "location": "江苏省苏州市昆山市",
+    "currentApplicants": 2,
+    "date": "2026-09-11"
+  },
+  {
+    "department": "",
+    "jobTitle": "货物监管四级主办及以下",
+    "recruitCount": 2,
+    "location": "广东省",
     "currentApplicants": 0,
-    "date": "2026-09-10"
+    "date": "2026-09-11"
+  },
+  {
+    "department": "",
+    "jobTitle": "刑事侦查支队警务技术一级主管及以下",
+    "recruitCount": 1,
+    "location": "四川省泸州市",
+    "currentApplicants": 0,
+    "date": "2026-09-11"
+  },
+  {
+    "department": "",
+    "jobTitle": "成都铁路公安处基层所队民警",
+    "recruitCount": 6,
+    "location": "四川省",
+    "currentApplicants": 2,
+    "date": "2026-09-11"
   }
 ]
