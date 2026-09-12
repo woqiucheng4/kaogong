@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "普兰出入境边防检查站一级警长及以下（四）",
-    "recruitCount": 1,
-    "location": "西藏自治区阿里地区",
-    "currentApplicants": 1,
-    "date": "2026-09-11"
-  },
-  {
-    "department": "",
-    "jobTitle": "监管部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "江苏省苏州市昆山市",
-    "currentApplicants": 2,
-    "date": "2026-09-11"
-  },
-  {
-    "department": "",
-    "jobTitle": "货物监管四级主办及以下",
+    "jobTitle": "怒江边境管理支队一级警长及以下（二）",
     "recruitCount": 2,
-    "location": "广东省",
-    "currentApplicants": 0,
-    "date": "2026-09-11"
+    "location": "云南省怒江傈僳族自治州",
+    "currentApplicants": 1,
+    "date": "2026-09-12"
   },
   {
     "department": "",
-    "jobTitle": "刑事侦查支队警务技术一级主管及以下",
+    "jobTitle": "食品检验监管一级行政执法员",
     "recruitCount": 1,
-    "location": "四川省泸州市",
-    "currentApplicants": 0,
-    "date": "2026-09-11"
+    "location": "浙江省舟山市",
+    "currentApplicants": 2,
+    "date": "2026-09-12"
   },
   {
     "department": "",
-    "jobTitle": "成都铁路公安处基层所队民警",
-    "recruitCount": 6,
-    "location": "四川省",
-    "currentApplicants": 2,
-    "date": "2026-09-11"
+    "jobTitle": "蚌埠铁路公安处基层所队民警",
+    "recruitCount": 5,
+    "location": "安徽省蚌埠市",
+    "currentApplicants": 1,
+    "date": "2026-09-12"
+  },
+  {
+    "department": "",
+    "jobTitle": "连云港海关缉私分局一级警长及以下",
+    "recruitCount": 1,
+    "location": "江苏省连云港市",
+    "currentApplicants": 1,
+    "date": "2026-09-12"
+  },
+  {
+    "department": "",
+    "jobTitle": "济南铁路公安处基层所队民警",
+    "recruitCount": 1,
+    "location": "山东省",
+    "currentApplicants": 1,
+    "date": "2026-09-12"
   }
 ]
