@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "怒江边境管理支队一级警长及以下（二）",
-    "recruitCount": 2,
-    "location": "云南省怒江傈僳族自治州",
-    "currentApplicants": 1,
-    "date": "2026-09-12"
+    "jobTitle": "第一税务分局（重点税源企业税收服务和管理局）一级行政执法员（一）",
+    "recruitCount": 3,
+    "location": "辽宁省鞍山市铁东区",
+    "currentApplicants": 0,
+    "date": "2026-09-13"
   },
   {
     "department": "",
-    "jobTitle": "食品检验监管一级行政执法员",
+    "jobTitle": "西双版纳出入境边防检查站一级警长及以下（一）",
     "recruitCount": 1,
-    "location": "浙江省舟山市",
+    "location": "云南省西双版纳傣族自治州",
     "currentApplicants": 2,
-    "date": "2026-09-12"
+    "date": "2026-09-13"
   },
   {
     "department": "",
-    "jobTitle": "蚌埠铁路公安处基层所队民警",
-    "recruitCount": 5,
-    "location": "安徽省蚌埠市",
-    "currentApplicants": 1,
-    "date": "2026-09-12"
-  },
-  {
-    "department": "",
-    "jobTitle": "连云港海关缉私分局一级警长及以下",
+    "jobTitle": "北仑海关缉私分局一级警长及以下",
     "recruitCount": 1,
-    "location": "江苏省连云港市",
-    "currentApplicants": 1,
-    "date": "2026-09-12"
+    "location": "浙江省宁波市",
+    "currentApplicants": 2,
+    "date": "2026-09-13"
   },
   {
     "department": "",
-    "jobTitle": "济南铁路公安处基层所队民警",
+    "jobTitle": "霍尔果斯海关缉私分局一级警长及以下",
+    "recruitCount": 3,
+    "location": "新疆维吾尔自治区伊犁哈萨克自治州霍尔果斯市",
+    "currentApplicants": 2,
+    "date": "2026-09-13"
+  },
+  {
+    "department": "",
+    "jobTitle": "韶关海关缉私分局一级警长及以下",
     "recruitCount": 1,
-    "location": "山东省",
-    "currentApplicants": 1,
-    "date": "2026-09-12"
+    "location": "广东省韶关市",
+    "currentApplicants": 2,
+    "date": "2026-09-13"
   }
 ]
