@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "边检站一级警长及以下（二）",
-    "recruitCount": 3,
-    "location": "广东省珠海市",
-    "currentApplicants": 2,
-    "date": "2026-09-16"
-  },
-  {
-    "department": "",
-    "jobTitle": "哈密铁路公安处基层所队民警",
+    "jobTitle": "一级科员一",
     "recruitCount": 1,
-    "location": "新疆维吾尔自治区哈密市",
+    "location": "江苏省苏州市",
     "currentApplicants": 2,
-    "date": "2026-09-16"
+    "date": "2026-09-17"
   },
   {
     "department": "",
-    "jobTitle": "第一税务分局（重点税源企业税收服务和管理局）一级行政执法员（一）",
-    "recruitCount": 3,
-    "location": "辽宁省鞍山市铁东区",
-    "currentApplicants": 1,
-    "date": "2026-09-16"
+    "jobTitle": "一级主办及以下（二）",
+    "recruitCount": 2,
+    "location": "云南省大理白族自治州大理市",
+    "currentApplicants": 2,
+    "date": "2026-09-17"
   },
   {
     "department": "",
-    "jobTitle": "一级主办",
+    "jobTitle": "贵阳铁路公安处基层所队民警",
+    "recruitCount": 2,
+    "location": "贵州省",
+    "currentApplicants": 0,
+    "date": "2026-09-17"
+  },
+  {
+    "department": "",
+    "jobTitle": "喀什铁路公安处基层所队民警",
     "recruitCount": 1,
-    "location": "福建省厦门市",
-    "currentApplicants": 2,
-    "date": "2026-09-16"
+    "location": "新疆维吾尔自治区和田地区",
+    "currentApplicants": 0,
+    "date": "2026-09-17"
   },
   {
     "department": "",
-    "jobTitle": "动植物检疫一级行政执法员",
+    "jobTitle": "一级行政执法员（五）",
     "recruitCount": 1,
-    "location": "新疆维吾尔自治区石河子市",
-    "currentApplicants": 2,
-    "date": "2026-09-16"
+    "location": "江苏省南京市栖霞区",
+    "currentApplicants": 0,
+    "date": "2026-09-17"
   }
 ]
