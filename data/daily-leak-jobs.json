@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "一级科员一",
+    "jobTitle": "陕西调查总队综合处室二级主任科员及以下（3）",
     "recruitCount": 1,
-    "location": "江苏省苏州市",
-    "currentApplicants": 2,
-    "date": "2026-09-17"
+    "location": "陕西省西安市",
+    "currentApplicants": 1,
+    "date": "2026-09-18"
   },
   {
     "department": "",
-    "jobTitle": "一级主办及以下（二）",
+    "jobTitle": "奎屯铁路公安处基层所队民警",
+    "recruitCount": 1,
+    "location": "新疆维吾尔自治区塔城地区",
+    "currentApplicants": 1,
+    "date": "2026-09-18"
+  },
+  {
+    "department": "",
+    "jobTitle": "法制管理四级主办及以下（三）",
     "recruitCount": 2,
-    "location": "云南省大理白族自治州大理市",
+    "location": "广东省珠海市",
+    "currentApplicants": 0,
+    "date": "2026-09-18"
+  },
+  {
+    "department": "",
+    "jobTitle": "闸口海关缉私分局一级警长及以下",
+    "recruitCount": 1,
+    "location": "广东省珠海市",
     "currentApplicants": 2,
-    "date": "2026-09-17"
+    "date": "2026-09-18"
   },
   {
     "department": "",
-    "jobTitle": "贵阳铁路公安处基层所队民警",
-    "recruitCount": 2,
-    "location": "贵州省",
-    "currentApplicants": 0,
-    "date": "2026-09-17"
-  },
-  {
-    "department": "",
-    "jobTitle": "喀什铁路公安处基层所队民警",
+    "jobTitle": "法规部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "新疆维吾尔自治区和田地区",
+    "location": "江西省宜春市宜丰县",
     "currentApplicants": 0,
-    "date": "2026-09-17"
-  },
-  {
-    "department": "",
-    "jobTitle": "一级行政执法员（五）",
-    "recruitCount": 1,
-    "location": "江苏省南京市栖霞区",
-    "currentApplicants": 0,
-    "date": "2026-09-17"
+    "date": "2026-09-18"
   }
 ]
