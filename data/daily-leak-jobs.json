@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "监管部门一级主任科员及以下",
+    "jobTitle": "满洲里出入境边防检查站一级警长及以下（二）",
     "recruitCount": 1,
-    "location": "黑龙江省齐齐哈尔市富裕县",
+    "location": "内蒙古自治区呼伦贝尔市满洲里市",
     "currentApplicants": 0,
-    "date": "2026-09-21"
+    "date": "2026-09-22"
   },
   {
     "department": "",
-    "jobTitle": "一级主办及以下（三）",
-    "recruitCount": 2,
-    "location": "四川省成都市",
+    "jobTitle": "成都铁路公安处基层所队民警",
+    "recruitCount": 1,
+    "location": "四川省南充市",
+    "currentApplicants": 0,
+    "date": "2026-09-22"
+  },
+  {
+    "department": "",
+    "jobTitle": "安康铁路公安处基层所队民警",
+    "recruitCount": 1,
+    "location": "陕西省",
     "currentApplicants": 2,
-    "date": "2026-09-21"
+    "date": "2026-09-22"
+  },
+  {
+    "department": "",
+    "jobTitle": "财务科一级警长及以下",
+    "recruitCount": 1,
+    "location": "湖北省武汉市",
+    "currentApplicants": 0,
+    "date": "2026-09-22"
   },
   {
     "department": "",
     "jobTitle": "新闻宣传四级主办及以下",
-    "recruitCount": 1,
+    "recruitCount": 2,
     "location": "广东省",
     "currentApplicants": 2,
-    "date": "2026-09-21"
-  },
-  {
-    "department": "",
-    "jobTitle": "一级警长及以下（一）",
-    "recruitCount": 1,
-    "location": "辽宁省沈阳市",
-    "currentApplicants": 2,
-    "date": "2026-09-21"
-  },
-  {
-    "department": "",
-    "jobTitle": "乌鲁木齐铁路公安处基层所队民警",
-    "recruitCount": 2,
-    "location": "新疆维吾尔自治区昌吉回族自治州",
-    "currentApplicants": 1,
-    "date": "2026-09-21"
+    "date": "2026-09-22"
   }
 ]
