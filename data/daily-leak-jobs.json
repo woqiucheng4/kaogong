@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "爱店出入境边防检查站一级警长及以下（四）",
-    "recruitCount": 2,
-    "location": "广西壮族自治区崇左市",
-    "currentApplicants": 1,
-    "date": "2026-09-23"
-  },
-  {
-    "department": "",
-    "jobTitle": "塔克什肯出入境边防检查站一级警长及以下（四）",
-    "recruitCount": 5,
-    "location": "新疆维吾尔自治区阿勒泰地区阿勒泰市",
-    "currentApplicants": 1,
-    "date": "2026-09-23"
-  },
-  {
-    "department": "",
-    "jobTitle": "运城出入境边防检查站一级警长及以下",
-    "recruitCount": 2,
-    "location": "山西省运城市",
-    "currentApplicants": 0,
-    "date": "2026-09-23"
-  },
-  {
-    "department": "",
-    "jobTitle": "成都边检站警务技术一级主管及以下（一）",
+    "jobTitle": "一级主任科员及以下",
     "recruitCount": 1,
-    "location": "四川省成都市",
+    "location": "辽宁省葫芦岛市",
     "currentApplicants": 0,
-    "date": "2026-09-23"
+    "date": "2026-09-24"
   },
   {
     "department": "",
-    "jobTitle": "二连出入境边防检查站一级警长及以下（四）",
+    "jobTitle": "一级行政执法员（四）",
+    "recruitCount": 1,
+    "location": "湖北省荆州市",
+    "currentApplicants": 0,
+    "date": "2026-09-24"
+  },
+  {
+    "department": "",
+    "jobTitle": "一级主办及以下（一）",
     "recruitCount": 2,
-    "location": "内蒙古自治区锡林郭勒盟二连浩特市",
+    "location": "宁夏回族自治区银川市金凤区",
     "currentApplicants": 1,
-    "date": "2026-09-23"
+    "date": "2026-09-24"
+  },
+  {
+    "department": "",
+    "jobTitle": "监管部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "山东省潍坊市诸城市",
+    "currentApplicants": 1,
+    "date": "2026-09-24"
+  },
+  {
+    "department": "",
+    "jobTitle": "化工产品检验监管四级主办及以下（一）",
+    "recruitCount": 1,
+    "location": "广东省江门市",
+    "currentApplicants": 0,
+    "date": "2026-09-24"
   }
 ]
