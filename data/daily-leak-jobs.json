@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "一级主任科员及以下",
+    "jobTitle": "绥芬河出入境边防检查站一级警长及以下（三）",
     "recruitCount": 1,
-    "location": "辽宁省葫芦岛市",
-    "currentApplicants": 0,
-    "date": "2026-09-24"
+    "location": "黑龙江省牡丹江市绥芬河市",
+    "currentApplicants": 2,
+    "date": "2026-09-25"
   },
   {
     "department": "",
-    "jobTitle": "一级行政执法员（四）",
+    "jobTitle": "阿里边境管理支队一级警长及以下（十四）",
     "recruitCount": 1,
-    "location": "湖北省荆州市",
+    "location": "西藏自治区阿里地区",
     "currentApplicants": 0,
-    "date": "2026-09-24"
+    "date": "2026-09-25"
   },
   {
     "department": "",
-    "jobTitle": "一级主办及以下（一）",
-    "recruitCount": 2,
-    "location": "宁夏回族自治区银川市金凤区",
+    "jobTitle": "综合处室 一级主任科员及以下 （二）",
+    "recruitCount": 3,
+    "location": "安徽省蚌埠市蚌山区",
+    "currentApplicants": 0,
+    "date": "2026-09-25"
+  },
+  {
+    "department": "",
+    "jobTitle": "一级科员二",
+    "recruitCount": 1,
+    "location": "黑龙江省双鸭山市",
     "currentApplicants": 1,
-    "date": "2026-09-24"
+    "date": "2026-09-25"
   },
   {
     "department": "",
-    "jobTitle": "监管部门一级主任科员及以下",
+    "jobTitle": "一级科员",
     "recruitCount": 1,
-    "location": "山东省潍坊市诸城市",
+    "location": "山东省枣庄市",
     "currentApplicants": 1,
-    "date": "2026-09-24"
-  },
-  {
-    "department": "",
-    "jobTitle": "化工产品检验监管四级主办及以下（一）",
-    "recruitCount": 1,
-    "location": "广东省江门市",
-    "currentApplicants": 0,
-    "date": "2026-09-24"
+    "date": "2026-09-25"
   }
 ]
