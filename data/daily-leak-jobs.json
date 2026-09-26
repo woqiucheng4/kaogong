@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "绥芬河出入境边防检查站一级警长及以下（三）",
+    "jobTitle": "监管部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "黑龙江省牡丹江市绥芬河市",
+    "location": "陕西省咸阳市",
     "currentApplicants": 2,
-    "date": "2026-09-25"
+    "date": "2026-09-26"
   },
   {
     "department": "",
-    "jobTitle": "阿里边境管理支队一级警长及以下（十四）",
+    "jobTitle": "法规部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "西藏自治区阿里地区",
+    "location": "广西壮族自治区南宁市马山县",
+    "currentApplicants": 2,
+    "date": "2026-09-26"
+  },
+  {
+    "department": "",
+    "jobTitle": "监管部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "广西壮族自治区桂林市荔浦市",
     "currentApplicants": 0,
-    "date": "2026-09-25"
+    "date": "2026-09-26"
   },
   {
     "department": "",
-    "jobTitle": "综合处室 一级主任科员及以下 （二）",
-    "recruitCount": 3,
-    "location": "安徽省蚌埠市蚌山区",
-    "currentApplicants": 0,
-    "date": "2026-09-25"
-  },
-  {
-    "department": "",
-    "jobTitle": "一级科员二",
+    "jobTitle": "监管部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "黑龙江省双鸭山市",
+    "location": "广东省佛山市高明区",
     "currentApplicants": 1,
-    "date": "2026-09-25"
+    "date": "2026-09-26"
   },
   {
     "department": "",
-    "jobTitle": "一级科员",
+    "jobTitle": "监管部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "山东省枣庄市",
-    "currentApplicants": 1,
-    "date": "2026-09-25"
+    "location": "广东省汕头市",
+    "currentApplicants": 2,
+    "date": "2026-09-26"
   }
 ]
