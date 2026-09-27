@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "监管部门一级主任科员及以下",
+    "jobTitle": "植物检疫四级主办及以下",
     "recruitCount": 1,
-    "location": "陕西省咸阳市",
+    "location": "福建省厦门市",
     "currentApplicants": 2,
-    "date": "2026-09-26"
+    "date": "2026-09-27"
   },
   {
     "department": "",
-    "jobTitle": "法规部门一级主任科员及以下",
+    "jobTitle": "杭州调查队业务处室二级主任科员及以下",
     "recruitCount": 1,
-    "location": "广西壮族自治区南宁市马山县",
-    "currentApplicants": 2,
-    "date": "2026-09-26"
-  },
-  {
-    "department": "",
-    "jobTitle": "监管部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "广西壮族自治区桂林市荔浦市",
-    "currentApplicants": 0,
-    "date": "2026-09-26"
-  },
-  {
-    "department": "",
-    "jobTitle": "监管部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "广东省佛山市高明区",
+    "location": "浙江省杭州市",
     "currentApplicants": 1,
-    "date": "2026-09-26"
+    "date": "2026-09-27"
   },
   {
     "department": "",
-    "jobTitle": "监管部门一级主任科员及以下",
+    "jobTitle": "科技管理（机械自动化类）一级行政执法员",
+    "recruitCount": 2,
+    "location": "海南省",
+    "currentApplicants": 0,
+    "date": "2026-09-27"
+  },
+  {
+    "department": "",
+    "jobTitle": "财会部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "广东省汕头市",
+    "location": "河南省信阳市罗山县",
+    "currentApplicants": 0,
+    "date": "2026-09-27"
+  },
+  {
+    "department": "",
+    "jobTitle": "货物查验四级主办及以下（七）",
+    "recruitCount": 4,
+    "location": "广东省中山市",
     "currentApplicants": 2,
-    "date": "2026-09-26"
+    "date": "2026-09-27"
   }
 ]
