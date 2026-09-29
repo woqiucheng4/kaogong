@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "综合部门一级主任科员及以下",
+    "jobTitle": "临海调查队一级科员",
     "recruitCount": 1,
-    "location": "黑龙江省七台河市勃利县",
-    "currentApplicants": 1,
-    "date": "2026-09-28"
-  },
-  {
-    "department": "",
-    "jobTitle": "马尾海关缉私分局一级警长及以下",
-    "recruitCount": 1,
-    "location": "福建省福州市",
-    "currentApplicants": 1,
-    "date": "2026-09-28"
-  },
-  {
-    "department": "",
-    "jobTitle": "和田边境管理支队一级警长及以下（八）",
-    "recruitCount": 5,
-    "location": "新疆维吾尔自治区和田地区",
+    "location": "浙江省台州市临海市",
     "currentApplicants": 0,
-    "date": "2026-09-28"
+    "date": "2026-09-29"
   },
   {
     "department": "",
-    "jobTitle": "河北调查总队综合处室四级主任科员（1）",
+    "jobTitle": "监管部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "河北省石家庄市新华区",
+    "location": "浙江省台州市温岭市",
+    "currentApplicants": 0,
+    "date": "2026-09-29"
+  },
+  {
+    "department": "",
+    "jobTitle": "北京铁路公安处基层所队民警",
+    "recruitCount": 5,
+    "location": "河北省承德市",
     "currentApplicants": 1,
-    "date": "2026-09-28"
+    "date": "2026-09-29"
   },
   {
     "department": "",
-    "jobTitle": "办公室一级主任科员及以下",
+    "jobTitle": "北京铁路公安处基层所队民警",
     "recruitCount": 1,
-    "location": "河南省郑州市",
+    "location": "河北省承德市",
+    "currentApplicants": 0,
+    "date": "2026-09-29"
+  },
+  {
+    "department": "",
+    "jobTitle": "离退休办公室一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "广东省广州市",
     "currentApplicants": 2,
-    "date": "2026-09-28"
+    "date": "2026-09-29"
   }
 ]
