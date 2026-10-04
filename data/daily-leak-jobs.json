@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "二连出入境边防检查站一级警长及以下（四）",
-    "recruitCount": 2,
-    "location": "内蒙古自治区锡林郭勒盟二连浩特市",
-    "currentApplicants": 0,
-    "date": "2026-10-03"
+    "jobTitle": "阿勒泰边境管理支队一级警长及以下（八）",
+    "recruitCount": 4,
+    "location": "新疆维吾尔自治区阿勒泰地区",
+    "currentApplicants": 1,
+    "date": "2026-10-04"
   },
   {
     "department": "",
-    "jobTitle": "综合业务部门一级主任科员及以下",
+    "jobTitle": "法制工作四级主办及以下",
     "recruitCount": 1,
-    "location": "四川省阿坝藏族羌族自治州马尔康市",
+    "location": "湖北省恩施土家族苗族自治州",
     "currentApplicants": 2,
-    "date": "2026-10-03"
+    "date": "2026-10-04"
   },
   {
     "department": "",
-    "jobTitle": "东兴海关缉私分局一级警长及以下",
+    "jobTitle": "梅州海关缉私分局一级警长及以下",
     "recruitCount": 1,
-    "location": "广西壮族自治区防城港市东兴市",
-    "currentApplicants": 0,
-    "date": "2026-10-03"
-  },
-  {
-    "department": "",
-    "jobTitle": "督察室一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "广东省广州市",
+    "location": "广东省梅州市",
     "currentApplicants": 2,
-    "date": "2026-10-03"
+    "date": "2026-10-04"
   },
   {
     "department": "",
-    "jobTitle": "海口美兰机场海关缉私分局一级警长及以下",
+    "jobTitle": "监管部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "海南省海口市",
-    "currentApplicants": 2,
-    "date": "2026-10-03"
+    "location": "河北省邢台市",
+    "currentApplicants": 1,
+    "date": "2026-10-04"
+  },
+  {
+    "department": "",
+    "jobTitle": "监管部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "江苏省扬州市高邮市",
+    "currentApplicants": 1,
+    "date": "2026-10-04"
   }
 ]
