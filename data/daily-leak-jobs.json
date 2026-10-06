@@ -1,7 +1,23 @@
 [
   {
     "department": "",
-    "jobTitle": "办公综合四级主办及以下",
+    "jobTitle": "法规部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "江西省赣州市于都县",
+    "currentApplicants": 2,
+    "date": "2026-10-06"
+  },
+  {
+    "department": "",
+    "jobTitle": "一级行政执法员（四）",
+    "recruitCount": 1,
+    "location": "广西壮族自治区梧州市",
+    "currentApplicants": 2,
+    "date": "2026-10-06"
+  },
+  {
+    "department": "",
+    "jobTitle": "财务四级主办及以下",
     "recruitCount": 1,
     "location": "福建省厦门市",
     "currentApplicants": 0,
@@ -9,33 +25,17 @@
   },
   {
     "department": "",
-    "jobTitle": "辖区会计类监管岗位一级主任科员及以下",
-    "recruitCount": 2,
-    "location": "青海省西宁市",
-    "currentApplicants": 0,
-    "date": "2026-10-06"
-  },
-  {
-    "department": "",
-    "jobTitle": "法制管理四级主办（一）",
+    "jobTitle": "科技部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "广东省珠海市",
+    "location": "甘肃省兰州市",
     "currentApplicants": 1,
     "date": "2026-10-06"
   },
   {
     "department": "",
-    "jobTitle": "植物检疫一级行政执法员（三）",
-    "recruitCount": 1,
-    "location": "江苏省南通市",
-    "currentApplicants": 2,
-    "date": "2026-10-06"
-  },
-  {
-    "department": "",
-    "jobTitle": "监管部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "山西省运城市万荣县",
+    "jobTitle": "西昌铁路公安处基层所队民警",
+    "recruitCount": 4,
+    "location": "四川省凉山彝族自治州",
     "currentApplicants": 0,
     "date": "2026-10-06"
   }
