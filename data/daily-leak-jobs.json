@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "法规部门一级主任科员及以下",
+    "jobTitle": "派出所一级警长及以下一",
     "recruitCount": 1,
-    "location": "江西省赣州市于都县",
-    "currentApplicants": 2,
-    "date": "2026-10-06"
-  },
-  {
-    "department": "",
-    "jobTitle": "一级行政执法员（四）",
-    "recruitCount": 1,
-    "location": "广西壮族自治区梧州市",
-    "currentApplicants": 2,
-    "date": "2026-10-06"
-  },
-  {
-    "department": "",
-    "jobTitle": "财务四级主办及以下",
-    "recruitCount": 1,
-    "location": "福建省厦门市",
+    "location": "江西省九江市",
     "currentApplicants": 0,
-    "date": "2026-10-06"
+    "date": "2026-10-07"
   },
   {
     "department": "",
-    "jobTitle": "科技部门一级主任科员及以下",
+    "jobTitle": "基层单位一级主办及以下（一）",
+    "recruitCount": 2,
+    "location": "新疆维吾尔自治区乌鲁木齐市新市区",
+    "currentApplicants": 2,
+    "date": "2026-10-07"
+  },
+  {
+    "department": "",
+    "jobTitle": "南宁出入境边防检查站一级警长及以下（四）",
     "recruitCount": 1,
-    "location": "甘肃省兰州市",
+    "location": "广西壮族自治区南宁市",
     "currentApplicants": 1,
-    "date": "2026-10-06"
+    "date": "2026-10-07"
   },
   {
     "department": "",
-    "jobTitle": "西昌铁路公安处基层所队民警",
-    "recruitCount": 4,
-    "location": "四川省凉山彝族自治州",
+    "jobTitle": "平潭出入境边防检查站一级警长及以下",
+    "recruitCount": 1,
+    "location": "福建省福州市平潭县",
+    "currentApplicants": 2,
+    "date": "2026-10-07"
+  },
+  {
+    "department": "",
+    "jobTitle": "福州出入境边防检查站一级警长及以下",
+    "recruitCount": 1,
+    "location": "福建省福州市",
     "currentApplicants": 0,
-    "date": "2026-10-06"
+    "date": "2026-10-07"
   }
 ]
