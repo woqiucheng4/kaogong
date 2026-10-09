@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "东兴遣返中心执行队一级警长及以下（八）",
+    "jobTitle": "综合业务部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "广西壮族自治区防城港市东兴市",
-    "currentApplicants": 1,
-    "date": "2026-10-08"
-  },
-  {
-    "department": "",
-    "jobTitle": "法规部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "江西省赣州市于都县",
+    "location": "湖北省咸宁市",
     "currentApplicants": 2,
-    "date": "2026-10-08"
+    "date": "2026-10-09"
   },
   {
     "department": "",
-    "jobTitle": "第一税务分局（重点税源企业税收服务和管理局）一级主办及以下（一）",
-    "recruitCount": 3,
+    "jobTitle": "济南铁路公安处基层所队民警",
+    "recruitCount": 1,
+    "location": "山东省",
+    "currentApplicants": 2,
+    "date": "2026-10-09"
+  },
+  {
+    "department": "",
+    "jobTitle": "佳木斯海关缉私分局一级警长及以下",
+    "recruitCount": 1,
+    "location": "黑龙江省佳木斯市",
+    "currentApplicants": 2,
+    "date": "2026-10-09"
+  },
+  {
+    "department": "",
+    "jobTitle": "打洛出入境边防检查站一级警长及以下（一）",
+    "recruitCount": 1,
+    "location": "云南省西双版纳傣族自治州",
+    "currentApplicants": 0,
+    "date": "2026-10-09"
+  },
+  {
+    "department": "",
+    "jobTitle": "美兰边检站一级警长及以下（二）",
+    "recruitCount": 1,
     "location": "海南省海口市",
     "currentApplicants": 0,
-    "date": "2026-10-08"
-  },
-  {
-    "department": "",
-    "jobTitle": "武汉铁路公安处基层所队民警",
-    "recruitCount": 2,
-    "location": "河南省",
-    "currentApplicants": 1,
-    "date": "2026-10-08"
-  },
-  {
-    "department": "",
-    "jobTitle": "郑州铁路公安处基层所队民警",
-    "recruitCount": 2,
-    "location": "河南省",
-    "currentApplicants": 0,
-    "date": "2026-10-08"
+    "date": "2026-10-09"
   }
 ]
