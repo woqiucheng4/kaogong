@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "综合业务部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "湖北省咸宁市",
-    "currentApplicants": 2,
-    "date": "2026-10-09"
-  },
-  {
-    "department": "",
-    "jobTitle": "济南铁路公安处基层所队民警",
-    "recruitCount": 1,
-    "location": "山东省",
-    "currentApplicants": 2,
-    "date": "2026-10-09"
-  },
-  {
-    "department": "",
-    "jobTitle": "佳木斯海关缉私分局一级警长及以下",
-    "recruitCount": 1,
-    "location": "黑龙江省佳木斯市",
-    "currentApplicants": 2,
-    "date": "2026-10-09"
-  },
-  {
-    "department": "",
-    "jobTitle": "打洛出入境边防检查站一级警长及以下（一）",
-    "recruitCount": 1,
-    "location": "云南省西双版纳傣族自治州",
+    "jobTitle": "吉隆出入境边防检查站一级警长及以下（四）",
+    "recruitCount": 2,
+    "location": "西藏自治区日喀则市",
     "currentApplicants": 0,
-    "date": "2026-10-09"
+    "date": "2026-10-10"
   },
   {
     "department": "",
-    "jobTitle": "美兰边检站一级警长及以下（二）",
+    "jobTitle": "宜昌调查队业务科室四级主任科员及以下",
     "recruitCount": 1,
-    "location": "海南省海口市",
+    "location": "湖北省宜昌市",
     "currentApplicants": 0,
-    "date": "2026-10-09"
+    "date": "2026-10-10"
+  },
+  {
+    "department": "",
+    "jobTitle": "丽江出入境边防检查站一级警长及以下（一）",
+    "recruitCount": 1,
+    "location": "云南省丽江市",
+    "currentApplicants": 0,
+    "date": "2026-10-10"
+  },
+  {
+    "department": "",
+    "jobTitle": "日喀则边境管理支队一级警长及以下（十二）",
+    "recruitCount": 3,
+    "location": "西藏自治区日喀则市",
+    "currentApplicants": 1,
+    "date": "2026-10-10"
+  },
+  {
+    "department": "",
+    "jobTitle": "阿里边境管理支队一级警长及以下（八）",
+    "recruitCount": 3,
+    "location": "西藏自治区阿里地区",
+    "currentApplicants": 0,
+    "date": "2026-10-10"
   }
 ]
