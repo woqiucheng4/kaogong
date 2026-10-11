@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "吉隆出入境边防检查站一级警长及以下（四）",
-    "recruitCount": 2,
-    "location": "西藏自治区日喀则市",
-    "currentApplicants": 0,
-    "date": "2026-10-10"
-  },
-  {
-    "department": "",
-    "jobTitle": "宜昌调查队业务科室四级主任科员及以下",
+    "jobTitle": "洛阳边检站一级警长及以下",
     "recruitCount": 1,
-    "location": "湖北省宜昌市",
-    "currentApplicants": 0,
-    "date": "2026-10-10"
+    "location": "河南省洛阳市",
+    "currentApplicants": 2,
+    "date": "2026-10-11"
   },
   {
     "department": "",
-    "jobTitle": "丽江出入境边防检查站一级警长及以下（一）",
-    "recruitCount": 1,
-    "location": "云南省丽江市",
-    "currentApplicants": 0,
-    "date": "2026-10-10"
-  },
-  {
-    "department": "",
-    "jobTitle": "日喀则边境管理支队一级警长及以下（十二）",
-    "recruitCount": 3,
-    "location": "西藏自治区日喀则市",
+    "jobTitle": "一级主任科员及以下",
+    "recruitCount": 4,
+    "location": "江苏省南京市",
     "currentApplicants": 1,
-    "date": "2026-10-10"
+    "date": "2026-10-11"
   },
   {
     "department": "",
-    "jobTitle": "阿里边境管理支队一级警长及以下（八）",
-    "recruitCount": 3,
-    "location": "西藏自治区阿里地区",
+    "jobTitle": "综合业务部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "重庆市涪陵区",
     "currentApplicants": 0,
-    "date": "2026-10-10"
+    "date": "2026-10-11"
+  },
+  {
+    "department": "",
+    "jobTitle": "西昌铁路公安处基层所队民警",
+    "recruitCount": 2,
+    "location": "四川省凉山彝族自治州",
+    "currentApplicants": 1,
+    "date": "2026-10-11"
+  },
+  {
+    "department": "",
+    "jobTitle": "武汉铁路公安处基层所队民警",
+    "recruitCount": 3,
+    "location": "湖北省",
+    "currentApplicants": 2,
+    "date": "2026-10-11"
   }
 ]
