@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "洛阳边检站一级警长及以下",
+    "jobTitle": "一级行政执法员（二十三）",
     "recruitCount": 1,
-    "location": "河南省洛阳市",
-    "currentApplicants": 2,
-    "date": "2026-10-11"
-  },
-  {
-    "department": "",
-    "jobTitle": "一级主任科员及以下",
-    "recruitCount": 4,
-    "location": "江苏省南京市",
-    "currentApplicants": 1,
-    "date": "2026-10-11"
-  },
-  {
-    "department": "",
-    "jobTitle": "综合业务部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "重庆市涪陵区",
+    "location": "广东省东莞市",
     "currentApplicants": 0,
-    "date": "2026-10-11"
+    "date": "2026-10-13"
   },
   {
     "department": "",
-    "jobTitle": "西昌铁路公安处基层所队民警",
+    "jobTitle": "监管一级行政执法员",
+    "recruitCount": 1,
+    "location": "广东省广州市",
+    "currentApplicants": 0,
+    "date": "2026-10-13"
+  },
+  {
+    "department": "",
+    "jobTitle": "一级主任科员及以下（一）",
     "recruitCount": 2,
-    "location": "四川省凉山彝族自治州",
+    "location": "福建省福州市鼓楼区",
     "currentApplicants": 1,
-    "date": "2026-10-11"
+    "date": "2026-10-13"
   },
   {
     "department": "",
-    "jobTitle": "武汉铁路公安处基层所队民警",
-    "recruitCount": 3,
-    "location": "湖北省",
+    "jobTitle": "格尔木铁路公安处基层所队民警",
+    "recruitCount": 1,
+    "location": "青海省海西蒙古族藏族自治州格尔木市",
     "currentApplicants": 2,
-    "date": "2026-10-11"
+    "date": "2026-10-13"
+  },
+  {
+    "department": "",
+    "jobTitle": "监管部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "江西省九江市德安县",
+    "currentApplicants": 2,
+    "date": "2026-10-13"
   }
 ]
