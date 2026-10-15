@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "四川省成都市",
-    "currentApplicants": 0,
-    "date": "2026-10-14"
-  },
-  {
-    "department": "",
-    "jobTitle": "法制管理四级主办及以下（一）",
+    "jobTitle": "普洱边境管理支队一级警长及以下（六）",
     "recruitCount": 2,
-    "location": "广东省中山市",
-    "currentApplicants": 1,
-    "date": "2026-10-14"
-  },
-  {
-    "department": "",
-    "jobTitle": "行政管理四级主办及以下",
-    "recruitCount": 1,
-    "location": "广东省",
-    "currentApplicants": 1,
-    "date": "2026-10-14"
-  },
-  {
-    "department": "",
-    "jobTitle": "新闻宣传四级主办及以下",
-    "recruitCount": 1,
-    "location": "广东省",
+    "location": "云南省普洱市",
     "currentApplicants": 2,
-    "date": "2026-10-14"
+    "date": "2026-10-15"
   },
   {
     "department": "",
-    "jobTitle": "一级行政执法员（一）",
+    "jobTitle": "监管部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "湖南省岳阳市",
+    "location": "陕西省商洛市镇安县",
+    "currentApplicants": 1,
+    "date": "2026-10-15"
+  },
+  {
+    "department": "",
+    "jobTitle": "监管部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "陕西省商洛市镇安县",
+    "currentApplicants": 1,
+    "date": "2026-10-15"
+  },
+  {
+    "department": "",
+    "jobTitle": "科技部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "广西壮族自治区崇左市龙州县",
     "currentApplicants": 0,
-    "date": "2026-10-14"
+    "date": "2026-10-15"
+  },
+  {
+    "department": "",
+    "jobTitle": "监管部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "贵州省黔南布依族苗族自治州",
+    "currentApplicants": 2,
+    "date": "2026-10-15"
   }
 ]
