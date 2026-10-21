@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "贵阳铁路公安处基层所队民警",
-    "recruitCount": 1,
-    "location": "贵州省",
+    "jobTitle": "阿克苏边境管理支队一级警长及以下",
+    "recruitCount": 3,
+    "location": "新疆维吾尔自治区阿克苏地区",
     "currentApplicants": 0,
-    "date": "2026-10-20"
+    "date": "2026-10-21"
   },
   {
     "department": "",
-    "jobTitle": "综合业务部门一级主任科员及以下",
+    "jobTitle": "一级行政执法员（八）",
     "recruitCount": 1,
-    "location": "重庆市江津区",
+    "location": "广东省珠海市香洲区",
     "currentApplicants": 0,
-    "date": "2026-10-20"
+    "date": "2026-10-21"
+  },
+  {
+    "department": "",
+    "jobTitle": "法务二级主办及以下",
+    "recruitCount": 1,
+    "location": "江苏省苏州市",
+    "currentApplicants": 2,
+    "date": "2026-10-21"
   },
   {
     "department": "",
     "jobTitle": "广州白云机场海关缉私分局一级警长及以下",
     "recruitCount": 2,
     "location": "广东省",
-    "currentApplicants": 1,
-    "date": "2026-10-20"
+    "currentApplicants": 2,
+    "date": "2026-10-21"
   },
   {
     "department": "",
-    "jobTitle": "克州边境管理支队一级警长及以下（一）",
-    "recruitCount": 2,
-    "location": "新疆维吾尔自治区克孜勒苏柯尔克孜自治州",
-    "currentApplicants": 0,
-    "date": "2026-10-20"
-  },
-  {
-    "department": "",
-    "jobTitle": "大同铁路公安处基层所队民警",
+    "jobTitle": "综合业务部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "山西省忻州市",
-    "currentApplicants": 0,
-    "date": "2026-10-20"
+    "location": "广东省中山市",
+    "currentApplicants": 1,
+    "date": "2026-10-21"
   }
 ]
