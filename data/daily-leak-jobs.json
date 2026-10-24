@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "科技部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "河南省驻马店市泌阳县",
-    "currentApplicants": 1,
-    "date": "2026-10-23"
-  },
-  {
-    "department": "",
-    "jobTitle": "一级行政执法员（五）",
-    "recruitCount": 1,
-    "location": "湖北省宜昌市",
+    "jobTitle": "呼伦贝尔边境管理支队一级警长及以下（九）",
+    "recruitCount": 4,
+    "location": "内蒙古自治区呼伦贝尔市海拉尔区",
     "currentApplicants": 0,
-    "date": "2026-10-23"
+    "date": "2026-10-24"
   },
   {
     "department": "",
-    "jobTitle": "喀什铁路公安处基层所队民警",
+    "jobTitle": "祝官屯枢纽管理所一级主任科员及以下",
     "recruitCount": 1,
-    "location": "新疆维吾尔自治区和田地区",
+    "location": "山东省德州市武城县",
     "currentApplicants": 2,
-    "date": "2026-10-23"
+    "date": "2026-10-24"
   },
   {
     "department": "",
-    "jobTitle": "鹰潭铁路公安处基层所队民警",
-    "recruitCount": 1,
-    "location": "江西省",
-    "currentApplicants": 1,
-    "date": "2026-10-23"
+    "jobTitle": "阿勒泰边境管理支队一级警长及以下（二）",
+    "recruitCount": 2,
+    "location": "新疆维吾尔自治区阿勒泰地区",
+    "currentApplicants": 2,
+    "date": "2026-10-24"
   },
   {
     "department": "",
-    "jobTitle": "天津铁路公安处基层所队民警",
-    "recruitCount": 1,
-    "location": "天津市",
+    "jobTitle": "白山边境管理支队一级警长及以下（五）",
+    "recruitCount": 2,
+    "location": "吉林省白山市",
     "currentApplicants": 1,
-    "date": "2026-10-23"
+    "date": "2026-10-24"
+  },
+  {
+    "department": "",
+    "jobTitle": "呼伦贝尔边境管理支队一级警长及以下（八）",
+    "recruitCount": 1,
+    "location": "内蒙古自治区呼伦贝尔市",
+    "currentApplicants": 0,
+    "date": "2026-10-24"
   }
 ]
