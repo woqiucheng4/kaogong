@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "法制管理四级主办及以下（一）",
+    "jobTitle": "吉木乃出入境边防检查站一级警长及以下（三）",
+    "recruitCount": 5,
+    "location": "新疆维吾尔自治区阿勒泰地区吉木乃县",
+    "currentApplicants": 1,
+    "date": "2026-11-01"
+  },
+  {
+    "department": "",
+    "jobTitle": "怀化铁路公安处基层所队民警",
+    "recruitCount": 4,
+    "location": "湖南省怀化市",
+    "currentApplicants": 2,
+    "date": "2026-11-01"
+  },
+  {
+    "department": "",
+    "jobTitle": "一级行政执法员（三）",
     "recruitCount": 2,
-    "location": "广东省中山市",
+    "location": "辽宁省抚顺市望花区",
+    "currentApplicants": 2,
+    "date": "2026-11-01"
+  },
+  {
+    "department": "",
+    "jobTitle": "一级行政执法员（十三）",
+    "recruitCount": 3,
+    "location": "浙江省宁波市",
     "currentApplicants": 1,
-    "date": "2026-10-31"
+    "date": "2026-11-01"
   },
   {
     "department": "",
-    "jobTitle": "综合业务部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "重庆市江津区",
-    "currentApplicants": 1,
-    "date": "2026-10-31"
-  },
-  {
-    "department": "",
-    "jobTitle": "一级行政执法员（四）",
-    "recruitCount": 1,
-    "location": "重庆市",
+    "jobTitle": "安康铁路公安处基层所队民警",
+    "recruitCount": 3,
+    "location": "陕西省",
     "currentApplicants": 0,
-    "date": "2026-10-31"
-  },
-  {
-    "department": "",
-    "jobTitle": "法规部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "河南省信阳市",
-    "currentApplicants": 0,
-    "date": "2026-10-31"
-  },
-  {
-    "department": "",
-    "jobTitle": "一级主办及以下（四）",
-    "recruitCount": 1,
-    "location": "云南省昆明市五华区",
-    "currentApplicants": 0,
-    "date": "2026-10-31"
+    "date": "2026-11-01"
   }
 ]
