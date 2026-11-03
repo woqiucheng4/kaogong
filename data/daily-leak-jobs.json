@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "吉木乃出入境边防检查站一级警长及以下（三）",
-    "recruitCount": 5,
-    "location": "新疆维吾尔自治区阿勒泰地区吉木乃县",
+    "jobTitle": "飞行标准处一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "辽宁省沈阳市",
     "currentApplicants": 1,
-    "date": "2026-11-01"
+    "date": "2026-11-03"
   },
   {
     "department": "",
-    "jobTitle": "怀化铁路公安处基层所队民警",
-    "recruitCount": 4,
-    "location": "湖南省怀化市",
-    "currentApplicants": 2,
-    "date": "2026-11-01"
-  },
-  {
-    "department": "",
-    "jobTitle": "一级行政执法员（三）",
+    "jobTitle": "龙邦出入境边防检查站一级警长及以下（一）",
     "recruitCount": 2,
-    "location": "辽宁省抚顺市望花区",
-    "currentApplicants": 2,
-    "date": "2026-11-01"
-  },
-  {
-    "department": "",
-    "jobTitle": "一级行政执法员（十三）",
-    "recruitCount": 3,
-    "location": "浙江省宁波市",
+    "location": "广西壮族自治区百色市",
     "currentApplicants": 1,
-    "date": "2026-11-01"
+    "date": "2026-11-03"
   },
   {
     "department": "",
-    "jobTitle": "安康铁路公安处基层所队民警",
-    "recruitCount": 3,
-    "location": "陕西省",
+    "jobTitle": "白山边境管理支队一级警长及以下（十六）",
+    "recruitCount": 1,
+    "location": "吉林省白山市临江市",
     "currentApplicants": 0,
-    "date": "2026-11-01"
+    "date": "2026-11-03"
+  },
+  {
+    "department": "",
+    "jobTitle": "监管部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "山东省青岛市莱西市",
+    "currentApplicants": 1,
+    "date": "2026-11-03"
+  },
+  {
+    "department": "",
+    "jobTitle": "东兴出入境边防检查站一级警长及以下（四）",
+    "recruitCount": 1,
+    "location": "广西壮族自治区防城港市",
+    "currentApplicants": 0,
+    "date": "2026-11-03"
   }
 ]
