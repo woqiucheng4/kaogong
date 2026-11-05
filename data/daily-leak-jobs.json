@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "边检站一级警长及以下（一）",
-    "recruitCount": 3,
-    "location": "吉林省延边朝鲜族自治州",
-    "currentApplicants": 1,
-    "date": "2026-11-04"
-  },
-  {
-    "department": "",
-    "jobTitle": "执行队一级警长及以下（七）",
+    "jobTitle": "一级行政执法员（三）",
     "recruitCount": 2,
-    "location": "吉林省长春市",
+    "location": "辽宁省抚顺市顺城区",
     "currentApplicants": 1,
-    "date": "2026-11-04"
+    "date": "2026-11-05"
   },
   {
     "department": "",
-    "jobTitle": "黑河出入境边防检查站一级警长及以下(三)",
+    "jobTitle": "监察执法处三级主任科员及以下职位",
     "recruitCount": 1,
-    "location": "黑龙江省黑河市",
+    "location": "山东省",
+    "currentApplicants": 0,
+    "date": "2026-11-05"
+  },
+  {
+    "department": "",
+    "jobTitle": "监管部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "山西省临汾市汾西县",
     "currentApplicants": 2,
-    "date": "2026-11-04"
+    "date": "2026-11-05"
   },
   {
     "department": "",
-    "jobTitle": "江阴边检站一级警长及以下",
+    "jobTitle": "新会海关缉私分局一级警长及以下",
     "recruitCount": 1,
-    "location": "江苏省无锡市江阴市",
-    "currentApplicants": 2,
-    "date": "2026-11-04"
-  },
-  {
-    "department": "",
-    "jobTitle": "保山边境管理支队一级警长及以下（三）",
-    "recruitCount": 1,
-    "location": "云南省保山市",
+    "location": "广东省江门市新会区",
     "currentApplicants": 1,
-    "date": "2026-11-04"
+    "date": "2026-11-05"
+  },
+  {
+    "department": "",
+    "jobTitle": "天津铁路公安处基层所队民警",
+    "recruitCount": 5,
+    "location": "天津市",
+    "currentApplicants": 0,
+    "date": "2026-11-05"
   }
 ]
