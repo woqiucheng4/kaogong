@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "美兰边检站警务技术一级主管及以下",
-    "recruitCount": 1,
-    "location": "海南省海口市",
-    "currentApplicants": 1,
-    "date": "2026-11-11"
-  },
-  {
-    "department": "",
-    "jobTitle": "监管部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "山西省临汾市隰县",
+    "jobTitle": "北京铁路公安处基层所队民警",
+    "recruitCount": 4,
+    "location": "河北省张家口市",
     "currentApplicants": 2,
-    "date": "2026-11-11"
+    "date": "2026-11-12"
   },
   {
     "department": "",
-    "jobTitle": "稽核查监管四级主办及以下（二）",
-    "recruitCount": 2,
-    "location": "广东省珠海市",
+    "jobTitle": "监管一级行政执法员",
+    "recruitCount": 1,
+    "location": "黑龙江省",
     "currentApplicants": 0,
-    "date": "2026-11-11"
+    "date": "2026-11-12"
   },
   {
     "department": "",
-    "jobTitle": "广州白云机场海关缉私分局一级警长及以下",
-    "recruitCount": 2,
-    "location": "广东省",
-    "currentApplicants": 2,
-    "date": "2026-11-11"
-  },
-  {
-    "department": "",
-    "jobTitle": "秦皇岛铁路公安处基层所队民警",
+    "jobTitle": "派出所一级警长及以下二",
     "recruitCount": 1,
-    "location": "河北省秦皇岛市",
+    "location": "江西省九江市",
     "currentApplicants": 1,
-    "date": "2026-11-11"
+    "date": "2026-11-12"
+  },
+  {
+    "department": "",
+    "jobTitle": "办公室一级警长及以下",
+    "recruitCount": 1,
+    "location": "浙江省杭州市",
+    "currentApplicants": 0,
+    "date": "2026-11-12"
+  },
+  {
+    "department": "",
+    "jobTitle": "新会海关缉私分局一级警长及以下",
+    "recruitCount": 2,
+    "location": "广东省江门市新会区",
+    "currentApplicants": 0,
+    "date": "2026-11-12"
   }
 ]
