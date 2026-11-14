@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "植物检疫四级主办及以下（一）",
+    "jobTitle": "吐尔尕特出入境边防检查站一级警长及以下（二）",
+    "recruitCount": 4,
+    "location": "新疆维吾尔自治区克孜勒苏柯尔克孜自治州乌恰县",
+    "currentApplicants": 2,
+    "date": "2026-11-14"
+  },
+  {
+    "department": "",
+    "jobTitle": "监管部门一级主任科员及以下",
     "recruitCount": 1,
-    "location": "山东省青岛市",
+    "location": "山东省菏泽市曹县",
     "currentApplicants": 0,
-    "date": "2026-11-13"
+    "date": "2026-11-14"
   },
   {
     "department": "",
-    "jobTitle": "柳州铁路公安处基层所队民警",
-    "recruitCount": 2,
-    "location": "广西壮族自治区",
-    "currentApplicants": 1,
-    "date": "2026-11-13"
-  },
-  {
-    "department": "",
-    "jobTitle": "办公综合一级行政执法员",
+    "jobTitle": "一级行政执法员（一）",
     "recruitCount": 1,
-    "location": "四川省南充市",
-    "currentApplicants": 1,
-    "date": "2026-11-13"
+    "location": "广东省惠州市惠阳区",
+    "currentApplicants": 2,
+    "date": "2026-11-14"
   },
   {
     "department": "",
-    "jobTitle": "情报技术处一级警长及以下",
-    "recruitCount": 1,
-    "location": "福建省厦门市",
+    "jobTitle": "海拉尔铁路公安处基层所队民警",
+    "recruitCount": 7,
+    "location": "内蒙古自治区呼伦贝尔市",
     "currentApplicants": 1,
-    "date": "2026-11-13"
+    "date": "2026-11-14"
   },
   {
     "department": "",
-    "jobTitle": "财务管理一级行政执法员（一）",
+    "jobTitle": "新闻宣传四级主办及以下",
     "recruitCount": 1,
-    "location": "广东省广州市",
+    "location": "广东省",
     "currentApplicants": 0,
-    "date": "2026-11-13"
+    "date": "2026-11-14"
   }
 ]
