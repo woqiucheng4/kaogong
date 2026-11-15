@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "北京铁路公安处基层所队民警",
-    "recruitCount": 1,
-    "location": "河北省廊坊市",
-    "currentApplicants": 0,
-    "date": "2026-11-14"
-  },
-  {
-    "department": "",
-    "jobTitle": "监管部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "贵州省黔西南布依族苗族自治州",
+    "jobTitle": "辖区法律类监管岗位一级主任科员及以下",
+    "recruitCount": 3,
+    "location": "福建省厦门市",
     "currentApplicants": 1,
-    "date": "2026-11-14"
+    "date": "2026-11-15"
   },
   {
     "department": "",
-    "jobTitle": "大同铁路公安处基层所队民警",
+    "jobTitle": "科技管理（电子信息化类）四级主办及以下（二）",
     "recruitCount": 1,
-    "location": "山西省忻州市",
-    "currentApplicants": 2,
-    "date": "2026-11-14"
+    "location": "山东省青岛市",
+    "currentApplicants": 1,
+    "date": "2026-11-15"
   },
   {
     "department": "",
-    "jobTitle": "综合业务部门一级主任科员及以下",
-    "recruitCount": 2,
+    "jobTitle": "法制工作四级主办及以下",
+    "recruitCount": 1,
+    "location": "湖北省恩施土家族苗族自治州",
+    "currentApplicants": 1,
+    "date": "2026-11-15"
+  },
+  {
+    "department": "",
+    "jobTitle": "法制管理四级主办及以下",
+    "recruitCount": 1,
+    "location": "福建省福州市平潭县",
+    "currentApplicants": 1,
+    "date": "2026-11-15"
+  },
+  {
+    "department": "",
+    "jobTitle": "海关监管四级主办",
+    "recruitCount": 3,
     "location": "浙江省宁波市",
-    "currentApplicants": 0,
-    "date": "2026-11-14"
-  },
-  {
-    "department": "",
-    "jobTitle": "监管部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "江西省宜春市铜鼓县",
-    "currentApplicants": 1,
-    "date": "2026-11-14"
+    "currentApplicants": 2,
+    "date": "2026-11-15"
   }
 ]
