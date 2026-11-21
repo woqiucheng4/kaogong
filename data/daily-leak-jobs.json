@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "档案利用岗位一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "江苏省南京市",
-    "currentApplicants": 2,
-    "date": "2026-11-20"
-  },
-  {
-    "department": "",
-    "jobTitle": "财会部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "湖北省天门市",
-    "currentApplicants": 2,
-    "date": "2026-11-20"
-  },
-  {
-    "department": "",
-    "jobTitle": "白山边境管理支队一级警长及以下（五）",
+    "jobTitle": "襄阳铁路公安处基层所队民警",
     "recruitCount": 2,
-    "location": "吉林省白山市",
-    "currentApplicants": 2,
-    "date": "2026-11-20"
-  },
-  {
-    "department": "",
-    "jobTitle": "江西业务办公室一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "江西省南昌市",
-    "currentApplicants": 2,
-    "date": "2026-11-20"
-  },
-  {
-    "department": "",
-    "jobTitle": "辖区法律类监管岗位一级主任科员及以下",
-    "recruitCount": 5,
-    "location": "新疆维吾尔自治区乌鲁木齐市",
+    "location": "湖北省",
     "currentApplicants": 0,
-    "date": "2026-11-20"
+    "date": "2026-11-21"
+  },
+  {
+    "department": "",
+    "jobTitle": "西昌铁路公安处基层所队民警",
+    "recruitCount": 2,
+    "location": "四川省凉山彝族自治州",
+    "currentApplicants": 1,
+    "date": "2026-11-21"
+  },
+  {
+    "department": "",
+    "jobTitle": "大同铁路公安处基层所队民警",
+    "recruitCount": 2,
+    "location": "山西省朔州市",
+    "currentApplicants": 0,
+    "date": "2026-11-21"
+  },
+  {
+    "department": "",
+    "jobTitle": "锦州铁路公安处基层所队民警",
+    "recruitCount": 2,
+    "location": "辽宁省锦州市",
+    "currentApplicants": 2,
+    "date": "2026-11-21"
+  },
+  {
+    "department": "",
+    "jobTitle": "海拉尔铁路公安处基层所队民警",
+    "recruitCount": 3,
+    "location": "内蒙古自治区呼伦贝尔市",
+    "currentApplicants": 2,
+    "date": "2026-11-21"
   }
 ]
