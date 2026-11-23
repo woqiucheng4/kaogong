@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "伊尔克什坦出入境边防检查站一级警长及以下（三）",
-    "recruitCount": 2,
-    "location": "新疆维吾尔自治区克孜勒苏柯尔克孜自治州乌恰县",
-    "currentApplicants": 1,
-    "date": "2026-11-21"
-  },
-  {
-    "department": "",
-    "jobTitle": "鹰潭铁路公安处基层所队民警",
-    "recruitCount": 2,
-    "location": "江西省",
-    "currentApplicants": 2,
-    "date": "2026-11-21"
-  },
-  {
-    "department": "",
-    "jobTitle": "法务二级主办及以下",
+    "jobTitle": "一级主办及以下（四）",
     "recruitCount": 1,
-    "location": "江苏省苏州市",
+    "location": "云南省昆明市五华区",
     "currentApplicants": 1,
-    "date": "2026-11-21"
+    "date": "2026-11-23"
   },
   {
     "department": "",
-    "jobTitle": "法规部门一级主任科员及以下",
+    "jobTitle": "和田边境管理支队一级警长及以下（十三）",
     "recruitCount": 2,
-    "location": "辽宁省沈阳市",
-    "currentApplicants": 0,
-    "date": "2026-11-21"
+    "location": "新疆维吾尔自治区和田地区",
+    "currentApplicants": 2,
+    "date": "2026-11-23"
   },
   {
     "department": "",
-    "jobTitle": "一级行政执法员（二）",
+    "jobTitle": "集安出入境边防检查站一级警长及以下（四）",
     "recruitCount": 1,
-    "location": "江西省九江市",
+    "location": "吉林省通化市集安市",
     "currentApplicants": 2,
-    "date": "2026-11-21"
+    "date": "2026-11-23"
+  },
+  {
+    "department": "",
+    "jobTitle": "综合业务四级主办及以下",
+    "recruitCount": 2,
+    "location": "广东省湛江市",
+    "currentApplicants": 1,
+    "date": "2026-11-23"
+  },
+  {
+    "department": "",
+    "jobTitle": "长春出入境边防检查站一级警长及以下（五）",
+    "recruitCount": 1,
+    "location": "吉林省长春市",
+    "currentApplicants": 2,
+    "date": "2026-11-23"
   }
 ]
