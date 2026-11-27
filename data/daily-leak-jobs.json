@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "边检站一级警长及以下（三）",
-    "recruitCount": 1,
-    "location": "天津市",
+    "jobTitle": "边检站一级警长及以下（十七）",
+    "recruitCount": 2,
+    "location": "广东省潮州市",
     "currentApplicants": 1,
-    "date": "2026-11-26"
+    "date": "2026-11-27"
+  },
+  {
+    "department": "",
+    "jobTitle": "监管部门一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "河南省平顶山市鲁山县",
+    "currentApplicants": 1,
+    "date": "2026-11-27"
+  },
+  {
+    "department": "",
+    "jobTitle": "贵阳铁路公安处基层所队民警",
+    "recruitCount": 1,
+    "location": "贵州省",
+    "currentApplicants": 0,
+    "date": "2026-11-27"
   },
   {
     "department": "",
     "jobTitle": "一级警长及以下（一）",
     "recruitCount": 1,
-    "location": "广西壮族自治区南宁市",
-    "currentApplicants": 2,
-    "date": "2026-11-26"
+    "location": "江苏省南京市",
+    "currentApplicants": 0,
+    "date": "2026-11-27"
   },
   {
     "department": "",
-    "jobTitle": "广州铁路公安处基层所队民警",
-    "recruitCount": 4,
-    "location": "广东省韶关市乐昌市",
-    "currentApplicants": 1,
-    "date": "2026-11-26"
-  },
-  {
-    "department": "",
-    "jobTitle": "天津经济技术开发区海关缉私分局一级警长及以下",
+    "jobTitle": "成都铁路公安处基层所队民警",
     "recruitCount": 2,
-    "location": "天津市滨海新区",
-    "currentApplicants": 2,
-    "date": "2026-11-26"
-  },
-  {
-    "department": "",
-    "jobTitle": "档案管理四级主办及以下",
-    "recruitCount": 1,
-    "location": "广东省阳江市",
+    "location": "四川省广元市",
     "currentApplicants": 1,
-    "date": "2026-11-26"
+    "date": "2026-11-27"
   }
 ]
