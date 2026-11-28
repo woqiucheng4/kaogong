@@ -1,42 +1,42 @@
 [
   {
     "department": "",
-    "jobTitle": "边检站一级警长及以下（十七）",
+    "jobTitle": "法制工作四级主办（一）",
     "recruitCount": 2,
-    "location": "广东省潮州市",
+    "location": "山东省青岛市",
+    "currentApplicants": 2,
+    "date": "2026-11-28"
+  },
+  {
+    "department": "",
+    "jobTitle": "综合管理处一级主任科员及以下",
+    "recruitCount": 1,
+    "location": "黑龙江省哈尔滨市",
     "currentApplicants": 1,
-    "date": "2026-11-27"
+    "date": "2026-11-28"
   },
   {
     "department": "",
-    "jobTitle": "监管部门一级主任科员及以下",
-    "recruitCount": 1,
-    "location": "河南省平顶山市鲁山县",
-    "currentApplicants": 1,
-    "date": "2026-11-27"
-  },
-  {
-    "department": "",
-    "jobTitle": "贵阳铁路公安处基层所队民警",
-    "recruitCount": 1,
-    "location": "贵州省",
-    "currentApplicants": 0,
-    "date": "2026-11-27"
-  },
-  {
-    "department": "",
-    "jobTitle": "一级警长及以下（一）",
-    "recruitCount": 1,
-    "location": "江苏省南京市",
-    "currentApplicants": 0,
-    "date": "2026-11-27"
-  },
-  {
-    "department": "",
-    "jobTitle": "成都铁路公安处基层所队民警",
+    "jobTitle": "西昌铁路公安处基层所队民警",
     "recruitCount": 2,
-    "location": "四川省广元市",
+    "location": "四川省凉山彝族自治州",
     "currentApplicants": 1,
-    "date": "2026-11-27"
+    "date": "2026-11-28"
+  },
+  {
+    "department": "",
+    "jobTitle": "一级主任科员及以下",
+    "recruitCount": 2,
+    "location": "广东省广州市",
+    "currentApplicants": 1,
+    "date": "2026-11-28"
+  },
+  {
+    "department": "",
+    "jobTitle": "西昌铁路公安处基层所队民警",
+    "recruitCount": 3,
+    "location": "四川省",
+    "currentApplicants": 0,
+    "date": "2026-11-28"
   }
 ]
